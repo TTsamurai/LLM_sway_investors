@@ -1,0 +1,33 @@
+### Summary Report: ResMed Earnings Conference Call - Q2 Fiscal Year 2017
+
+**Key Financial Metrics:**
+
+- **Double-Digit Revenue Growth**: ResMed reported solid double-digit global revenue growth this quarter, attributed primarily to strong sales from its Brightree services and robust growth in device platforms. 
+- **Earnings Per Share**: The non-GAAP diluted earnings per share (EPS) was $0.73, reflecting a growth of 13% year-over-year.
+- **Net Operating Profit**: On a non-GAAP basis, net operating profit grew by 13% compared to the same quarter last year.
+
+**Product Innovation and Regulatory Approvals:**
+- **Launch of AirFit Masks**: ResMed launched its new mask technologies during the quarter, including the AirFit N20 nasal mask and AirFit F20 full face mask featuring the Infinity Seal technology.
+- **FDA Clearance**: The company received FDA clearance for the ResMed AirMini, touted as the world's leading travel-friendly sleep apnea technology.
+
+**Operational Highlights:**
+- **Product Milestones**: ResMed announced having amassed over 1 billion nights of sleep data on its cloud-based platform AirView. Also, they now manage over 2 million cloud-connected medical devices.
+- **Technological Advances**: Significant improvement in fit and comfort technology in the mask products due to Infinity Seal technology.
+
+**Regional Performance:**
+- **Americas**: Double-digit growth in revenue spearheaded by software-as-a-service (SaaS) revenue from Brightree and a 13% growth in devices.
+- **EMEA and APAC**: Strong growth driven by Flow Generator sales, although mask sales were notably lower year-over-year due to previous high comparisons and slower uptake of new mask technologies.
+
+**Strategic Initiatives:**
+- **Software-as-a-Service (SaaS)**: Brightree continued its strong performance aligned with ResMed’s acquisition model showing grow in the low-to-mid teen percentages.
+- **2020 Growth Strategy**: Heading towards optimizing core sleep apnea business leveraging digital health solutions, Cloud-connected care focused on respiratory care with the aim to reduce hospitalization costs from COPD. Third growth horizon focused on chronic disease management including sleep and wellness.
+
+**Market Outlook and Future Plans:**
+- **Growth Expectations for Upcoming Quarters**: ResMed anticipates continued ramp-up in the supply and demand of the newly launched mask technologies and expects strong global demand to positively affect future sales into FY 2018 and beyond.
+- **Increasing Footprint in Digital Health**: Focus on implementing algorithms to turn vast data into actionable insights for enhanced patient care and reduced healthcare provider costs.
+
+**Leadership Commentary:**
+During the earnings call, leadership expressed optimism about the continuing successful integration of acquisitions like Brightree and emphasized ongoing efforts in innovation and market expansion. They highlighted ongoing focus areas including enhancing connectivity in care, and extending market share through advanced technologies in CPAP and respiratory care solutions.
+
+**Conclusion:**
+ResMed's financial performance in the second quarter of fiscal year 2017 features strong growth in both revenue and operational efficiency, propelled by successful product launches and strategic regional expansions. The company is well-positioned for sustained growth in the digital health and connected care sectors, along with anticipated benefits from strategic acquisitions and enhanced product offerings.

@@ -1,0 +1,55 @@
+### Earnings Conference Call Summary Report
+
+**Date**: First Quarter 2017  
+**Company**: SCANA Corporation  
+**Presenter**: Iris (Moderator), Company Executives
+
+#### Key Financial Highlights:
+
+1. **Earnings Per Share (EPS)**:
+   - Q1 2017: $1.19 per share
+   - Q1 2016: $1.23 per share
+   - **Analysis**: EPS decreased by $0.04 per share year-over-year.
+
+2. **Revenue Drivers**:
+   - **Electric and Gas Margins**:
+     - Increased due to the Base Load Review Act rate increase and customer growth.
+     - Higher gas margins from rate increases and customer growth at SCE&G and PSNC Energy.
+   - **Impact of Weather**:
+     - Mild weather significantly impacted earnings, with a $0.24 per share decrease in electric margins due to abnormal weather conditions in Q1 2017 compared to a $0.05 impact in Q1 2016.
+
+3. **Operating Expenses and Other Income**:
+   - Positive shifts in Operations & Maintenance (O&M) and other income were offset by increased capital expenditures, depreciation, and property taxes.
+
+4. **Business Segment Performance**:
+   - **SCE&G**: Earnings decreased due to milder weather, partially offset by increased electric and gas margins.
+   - **PSNC**: Earnings increased primarily due to customer growth and rate increase.
+   - **SCANA Energy**: Earnings decreased due to the substantially milder weather in Q1 2017.
+
+5. **Economic Trends and Unemployment Rates**:
+   - Investments of approximately $200 million expected to create over 1,700 jobs in North and South Carolina.
+   - South Carolina’s unemployment rate at 4.4%; stable rates in North Carolina (4.9%) and Georgia (5.1%).
+
+6. **Customer and Sales Growth**:
+   - Customer growth in electric and regulated gas businesses.
+   - Weather-normalized retail sales were relatively flat year-over-year.
+
+7. **Regulatory Rate Base and Returns**:
+   - Total regulated rate base approximately $11 billion.
+   - SCE&G’s base electric business allowed a 10.25% return on equity, currently achieving 9% or higher.
+   - Adjustments in return on equity for new nuclear business under the Base Load Review Act from 11% to 10.25%.
+
+8. **Capital Expenditure (CapEx) and Financing**:
+   - Consistent CapEx forecast through 2019.
+   - Estimated financing includes debt and equity issuances influenced by Section 174 income tax deductions.
+   - Adjustments expected upon completion of new nuclear project evaluation.
+
+9. **Earnings Guidance**:
+   - 2017 GAAP adjusted weather normalized EPS guidance: $4.15 to $4.35.
+   - Long-term annual growth target: 4% to 6% based on 2016’s GAAP adjusted weather normalized EPS of $3.97.
+
+#### Future Expectations:
+- Continued evaluation of the new nuclear project with decisions impacting future financial projections and strategic direction.
+- Commitment to providing timely updates and maintaining operational efficiency and safety.
+
+This summary provides an integrated view of SCANA's financial performance and outlook, detailing critical financial metrics, business performance, and strategic initiatives influencing the company’s trajectory. Further updates will be provided as more information becomes available, especially concerning the ongoing assessments of the new nuclear project.

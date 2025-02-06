@@ -1,0 +1,40 @@
+### Hewlett Packard Enterprise Q3 Fiscal Year 2021 Earnings Summary Report
+
+**Overall Financial Performance:**
+- **Revenue:** Maintained at $6.9 billion, aligning with company projections and seasonal trends.
+- **Earnings Per Share (EPS):** Non-GAAP EPS increased by 31% year-over-year to $0.47, exceeding expectations.
+- **Free Cash Flow:** Achieved a record year-to-date free cash flow of $1.5 billion, which is $1.1 billion higher than the previous year.
+- **Dividends and Share Buybacks:** Paid $157 million in dividends and declared a Q4 dividend of $0.12 per share. Resumed share buybacks with a target of $250 million in Q4.
+
+**Key Business Segments:**
+1. **Intelligent Edge:**
+   - **Revenue Growth:** 23% year-over-year, driven by strong demand in secure connectivity solutions.
+   - **Orders:** Hit record levels with backlog five times greater than the previous year.
+   - **Strategic Developments:** Launched new features for Aruba ESP and captured key customer contracts.
+
+2. **High-Performance Compute & Mission-Critical Solutions (HPC/MCS):**
+   - **Revenue Growth:** Increased by 9% year-over-year.
+   - **Orders:** Secured a record book exceeding $2.5 billion, including a substantial NSA contract.
+   - **Innovations:** Strengthened AI capabilities through acquisitions and expanded HPE GreenLake offerings.
+
+3. **Compute & Storage:**
+   - **Revenue:** Compute and storage orders grew by mid-single digits year-over-year.
+   - **Margins:** Operating margins for Compute and Storage recorded at 11.2% and 15.1%, respectively.
+   - **New Offerings:** Introduced new cloud-based management services and acquired Zerto to enhance cloud data services.
+
+**Strategic Initiatives and Innovations:**
+- **HPE GreenLake:**
+  - **Customer Growth:** Surpassed 1,100 customers with a 33% year-over-year increase in ARR ($705 million).
+  - **New Developments:** Introduced HPE GreenLake Lighthouse and Project Aurora, enhancing security and cloud capabilities.
+  
+- **M&A Activities:**
+  - Acquired Determined AI and Ampool to bolster AI and analytics capabilities within the HPE portfolio.
+
+**Market and Future Outlook:**
+- **Raised FY 2021 Guidance:**
+  - **EPS:** Adjusted to $1.88 - $1.96 based on robust Q3 results.
+  - **Free Cash Flow:** Guidance increased to $1.5 billion - $1.7 billion.
+- **Supply Chain Management:** Proactive measures taken to mitigate ongoing global supply constraints expected to persist into mid-2022.
+
+**Conclusion:**
+Q3 FY21 results demonstrate strong performance across core and growth business segments, with significant advancements in strategic initiatives such as HPE GreenLake Cloud Services. HPE’s focused investments in high-growth areas and operational efficiencies have positioned the company for sustained growth amidst a dynamic market environment. The raised guidance reflects both the confidence in continued momentum and the strategic alignment to meet evolving market demands.

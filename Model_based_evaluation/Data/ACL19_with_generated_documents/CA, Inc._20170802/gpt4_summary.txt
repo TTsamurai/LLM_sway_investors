@@ -1,0 +1,42 @@
+### Earnings Conference Call Summary Report - Q1 Fiscal Year
+
+**Performance Overview:**
+- The company displayed a robust fiscal first quarter performance, as highlighted by positive results across several key financial metrics:
+  - **Total Revenue**: $1.025 billion, up 3% year-over-year and 4% in constant currency.
+  - **GAAP Operating Margin**: 26%, demonstrating operational efficiency.
+  - **Non-GAAP Operating Margin**: 37%, indicating strong profitability excluding specific adjustments.
+  - **GAAP Diluted Earnings Per Share (EPS)**: $0.42, a decrease of 11% year-over-year.
+  - **Non-GAAP Diluted EPS**: $0.61, down 5% as reported.
+  - **Cash Flow from Operations (CFFO)**: $298 million, a significant increase of 54% year-over-year.
+
+**Segment Performance:**
+- **Mainframe Solutions**: Revenue declined by 3% as reported due to a smaller renewal portfolio, although margins remained robust at 65%.
+- **Enterprise Solutions**: Showed a modest decline in new sales by low-single digits; however, revenue grew by 12% influenced by recent acquisitions.
+- **Services**: Revenue decreased by 3%, influenced by streamlined operations making services less required.
+
+**Key Influencers on Performance:**
+- A substantial difference in the booking-related metrics was due to the non-recurring large renewal transaction from FY2017, underscoring lower total and organic new sales.
+- The acquisitions of Automic and Veracode substantially outperformed expectations, contributing positively to the revenue growth and diversification strategy of the company.
+- The service segment's decline is poised to stabilize as the year progresses, reflecting the efficacy of recent product enhancements that simplify installation and management processes.
+
+**Acquisitions Impact:**
+- Acquisitions added approximately 6 percentage points to the total revenue growth.
+- Automic and Veracode, in particular, bolstered the Enterprise Solutions revenue and overall business expansion opportunities.
+
+**Guidance for Full Year:**
+- **Total Revenue**: Expected to increase by approximately 4%, both as reported and in constant currency, translating to a projected $4.20 billion to $4.23 billion.
+- **GAAP & Non-GAAP Operating Margin**: Anticipated to be between 26-27% and 36-37% respectively.
+- **Tax Rate**: Projected to be between 28-29% for both GAAP and non-GAAP measures.
+- **Diluted EPS**: Forecasted GAAP EPS to decrease between 8% to 5%, with non-GAAP EPS potentially flat to down 2%.
+- **CFFO**: Predicted to rise by 1% to 5%, year-over-year.
+
+**Dividends and Share Repurchases:**
+- The company disbursed $107 million in dividends.
+- No share repurchases conducted this quarter, with the remaining authorization at $650 million.
+
+**Strategic Outlook:**
+- The company remains committed to its acquisition strategy and operational efficiency initiatives to drive sustainable growth.
+- The enhanced focus on product integration and market expansion through acquisitions like Automic and Veracode is expected to fortify the company's competitive position.
+
+### Conclusion:
+Despite the challenges posed by year-over-year fluctuations primarily due to prior large deals, the company successfully managed to exceed expectations, driven by strategic acquisitions and operational optimizations. Looking forward, the company is well-positioned to sustain its growth trajectory while adapting to market demands and leveraging new business opportunities.

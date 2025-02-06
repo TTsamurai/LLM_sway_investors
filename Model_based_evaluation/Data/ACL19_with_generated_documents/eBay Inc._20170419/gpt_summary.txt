@@ -1,0 +1,11 @@
+From the recent earnings conference call transcripts, it is evident that eBay has seen growth in various aspects of its revenue. Net revenues were reported at $2.2 billion, up 7% on an FX neutral basis, with transaction revenue up 6% and marketing services and other revenue up 9%. Total Marketplace revenue was $1.8 billion, showing growth of 5% year-over-year.
+
+In terms of expenses, eBay reported a non-GAAP operating margin of 30%, down 340 basis points versus last year. This was driven by a 110 basis points decrease in both product development and G&A. Foreign exchange impact was felt across all spend categories.
+
+The company generated $447 million of free cash flow in Q1, which was down 7% year-over-year due to lower net income and differences in the timing of cash tax payment. eBay remains disciplined in its capital allocation, with a recent partnership with Flipkart and a $500 million investment in eBay India, which is expected to significantly improve its competitive position in the Indian market.
+
+For the second quarter, eBay expects GAAP EPS in the range of $0.20 to $0.40 and non-GAAP EPS of $0.43 to $0.45, representing year-over-year growth of 0% to 5%. The difference between non-GAAP and GAAP EPS primarily consists of amortization of intangible stock-based compensation and tax impacts from the ongoing legal structure realignment.
+
+Looking ahead, eBay expects acceleration in its Marketplaces platform and significant progress in redefining the eBay user experience and brand. The company is also seeing positive early signs from its structured data pages on SCO contributing to new buyer growth.
+
+In conclusion, eBay has seen growth in various revenue metrics and is focused on making strategic investments to drive improved user experiences and brand marketing. The company's financial outlook for the year remains unchanged as it continues to execute on its strategy. However, it acknowledges that growth may not be perfectly linear, but remains optimistic about active buyer growth and future acceleration in GMV.

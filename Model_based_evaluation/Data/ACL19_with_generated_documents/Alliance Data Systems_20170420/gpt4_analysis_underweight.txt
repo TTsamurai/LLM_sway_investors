@@ -1,0 +1,35 @@
+### Future Outlook Report: Underweight Investment Stance on the Company
+
+#### Overview
+In our recent review of the company’s first-quarter earnings of 2017, several key insights and financial metrics have been surfaced that influence our investment stance. Despite observing positive trends in certain segments, several underlying challenges spread across various divisions warrant a cautious approach.
+
+#### Financial Performance Highlights
+
+1. **Revenue and Earnings Performance**:
+   - Revenue grew by 12% to $1.88 billion, and Core EPS increased by 2% to $3.91, surpassing initial guidance for Q1. However, this increase also encapsulated some inconsistencies across divisions.
+   - The Card Services Division showed a strong growth in revenue by 22% driven by higher gross yields, however accompanied by notable high credit costs.
+   - Conversely, LoyaltyOne and specifically AIR MILES experienced a decline with revenues down by 6% and adjusted EBITDA down by 32%, suggesting a diminishing profitability in this program’s current configuration.
+
+2. **Operational Challenges and Concerns**:
+   - AIR MILES’s adjusted EBITDA drop reflecting the lower breakage rate and ongoing issues with program resets could indicate deeper issues regarding consumer engagement and program effectiveness.
+   - The decline in adjusted EBITDA for BrandLoyalty and elevated burn rates in redemption activities spell potential troubles in maintaining customer loyalty and effectively monetizing engagement practices.
+
+3. **Credit Risks and Capital Allocation**:
+   - The provision for credit losses in Card Services showed an unusually high increase at $72 million despite growing revenues, suggesting potential underestimation of credit risk and sensitivity to loan defaults.
+   - Capital allocation to share repurchases amounted to $415 million, which, while showcasing confidence, raises concerns about prioritization of capital usage especially taken into consideration with the rising operational costs and declining efficiencies in certain core activities.
+
+#### Future Outlook Considerations:
+1. **Technology and Market Trends**:
+   - Epsilon, though showing a recent uptick, has experienced significant volatility. Technological stability and client attrition rates need regular monitoring to gauge if recent positive developments manifest into long-term stability.
+   - The introduction of new CRM offerings and digital enhancements in card services demonstrates alignment with shifting consumer behaviors and digital adoption. However, the returns on these tech advances and their integration into overall business strategy need to be evaluated continually.
+
+2. **Market and Consumer Dynamics**:
+   - Trends indicating a reduction in active collectors for AIR MILES and the focus on low-cost mile redemption strategies might not be sustainable for nurturing a premium consumer base.
+   - The evolving retail landscape and digital consumption patterns require an agile response from the company. While there is solid growth in digital channel credit sales, the adaptation in loyalty and brand strategies to these new environments needs expedited improvements.
+
+3. **Risk Management and Cost Control**:
+   - Given the volatility in credit provisioning and unclear impacts from interest rate adjustments, the company’s risk management strategies, especially in Card Services, need overshoot provisions.
+   - Costs related to offshoring in the Indian market, particularly in Epsilon, requires thorough impact assessment to understand long-term gains or potential quality and integration challenges.
+
+### Investment Recommendation: Underweight
+Based on the outlined insights and considerations, we adopt an ‘underweight’ investment stance on the company. The sustainability of current fiscal strengths against operational inconsistencies, and the execution risks concerning strategic initiatives, especially in technological integration and customer loyalty programs, supports a cautious investment approach. Future company focus should aggressively align towards EBITDA growth recovery, credit risk containment, and driving efficiencies in loyalty programs to ensure stability and growth in market valuation.

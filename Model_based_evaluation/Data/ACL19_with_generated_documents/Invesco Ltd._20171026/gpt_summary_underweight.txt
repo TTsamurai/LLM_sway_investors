@@ -1,0 +1,9 @@
+As a financial analyst, after reviewing the earnings conference call transcript, I would recommend adopting an 'underweight' investment stance on the company. This recommendation is based on the following key financial metrics:
+
+- Total AUM increased by 6.9% quarter-over-quarter, driven mostly by the acquisition of Source ETF which added 26 billion. However, the increase in AUM was somewhat offset by a small outflow from the QQQs.
+- Long-term net inflows were positive, but there were also outflows from the QQQs and a decrease in other revenues which reduced the overall net revenue yield.
+- Adjusted investment management fees decreased by 5.3% to 1.08 billion, reflecting higher average AUM and additional management fees from the acquisition of Source. However, the decrease in fees is a concerning metric.
+- Adjusted operating expenses increased by 5.3% relative to the second quarter, driven by increased employee compensation, marketing expenses, and property, office, and tech expenses.
+- The effective tax rate on pre-tax adjusted net income in Q3 came in at 27.6%, slightly higher than guidance, which will impact the company's overall profitability.
+
+Overall, while there are positive aspects to the company's financial performance, such as long-term net inflows, the decrease in investment management fees and the increase in operating expenses are concerning. Additionally, the higher effective tax rate will impact the company's bottom line. Therefore, an 'underweight' investment stance is recommended at this time.

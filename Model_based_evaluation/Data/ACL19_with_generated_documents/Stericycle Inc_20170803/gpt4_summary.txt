@@ -1,0 +1,59 @@
+### Summary Report on Q2 Earnings Conference Call 
+
+**Key Financial Metrics:**
+
+- **Global Revenues**: 
+  - Total: $917.7 million, up 2.9% year-over-year.
+  - Drivers: Acquisitions contributed $8.6 million; divestitures reduced revenues by $0.8 million.
+
+- **Organic Growth**:
+  - Total: 4.1% adjusted for foreign exchange, acquisitions, divestitures, and specific sector impacts.
+  - Domestic and Canada: 5.1% adjusted for foreign exchange and acquisitions.
+  - International: -2.7% adjusted for foreign exchange, acquisitions, and divestitures.
+
+- **Gross Profit**: 
+  - Total: $381.8 million, representing 41.6% of revenues.
+
+- **Operating Expenses**:
+  - Adjusted SG&A (excluding amortization): $198.7 million, or 21.6% of revenues.
+  - EBITA (Earnings Before Interest, Taxes, and Amortization): $183.1 million, or 20% of revenues.
+
+- **Net interest expense**: $23.7 million.
+- **Tax Rates**:
+  - Reported: 33.8%.
+  - Adjusted: 37.1%.
+
+- **Net Loss attributable to Stericycle**: 
+  - Total: $148.8 million or $1.74 per share (primarily due to the proposed class action settlement).
+  - Adjusted Earnings Per Share: $1.15.
+
+- **Balance Sheet Metrics**:
+  - Covenant Debt to EBITDA ratio: 3.46.
+  - Unused portion of the revolver: Approx. $676 million.
+
+- **Share Repurchases**: 
+  - In Q2: 175,500 shares of mandatory preferred convertible at $12.6 million.
+
+- **Cash Flow and Capital Expenditures**:
+  - Year-to-date cash from operations: $237.1 million (adjusted $284.4 million).
+  - CapEx: $63.1 million year-to-date, $30 million in Q2 (3.5% and 3.3% of revenues respectively).
+
+- **Days Sales Outstanding (DSO)**: 63 days.
+
+**Outlook and Guidance**:
+- **Full Year 2017 EPS Guidance**: Updated to $4.55 to $4.69, from initial $4.55 to $4.75, reflecting adjustments due to foreign exchange impacts and divestiture activities.
+- **Q3 EPS Guidance**: Ranging from $1.13 to $1.19.
+- **Capital Allocation Strategy**: Continued emphasis on debt reduction, despite adjustments in financial covenants that allow a one-time EBITDA add-back. No significant change in capital allocation strategy expected.
+
+### Additional Notes:
+- **Operational Challenges**: International growth affected by the termination of certain contracts and sector-specific challenges.
+- **M&A Activity**: Six acquisitions noted, with a mix of domestic and international focuses primarily in regulated medical waste and secure information destruction sectors.
+- **Forecast Adjustments**: Moderate guidance adjustments based on Q2 outcomes and expected fiscal trends, including FX impacts and business segment performance.
+
+**Strategy for Future**:
+- Continued focus on debt reduction.
+- Evaluation phase for ERP system implementation set to conclude by end of year.
+- Operational adjustments based on pricing dynamics and market conditions in both SQ (small quantity) and LQ (large quantity) markets.
+
+### Conclusion:
+The company is navigating through a mix of challenges and strategic initiatives, including legal settlements and market adjustments. The adjustments in guidance reflect a cautious but realistic approach to the evolving market conditions and internal operational metrics. Continued focus on strategic acquisitions and operational efficiencies remains paramount.

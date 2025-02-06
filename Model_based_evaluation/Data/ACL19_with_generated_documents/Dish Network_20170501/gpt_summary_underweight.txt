@@ -1,0 +1,7 @@
+Given the recent earnings conference call transcript, there are several key financial metrics that indicate a negative outlook for investment in DISH. The completion of the transaction with EchoStar has resulted in a modestly accretive impact on free cash flow due to the elimination of EchoStar's profit margin and other efficiency initiatives. However, the impact of the transaction on the income statements and balance sheet, including adjustments to PP&E and inventory, suggests a potential decrease in overall profitability.
+
+Furthermore, the shift away from the wholesale model for dishNET and the decline in broadband subscriber count related to the Hughes service due to customer attrition indicate potential challenges in maintaining and growing the customer base. The pivot away from the wholesale model also impacts the SAC (subscriber acquisition cost) and overall profitability.
+
+Additionally, the shift in subscriber behavior towards smaller and less expensive packaging, as well as the lower ARPU (average revenue per user) from Sling TV subscribers, suggests a potential decline in revenue growth and profitability. The inability to quantify the impact of litigation settlements on the G&A line further adds uncertainty to the financial performance.
+
+Overall, based on the discussed financial metrics and the company's strategic shifts, an 'underweight' investment stance is recommended for DISH.

@@ -1,0 +1,28 @@
+### Future Outlook Report: Underweight Recommendation for SCANA Corporation
+
+#### Executive Summary
+This report provides a future outlook for SCANA Corporation and adopts an 'underweight' investment stance. This recommendation is based on key insights and financial metrics derived from the company's recent earnings conference call transcript and other disclosed financial data.
+
+#### Financial Overview
+- **Earnings Performance**: SCANA reported an earnings increase in Q2 2017 to $0.85 per share from $0.74 in Q2 2016. However, earnings were bolstered by temporary factors such as rate increases and customer growth that may not sustain long-term.
+- **Impact of Weather**: Weather has been a significant factor in earnings variability. The less extreme weather in 2017 impacted electric margins negatively, suggesting potential volatility in future earnings.
+- **Operational Costs**: Despite some reduction in O&M expenses, there are notable increases in interest expense, depreciation, and property taxes partially offsetting profit margins.
+
+#### Strategic Challenges
+- **Nuclear Project Abandonment**: The decision to cease construction and pursue abandonment of the new nuclear project introduces substantial financial uncertainty. The associated wind down activities, write-offs, and adjustments present significant risks.
+- **Regulatory and Rate Base Concerns**: The company’s earnings are sensitive to regulatory decisions. The recent filing for rate increases due to lower earned ROEs indicates potential instability in achieving allowed returns.
+
+#### Market and Economic Conditions
+- **Employment Trends**: While declining unemployment in SCANA’s service territories (South Carolina, North Carolina, Georgia) is positive, it may not sufficiently drive demand to offset the increased operational costs and investment risks.
+- **Customer Growth**: Although the company reports strong customer growth, the reliance on this factor amidst operational and strategic challenges may not sustain long-term profitability.
+
+#### Financial Projections and Guidance
+- **Earnings Guidance**: SCANA has reiterated a GAAP adjusted, weather-normalized earnings guidance range of $4.15 to $4.35 per share for 2017. However, this forecast assumes no further adverse developments from regulatory pressures or operational inefficiencies.
+- **Long-term Growth**: The company targets a 4% to 6% earnings growth over three to five years, which is optimistic given the current strategic and operational challenges.
+
+#### Investment Stance: Underweight
+- **Risk Factors**: Given the uncertainties from the nuclear project abandonment, regulatory challenges, and dependency on weather conditions, the investment risks are heightened.
+- **Growth Uncertainty**: While SCANA shows potential for customer growth and operational improvements, the prevailing risks overshadow the growth prospects.
+
+#### Conclusion
+Based on the comprehensive analysis of SCANA’s financial health, strategic direction, and external economic conditions, it is advisable to adopt an 'underweight' investment stance. Investors should be cautious of the elevated risks and monitor the company’s ability to manage the aftermath of the nuclear project abandonment and navigate regulatory complexities.

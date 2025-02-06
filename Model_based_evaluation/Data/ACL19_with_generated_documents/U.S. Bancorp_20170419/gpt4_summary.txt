@@ -1,0 +1,39 @@
+**Summary Report on Earnings Conference Call - First Quarter Review**
+
+1. **Loan Growth Trends:**
+    - **Overall Loan Growth:** Average total loans increased by 0.2% on a quarter-on-quarter (QoQ) basis and by 4.1% year-over-year (YoY).
+    - **Retail Leasing and Residential Mortgages:** Showed strong growth.
+    - **Commercial and Commercial Real Estate Loans:** Experienced modest declines, slightly offsetting overall loan growth.
+    
+2. **Deposits and Interest Rates:**
+    - **Deposits:** Total average deposits decreased by 0.2% QoQ but increased by 11.0% YoY.
+    - **Interest Rate Impacts:** The interest-bearing deposit beta is currently 20%, projected to gradually rise to 50% with more rate hikes.
+
+3. **Credit Quality:**
+    - Stable credit quality reported.
+    - Increase in Net charge-offs to 50 basis points in Q1 from 47 basis points in Q4 2016.
+    - Non-performing assets (NPAs) decreased by 6.7% QoQ and represented 55 basis points as a percentage of total loans plus other real estate, a 4 basis point improvement.
+
+4. **Sector-Specific Highlights:**
+    - **Auto Lending:** Remains stable with high credit quality (average FICO score over 770), focusing on prime loans.
+    - **Retail Industry:** Concerns acknowledged, but with limited exposure (3.4% of commitments) and primarily to investment grade clients.
+
+5. **Earnings Overview:**
+    - **Net Income:** $1.5 billion in Q1, flat QoQ but up 6.3% YoY.
+    - **Revenue:** Down by 2.0% QoQ but up by 5.7% YoY, driven by strong loan and deposit growth and fee-based business areas.
+    - **Net Interest Income:** $3.0 billion, stable QoQ but up 3.7% YoY.
+
+6. **Non-Interest Income and Expenses:**
+    - **Non-Interest Income:** Decreased by 4.2% QoQ due to seasonal patterns and decrease in mortgage banking revenue.
+    - **Non-Interest Expense:** Decreased by 2.0% QoQ; increased by 7.1% YoY due to higher compensation and ongoing investments in risk management and business growth.
+
+7. **Capital Position:**
+    - **Common Equity Tier 1 Capital Ratio:** Estimated at 9.2%, well above regulatory minimum requirements.
+    - **Payout Ratio:** 78% of earnings returned to shareholders; target is 60%-80%.
+
+8. **Forward-Looking Statements:**
+    - Moderate growth expected in net interest income in Q2, with improvements projected in commercial loan growth.
+    - Expectations of stable credit quality and increased loan loss provisions aligned with loan growth.
+    - Anticipate a taxable income tax rate of about 28% for Q2.
+
+The detailed analysis provides insights into various operational and financial metrics, emphasizing the adjustments in strategic activities, particularly in lending practices and capital management, to adapt to changing market conditions and regulatory landscapes.

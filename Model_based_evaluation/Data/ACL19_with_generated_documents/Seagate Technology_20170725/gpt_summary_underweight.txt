@@ -1,0 +1,27 @@
+
+
+Analysis and Underweight Investment Stance:
+
+Key Financial Metrics:
+1. Revenue for June quarter: Approximately $2.4 billion
+2. GAAP gross margins: 27.7%
+3. Non-GAAP gross margins: 28.9%
+4. Net income: $114 million
+5. Diluted earnings per share: $0.38
+6. HDD exabyte shipments: 62 exabytes
+7. Average capacity per drive: 1.8 terabytes per drive
+8. ASPs per unit: $64
+9. Cash flow from operations for the quarter: $243 million
+10. Free cash flow: $139 million
+11. Non-GAAP operating expenses: $422 million
+12. Forecasted revenues for September quarter: $2.5 billion - $2.6 billion
+13. Gross margin expectations for September quarter: 29% - 33%
+14. Forecasted non-GAAP operating expenses for September quarter: $415 million
+
+Based on the information provided in the transcript, it is evident that Seagate faced challenges in meeting the top-line targets in the June quarter. Although operational improvements were made in fiscal year 2017, the company underperformed in revenue targets for the quarter. Additionally, the impact of significant price increases in the memory markets led to softness in enterprise customer demand.
+
+The forecast for the September quarter remains cautious due to the persistent end-to-end supply chain issues affecting traditional enterprise spending and other affected markets. While there is optimism for a stronger back half of the year, Seagate is not on track to meet its previous non-GAAP EPS guidance for calendar year 2017.
+
+The company's gross margins were impacted, and although there are expectations for improvement in the second half of the year, the overall margin structure remains a concern. Additionally, operational expenses are expected to trend downwards sequentially, which could affect the company's profitability.
+
+In light of these financial metrics and the cautious outlook provided by Seagate, an underweight investment stance is recommended. The company's performance in the recent quarter and the forecast for the next quarter indicate potential challenges in meeting financial targets and sustaining profitability. Therefore, it is advisable to be cautious with investments in Seagate until there is a clearer indication of sustained financial performance and margin improvement.

@@ -1,0 +1,64 @@
+# Summary Report: Q2 Earnings Conference Call
+
+## Financial Highlights - Q2 Results
+
+### Revenue Overview
+- **Total Revenue:** $1.5 billion, a 5% increase from the previous year.
+- **Product Sales:** $848 million, up 6%, primarily driven by the Americas.
+- **Services Revenue:** $649 million, up 3%, influenced by currency headwinds.
+
+### Earnings Overview
+- **GAAP Operating Earnings:** $257 million, up 15% from last year.
+- **Non-GAAP Operating Earnings:** Increased by $4 million to $328 million.
+- **GAAP EPS:** Increased by 28% to $0.78.
+- **Non-GAAP EPS:** Increased by 9% to $1.12.
+
+### Operating Metrics
+- **Operating Margins:** Declined by 80 basis points to 21.9%.
+- **Product Segment Operating Income:** Increased to 22.8% of sales.
+- **Services Operating Margin:** Dropped to 20.8% primarily due to Airwave-related issues.
+
+### Backlog
+- **Ending Backlog:** $8.5 billion, up $265 million from the previous year.
+- **Products Segment Backlog:** $1.6 billion, a 15% increase.
+- **Services Segment Backlog:** $6.9 billion, a slight increase.
+
+### Cash Flow and Capital Returns
+- **Operating Cash Flow:** $173 million, a notable decrease due to working capital timing.
+- **Free Cash Flow:** $120 million, also seeing a decrease.
+- **Stock Repurchases:** $80 million worth of stock repurchased.
+- **Dividends:** Paid $77 million.
+
+### Other Financial Metrics
+- **Total Operating Expenses (OpEx):** $367 million, slightly up from last year.
+- **Net Interest Expense:** Reduced to $51 million.
+- **Effective Tax Rate:** Stood at 31.6%.
+
+## Strategic Developments
+
+- **Acquisitions:** Announced intent to acquire Airbus PlantCML business.
+- **Product Developments:** Strong demand observed for P25 LMR systems. Achievements include various large contract wins and the certification of the LEX F10 FirstNet device.
+- **Partnerships:** FirstNet partnership agreement with AT&T progressed, with significant state participations.
+
+## Outlook for Q3 and Future Guidance
+
+- **Expected Q3 Sales Growth:** Between 3% to 4%.
+- **Projected Q3 Non-GAAP EPS:** Ranges from $1.36 to $1.41.
+- **Full-Year 2017 Forecasts:** 
+  - **Sales Growth:** Adjusted to 3% to 4%.
+  - **Non-GAAP EPS:** Upgraded to between $5.20 and $5.30.
+  - **Operating Cash Flow:** Anticipated to be about $1.225 billion.
+
+## Key Challenges and Operational Notes
+
+- **Gross Margins:** Expected to be similar to last year despite lowered Q2 margins.
+- **ERP System Implementation:** Encountered some inefficiencies and higher inventory costs, expected to stabilize by the end of Q3.
+- **OpEx Control:** Includes tactical reductions and management of acquisition-related expenses.
+
+## Regional Performance and Notable Contracts
+
+- **Americas:** 7% revenue growth.
+- **EMEA:** Slight decline due to currency effects, though product sales increased.
+- **Asia Pacific:** Mild growth, powered by strong product demand in Australia.
+
+This summary encapsulates crucial financial outcomes, strategic movements, and forward-looking statements as discussed during the Q2 earnings call. The management remains optimistic about growth prospects while continually managing operational challenges effectively.

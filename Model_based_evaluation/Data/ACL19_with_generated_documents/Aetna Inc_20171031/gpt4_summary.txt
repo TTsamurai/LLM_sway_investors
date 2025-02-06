@@ -1,0 +1,50 @@
+In your role as a financial analyst tasked with summarizing a recent earnings conference call, here are the key financial metrics and notes gathered from the discussion provided in the transcript:
+
+### Third Quarter 2017 Financial Highlights:
+- **Adjusted Earnings**: $814 million
+- **Adjusted Earnings per Share (EPS)**: $2.45
+  - Represents an 18% growth year-over-year.
+- **Adjusted Revenue**: $14.9 billion
+  - This reflects a year-over-year decrease primarily due to a planned reduction in Commercial ACA insured membership and other factors.
+- **Medical Membership**: 22.2 million
+- **Health Medical Benefit Ratio**: 81.9% (10 basis points improvement compared to the same period last year).
+- **Adjusted Pre-Tax Margin**: 9.2%
+- **Adjusted Expense Ratio**: 17.5%
+- **Capital Deployment**: 
+  - $166 million distributed through quarterly shareholder dividend.
+  - $545 million spent on share repurchases.
+  - Approximately $4.3 billion returned to shareholders year-to-date.
+
+### Business Segment Performance
+- **Government Business**:
+  - 23,000 Medicare members gained in Q3.
+  - Government premiums reached $6.7 billion.
+  - Government medical benefit ratio marked at 82.4%.
+- **Commercial Business**:
+  - 177,000 insured Commercial membership growth.
+  - Commercial medical benefit ratio at 81.4% for the quarter.
+  - Large group Commercial premiums modestly higher.
+
+### Balance Sheet and Capital Management:
+- **Debt-to-Total-Capitalization Ratio**: Approximately 39.5%
+- **Cash and Investments** at the beginning of Q3: $203 million
+- **End of Q3 Cash at Parent**: Approximately $1.2 billion
+- **Basic Share Count**: Approximately 326.1 million.
+
+### Future Outlook and Projections:
+- **2017 Adjusted EPS Guidance Increased**: Approximately $9.75.
+- **Projected Full-Year 2017 Adjusted Revenue**: Approximately $60.5 billion.
+- **Forecasted Total Health Care Medical Benefit Ratio for 2017**: Approximately 82.3%.
+- **Expected Full-Year 2017 Adjusted Pre-Tax Margin**: 8.9%.
+- **2017 Dividends from Subsidiaries**: Up to $3.2 billion.
+
+### Strategic Discussions:
+- Continued execution towards becoming a more consumer-focused company.
+- Positive momentum across most business areas.
+- Upcoming renewal challenges due to reintroduction of non-deductible health insurer fee, affecting strategic positions for 2018.
+
+### Commentary on 2018 and 2019:
+- No specific guidance for 2018 provided, focusing on long-term strategic positioning.
+- Investments in Medicare and other areas expected to fuel future growth.
+
+This summary captures the key financial outcomes and strategic insights from the earnings call, providing a concise overview of the company's performance and future expectations. Your duty as a financial analyst would be to further analyze these metrics in relation to market expectations and historical performance to guide investment decisions.

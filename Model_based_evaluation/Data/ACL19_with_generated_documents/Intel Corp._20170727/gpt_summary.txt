@@ -1,0 +1,21 @@
+ and we start accelerating that growth. So we believe that's happening and we've moved very quickly and just can't wait to get that product into our customers' hands
+
+Overall, the key financial metrics to focus on for this detailed summary report include:
+
+1. Revenue: The company set a second quarter revenue record and achieved 14% year over year revenue growth. The Data Center Group (DCG) revenue grew 9% in Q2, with strong growth in public cloud and comm service provider revenue, accounting for nearly 60% of DCG's revenue. The Client Computing Group (CCG) revenue was up 12% over last year.
+
+2. Operating Margin: The company achieved a 30% non-GAAP operating margin growth. DCG operating margin increased to 38% in Q2, with expectations to reach 40% plus for the back half and the year.
+
+3. Non-GAAP EPS: The company raised its full-year non-GAAP EPS forecast from $2.85 to $3.00.
+
+4. Growth Segments: The cloud business, networking, storage, and adjacencies are forecasted to grow in the mid 20s, with the enterprise segment declining in the high single digits.
+
+5. Competitive Pressure: Increased competition across various platforms, including the data center and client business, is noted, with AMD's new products and other sources driving the company to respond and compete aggressively.
+
+6. 10-Nanometer Products: The company is sampling engineering samples to customers currently and expects to qualify the first production products towards the end of the year, with a ramp of SKUs starting in the first half of next year.
+
+7. ASPs and Mix: The company expects average selling prices (ASPs) to continue increasing, especially within the Xeon core function. The mix of higher-performance products, such as Core i9, is driving continued demand and growth in the Client Computing Group. 
+
+8. Future Projections: The company is focused on moving more of the memory business towards 3D XPoint, with plans to achieve higher levels of performance and efficiency in the data center and increase the percentage of the total addressable market.
+
+The report should delve into these metrics in detail and analyze their impact on the company's financial performance, growth strategies, and competitive positioning. It should also discuss the company's strategic priorities, investments, and future outlook based on the recent earnings conference call transcripts.

@@ -1,0 +1,13 @@
+Based on the information presented in the earnings conference call transcript, I would recommend an 'overweight' investment stance on Red Hat Inc. The key financial metrics that support this recommendation include:
+
+1. Revenue growth: Total revenue for the fourth quarter was $629 million, which is significantly above guidance and represents a growth of 16% in USD and constant currency.
+
+2. Subscription revenue: Subscription revenue remained the largest driver of total revenue at $560 million for the quarter, showing an increase of 17% year-over-year. This renewable revenue stream accounted for 89% of total revenue for the quarter.
+
+3. Operating income and margin: Non-GAAP operating income grew by 23% year-over-year, reaching $153 million, with a non-GAAP operating margin of 24.3%, which was 30 basis points higher than guidance.
+
+4. Backlog and deferred revenue: Total backlog was up 28% year-over-year, reaching a record balance in excess of $2.7 billion in USD. The total deferred revenue at quarter end was $2.1 billion, representing a 20% increase over the same quarter a year ago.
+
+5. Guidance for FY18: The outlook for full year revenue guidance is $2.72 billion to $2.76 billion in US dollars, representing approximately 14% growth at the high end of the range. The company plans to balance investment in growth initiatives and operating leverage, aiming for an operating margin expansion of 50 basis points to approximately 23.6% in FY18.
+
+Overall, the strong financial performance, growing backlog, and positive outlook for future revenue growth support an 'overweight' investment stance for Red Hat Inc.

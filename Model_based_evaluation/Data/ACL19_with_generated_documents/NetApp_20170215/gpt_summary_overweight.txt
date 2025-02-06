@@ -1,0 +1,15 @@
+.
+
+Summary Report:
+
+NetApp Inc. had a strong performance in the third quarter of fiscal year 2017, with revenue at the midpoint of their guidance range and both operating margin and earnings per share above their guidance. The company is focused on three priorities: Data Fabric platform and strategic solutions, lowering cost structure, and robust capital allocation program.
+
+The strategic solutions, which include flash-enabled, cloud-integrated offerings, constituted 65% of net product revenue, showing a growth of 22% year-over-year. They expect the growth of strategic solutions to return the company to moderated revenue growth in fiscal year 2018. Their Clustered ONTAP platform has been performing well, with growing new customers and expanded footprint in existing ones. Their all-flash array business also saw a 160% year-over-year growth to an annualized net revenue run rate of almost $1.4 billion.
+
+The company has been focusing on cost savings and streamlining operations to improve profitability. They have consolidated operations into a shared services platform and have invested in SolidFire to deliver hyper-converged infrastructure solutions. They are also committed to returning savings through improved profitability to shareholders and investing in the long-term growth of the business.
+
+NetApp has a strong outlook for the future, with continued momentum in the all-flash array business and a next-generation hyper-converged solution in the works. They are confident in their ability to lead in the data-powered digital era and are increasing shareholder value by delivering innovation at an accelerated pace.
+
+The company will hold an Investor Day in New York to share more details on their multi-year business outlook. Overall, the transformation of NetApp is yielding solid results, and they are on track to return the company to long-term growth and target operating margin range.
+
+As a financial analyst, I recommend an 'overweight' investment stance for NetApp Inc. based on their strong performance, focus on strategic solutions, and commitment to streamlining operations and improving profitability. Their strong outlook for the future and continued momentum in the all-flash array business make them an attractive investment opportunity.

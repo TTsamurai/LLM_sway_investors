@@ -1,0 +1,31 @@
+**Underweight Investment Stance Report for Invesco**
+
+**Overview of Recent Financial Performance**
+Invesco's recent earnings report and management discussion reflected a mixed financial performance with notable concerns that substantiate an underweight stance. Despite a growth in assets under management (AUM) and some positive financial metrics, there are underlying issues that need consideration.
+
+**Key Financial Metrics and Insights:**
+1. **AUM Growth**: Invesco reported a substantial increase in AUM by $59.2 billion or 6.9%, totaling $890.8 billion. This growth was significantly driven by the acquisition of Source ETF, which contributed $26 billion. However, reliance on acquisitions for growth raises concerns about organic growth capabilities.
+
+2. **Market Gains and FX Impact**: Market gains contributed $15 billion, and FX translation added $6.7 billion. These external factors, while beneficial this quarter, represent volatile elements that could reverse, impacting future growth unpredictably.
+
+3. **Organic Growth Rate**: The annualized long-term organic growth rate showed improvement from negative 0.3% in the previous quarter to 3.4% in the latest quarter. However, this level of organic growth could still be considered modest in a competitive asset management landscape.
+
+4. **Revenue and Net Income**: Net revenues increased by 7.8%, mainly influenced by positive FX impact. While this shows nominal growth, the reliance on external factors like FX rates is concerning for sustainable growth.
+
+5. **Operational Costs and Efficiency**: Invesco's operational efficiency showed an uptick with adjusted operational expenses increasing by 5.3%. However, the company is focused on a business optimization initiative aiming to save on run rate, targeting a total savings of about $65 million by the end of 2018. Though promising, delivering on these cost efficiencies will be critical.
+
+6. **Performance Fees and Revenue Yield**: Adjusted performance fees saw a notable rise, primarily driven by Invesco’s mortgage recovery fund. Net revenue yield experienced minor fluctuations due to mixed impacts of asset mix, acquisitions, and market conditions.
+
+**Risks and Challenges:**
+1. **Acquisition Dependency**: A substantial portion of AUM and revenue growth has stemmed from acquisitions rather than organic growth. This strategy may not be sustainable long-term and poses integration risks.
+
+2. **Market and FX Volatility**: Revenue growth supported by market conditions and positive FX impacts could be at risk if global economic conditions deteriorate or if currency exchange rates become unfavorable.
+
+3. **Regulatory Changes and Compliance Costs**: The upcoming adjustments due to MiFID II and other regulatory requirements could pose additional compliance costs and operational challenges.
+
+4. **Geographic Concentration of Flows**: The current AUM increase is not uniformly spread but is concentrated in Europe and Asia Pacific, with the U.S. experiencing institutional outflows. This geographical imbalance could pose risks if the European or Asia-Pacific market conditions change adversely.
+
+5. **Revenue Concentration in Certain Funds**: A large part of performance fees is concentrated in specific funds like the mortgage recovery fund, which may not consistently perform at high levels year over year.
+
+**Recommendation:**
+Given the above analysis, we recommend an underweight stance on Invesco's stock. The reliance on acquisitions for growth, coupled with potential volatility from market and FX impacts, and moderate organic growth rates form the core rationale for this stance. While the company's optimization efforts may yield future benefits, the present financial architecture suggests caution is warranted. Investors are advised to monitor the company's ability to enhance organic growth and manage operational efficiencies closely before adjusting their investment position.

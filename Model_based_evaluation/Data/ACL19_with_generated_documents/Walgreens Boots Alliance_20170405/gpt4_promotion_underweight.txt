@@ -1,0 +1,29 @@
+**Investment Report: Underweight Stance on Walgreens Boots Alliance, Inc. (WBA)**
+
+**Overview:**
+Walgreens Boots Alliance, Inc., a global leader in retail and wholesale pharmacy, appears to be maintaining a steady course amidst a volatile market environment. The company reported mixed results in its recent quarterly earnings, showing some growth in specific segments, while facing significant challenges in others. Despite some operational gains, notably in U.S. pharmacy volume and the early benefits from new pharmacy contracts, concerns about the broader economic environment, and underlying business weaknesses suggest a cautious investment posture.
+
+**Financial Performance Concerns:**
+1. **Sales Decline and Currency Headwinds:** The reported sales for the quarter were down by 2.4% year-over-year at $29.4 billion. While sales increased by 0.9% on a constant currency basis, significant headwinds due to currency fluctuations (notably a 16% stronger U.S. dollar versus sterling) masked underlying weaknesses. Investors should consider the risks of continued currency volatility impacting future results.
+
+2. **Decline in Operating Income:** GAAP operating income decreased significantly by 20.5%. This sharp decline is concerning, as it might reflect deeper operational issues. While adjusted operating income fell by a smaller margin (4.9%), the need for adjustments to achieve a rosier picture raises questions about the sustainability of reported profits.
+
+3. **Variance in Profit Metrics:** While GAAP net earnings and diluted EPS increased by 14% and 15.3% respectively, these figures need to be juxtaposed against the backdrop of overall declining sales and operating income. The contrast between GAAP and adjusted earnings growth rates also suggests variability in profit quality and potential one-off benefits skewing the earnings temporarily.
+
+**Divisional Struggles:**
+1. **Retail Pharmacy USA:** Despite an increase in prescription volumes and market share, total retail sales in this segment fell by 2.7%. The competitive pressure in retail and the impact of e-commerce operation closures are notable concerns. The modest increase in comparable store sales (2.4%) does not fully mitigate the impact of broader retail challenges.
+
+2. **Retail Pharmacy International:** This division saw a 1.9% decrease in sales on a constant currency basis, with particularly disappointing results from the U.K. due to government pharmacy funding cuts and overall market downturn. A decrease in pharmacy sales and a marginal increase in retail sales suggest structural issues that might not be easily reversible.
+
+3. **Pharmaceutical Wholesale Division:** While there is a reported increase in sales, the growth was behind the company estimates of market growth, indicating loss of market traction and potential issues in competitive positioning.
+
+**Strategic Concerns:**
+1. **Rite Aid Transaction and Regulatory Challenges:** The ongoing efforts to secure regulatory clearance for the Rite Aid transaction introduce uncertainty. The outcome of this transaction will significantly influence WBA's operational scope and financial health.
+
+2. **Cost Transformation Program:** While the early completion of the $1.5 billion savings target under the cost transformation program is commendable, the increased expected cumulative pre-tax charges ($1.8 billion) and the closure of additional stores suggest potential disruptions and continuing cost pressures.
+
+**Guidance and Future Outlook:**
+The company reiterates its guidance for fiscal 2017 with adjusted diluted net earnings per share expected in the range of $4.90 to $5.08. However, this projection assumes constant exchange rates and no material accretion from the Rite Aid merger or new alliances, indicating that significant risks and volatilities loom large.
+
+**Recommendation:**
+Given the mixed financial results, ongoing operational challenges, and strategic uncertainties, we recommend an 'underweight' investment stance towards Walgreens Boots Alliance, Inc. Investors should exercise caution and closely monitor the company's ability to manage currency risks, complete strategic transactions successfully, and improve core operational efficiencies before considering a more favorable investment position.

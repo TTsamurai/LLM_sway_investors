@@ -1,0 +1,30 @@
+### Executive Summary
+
+#### Edison International Financial Analysis and Recommended Investment Position: Overweight
+Edison International reported significant strides in their financial and operational markers for Q1 2017, indicating a robust growth prospect and aligning well with California's aggressive climate policies. This report will delve into the critical financial metrics and strategic initiatives discussed during the recent earnings conference call, validating an 'overweight' investment stance.
+
+#### Key Financial Highlights
+- **Earnings Per Share (EPS)**: Q1 2017 exhibits a substantial increase in EPS to $1.11 from $0.85 in the previous year, suggesting improved profitability.
+- **Guidance**: Full-year guidance is maintained, with anticipation leaning towards the upper half of the forecast range, reflecting operational confidence.
+- **Rate Base Growth**: Despite conservative capital spending recommendations from ORA, Edison projects an 8.6% average annual growth in rate base through 2020, well above the industry norm, signalling strong foundational growth.
+
+#### Strategic Initiatives and Growth Prospects
+- **Grid Modernization and Infrastructure Reliability**: In alignment with California's climate change policies, SCE is focused on a multi-year grid modernization initiative crucial for supporting system reliability and public safety. This initiative positions Edison at the forefront of meeting state-mandated GHG reductions and presents an extended growth runway.
+- **Transmission Investments**: The company is actively working on major transmission projects to enhance system reliability and accessibility to renewable energy sources, critical for meeting the 33% renewables target by 2020.
+- **Electric Vehicle (EV) Infrastructure**: With the CPUC targeting decisions on pilot projects for medium and heavy-duty vehicle charging infrastructure, an investment of $574 million is proposed. This strategic move towards transportation electrification underscores the potential for significant capital expenditure focusing on a future-proof utility framework.
+
+#### Regulatory and Legal Background
+- **Cost of Capital Proceedings**: The ongoing proceedings on the cost of capital settlement among major utilities suggest possible favorable outcomes, enhancing financial stability and predictability.
+- **SONGS Litigation**: Although the ICC arbitration limited the compensation for the defective design of the SONGS replacement steam generators, Edison International is strategically approaching the meet-and-confer process and remains open to re-litigation if necessary.
+
+#### SWOT Analysis
+- **Strengths**: Solid financial performance, strategic alignment with state policies, and leadership in grid modernization.
+- **Weaknesses**: Regulatory risks and dependency on the CPUC's decisions impacting large-scale projects.
+- **Opportunities**: Infrastructure investments in response to evolving energy demands and California's emissions targets. Expansion into EV infrastructure provides new revenue streams.
+- **Threats**: Litigation outcomes and public policy shifts could impact operational scope and financial outcomes.
+
+### Investment Thesis
+Given Edison International’s proactive strides in aligning their operations with state climate goals, robust financial performance, and strategic investments poised for future growth, adopting an 'overweight' stance is recommended. The initiatives tailored toward grid modernization and EV infrastructure are particularly poised to build long-term value, countering potential regulatory risks.
+
+### Recommendation
+Investors should consider increasing their holdings in Edison International, capitalizing on its solid financial footing, regulatory-strategic synchrony, and forward-looking capital projects that signify substantial growth potential in the evolving utility landscape.

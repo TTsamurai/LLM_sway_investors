@@ -1,0 +1,29 @@
+**Assessment and Recommendation: Underweight**
+
+**1. Financial Performance Overview:**
+
+The recent earnings call indicates a positive turnaround from a $0.38 loss per share in Q2 2016 to adjusted earnings of $0.06 per share in Q2 2017. Additionally, EQT has shown a significant improvement in operating cash flow, jumping from $105 million in Q2 2016 to $223 million in Q2 2017. Notwithstanding these improvements, our focus must be on the sustainability of these earnings improvements in the context of broader strategic moves, such as the Rice Energy acquisition.
+
+**2. Risks Associated with the Rice Energy Acquisition:**
+
+The acquisition of Rice Energy marks a significant strategic shift but brings about considerations of integration risks and potential for synergistic challenges. The transaction will increase the share count (due to the payment structure involving both stock and cash), which might dilute shareholders' value in the short term. The successful integration of Rice's operations, including the alignment of upstream and midstream assets, remains speculative and requires substantial management effort and capital.
+
+**3. Operating Costs and Expenses:**
+
+Despite an increase in production volumes and revenues, EQT’s operating expenses have similarly risen — with total operating expenses at the production company increasing by 10% year-over-year. This includes notably higher transmission and processing expenses, which have risen alongside volumes due to the use of the Rockies Express Pipeline and the Ohio Valley Connector. These upward trending costs may continue to suppress net earnings growth.
+
+**4. Commodity Price Volatility and Market Positioning:**
+
+While EQT has benefited from an improved pricing environment (with realized prices rising 36%), the energy sector is notoriously volatile, with prices heavily influenced by external factors such as geopolitical tensions and changes in regulatory policies. With approximately 80% of local basis exposure locked in, there is still a 20% exposure to price fluctuations, which could adversely affect profitability moving forward.
+
+**5. Debt and Liquidity Profile:**
+
+While the company reports a strong liquidity position with $561 million of cash on hand and zero net short-term debt, the full financial implications of the Rice acquisition must be considered. The anticipated need for additional crews post-acquisition suggests increased operational expenses not currently reflected in the $1.5 billion 2017 CapEx forecast.
+
+**6. Midstream and Transmission Gains:**
+
+Though there are notable gains in the midstream segment, with a $10.1 million increase in operating income YOY, this segment's dependence on sustained high production levels introduces risk should production growth falter. The need for less capital due to overlaps with Rice in midstream capacities can be seen as a positive, yet it underscores potential redundancies and the need for careful management of resources.
+
+**Conclusion:**
+
+Given the current uncertainties around the integration of Rice Energy, increased operating costs, and the volatile nature of the commodity markets combined with potential dilutive effects of the acquisition, we recommend an 'underweight' stance on EQT stock. Investors should express caution and monitor the company's ability to manage its expanded asset base and integrate acquisitions smoothly before adjusting investment positions. This conservative stance is recommended until clearer signs of sustainable synergistic benefits and cost efficiencies emerge post-acquisition.

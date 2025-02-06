@@ -1,0 +1,43 @@
+### Earnings Conference Call Summary Report
+
+#### Overview:
+The earnings call focused on reviewing third-quarter financial performances across the company’s main segments, including Card Services, LoyaltyOne, and Epsilon. The call also addressed the impacts of hurricanes Harvey and Irma on the overall financials.
+
+#### Financial Highlights:
+
+1. **Revenue**:
+   - Total revenue increased slightly by 1% to $1.9 billion due to disruptions from hurricanes.
+   - Card Services saw a 9% increase in revenue, reaching $1.1 billion.
+   - LoyaltyOne revenue dropped by 20% to $305 million, mainly due to a decrease in AIR MILES revenue.
+   - Epsilon's revenue growth was subdued at 3%, totaling $559 million.
+
+2. **Core Earnings Per Share (EPS)**:
+   - Core EPS increased by 13% to $5.35. Excluding tax rate effects, the increase was approximately 9%.
+
+3. **Adjusted EBITDA**:
+   - Overall, adjusted EBITDA increased by 7%, with notable performance in Card Services where adjusted EBITDA net was up by 20%.
+   - Epsilon, however, saw a decline in adjusted EBITDA by 7%.
+   - LoyaltyOne's adjusted EBITDA decreased by 26%.
+
+4. **Debt and Liquidity**:
+   - Corporate debt was reduced by $180 million to $6.2 billion.
+   - The corporate leverage ratio improved to about 2.8x.
+   - The company reported over $2 billion in available liquidity.
+
+5. **Segment Performance**:
+   - **Card Services**: Solid growth noted with improved loss rates; net loss rate improved from 6.2% to 5.5%.
+   - **LoyaltyOne**: Faced challenges with a 20% revenue decline; future improvement expected due to long-term contracts like BMO.
+   - **Epsilon**: Revenue increased marginally by 3%; the technology platform showed an improving trend towards recovery despite a slow growth rate in digital offerings.
+
+6. **Hurricane Impact**:
+   - Estimated revenue reduction by about $40 million due to the hurricanes.
+   - Conversely, there was a slight beneficial impact on loss rates due to operational freezes in the disaster-affected areas.
+
+#### Future Outlook:
+
+- **Card Services** anticipates continued robust performance into Q4, with expectations of lower loss rates and improved delinquency trends.
+- **LoyaltyOne** expects issuance growth improvement in Q4 2017 and into 2018.
+- **Epsilon** is likely to see a return to expected growth rates with the introduction of new client programs.
+
+#### Conclusion:
+The company managed to navigate through a challenging quarter marked by natural disasters, which skewed some of the expected performance metrics, particularly in revenue growth and loss rates. Moving forward, strategic initiatives, including the reduction in corporate leverage and a focus on improving operational efficiencies, are expected to stabilize and enhance profitability across segments. The robust liquidity position provides a strong foundation for weathering potential future uncertainties and funding growth initiatives.

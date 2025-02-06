@@ -1,0 +1,27 @@
+Key Financial Metrics Summary:
+- Q2 Revenue: $1.5 billion, up 5% from last year
+- GAAP Operating Earnings: $257 million, up 15% from last year
+- Non-GAAP Operating Earnings: $328 million, up $4 million from last year
+- Operating Margins: 21.9%, down 80 basis points from last year
+- GAAP EPS: $0.78, up 28% from last year
+- Non-GAAP EPS: $1.12, up 9% from last year
+- Ending Backlog: $8.5 billion, up $265 million from last year
+- Products Backlog: Up $204 million
+- Services Backlog: Up $61 million
+- Operating Cash Flow: $173 million, a decrease of $190 million from last year due to working capital timing associated with the ERP implementation
+- Free Cash Flow: $120 million, a decrease of $81 million from last year
+- Cash Balance: $805 million
+- Net Debt: $3.7 billion
+- Q3 Sales Growth Outlook: 3% to 4% versus last year
+- Full-Year 2017 Sales Growth: 3% to 4%
+- Full-Year Non-GAAP EPS Guidance: $5.20 to $5.30
+- Stock Repurchase: $80 million at an average price of $83.59
+- Dividends Paid: $77 million
+- Intended acquisition of Airbus PlantCML business
+- Notable Product Wins: Multiple multi-million dollar awards for P25 devices and systems
+- Managed & Support Services Contracts: $160 million in Canada and $90 million in Kentucky
+- FirstNet partnership agreement with AT&T
+- AT&T certified LEX F10 FirstNet device
+- Expected operating cash flow for 2017: Approximately $1.225 billion
+
+Overall, the company has shown growth in revenue, earnings, and backlog. The cash flow was impacted by working capital timing associated with the ERP implementation, but the company expects the implementation to be largely complete by the end of Q3. The company has also announced the intention to acquire the Airbus PlantCML business and has notable wins and partnerships in the P25 LMR systems space.

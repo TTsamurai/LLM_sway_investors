@@ -1,0 +1,51 @@
+**Summary Report**
+
+**Company:** PPL Corporation  
+**Date:** First Quarter Earnings Call 2017  
+**Key Attendees:** Vince Sorgi – CFO; Presidents of U.S. and UK Utility Businesses; Robert Symons – CEO of Western Power Distribution  
+
+**Investment Stance:** Underweight  
+
+### Financial Performance Overview:
+
+**1. Reported Earnings Per Share (EPS):**  
+- Q1 2017 reported earnings are $0.59 per share, a decrease from $0.71 per share in Q1 2016.  
+- Adjusted earnings from ongoing operations were $0.62 per share in Q1 2017, compared to $0.67 per share in Q1 2016.  
+
+**2. Key Factors Affecting Earnings:**  
+- The primary driver of the reduced earnings was lower foreign currency exchange rates, albeit partially mitigated by a price increase in the UK effective April 1, 2016.  
+- An unusually mild winter in Kentucky also negatively impacted earnings, with February recording historically high temperatures.  
+
+**3. Outlook and Earnings Forecast:**  
+- The company reaffirms its 2017 ongoing EPS forecast range of $2.05 to $2.25, with a midpoint of $2.15 per share. However, substantial external risks persist, particularly regarding foreign exchange volatility associated with Brexit.  
+
+### Strategic Position and Growth Plans:
+
+**1. Hedging and Exchange Rate Impact:**  
+- PPL has increased its hedging activities to reduce exposure to unfavorable movements in the pound-dollar exchange rate. The company claims readiness for scenarios where the exchange rate drops significantly.  
+- On the Brexit front, stability was noted in the pound-dollar rate post the triggering of Article 50, accompanied by a slight strengthening.
+
+**2. Investment and Dividend Policy:**  
+- PPL intends to sustain a compound annual EPS growth rate of 5% to 6% through 2020, driven largely by a projected growth in its U.S. and UK segments.  
+- PPL targets annual dividend growth of approximately 4% per annum through 2020; the dividend was increased from $1.52 per share to $1.58 per share in February 2017.
+
+### Operational Updates:
+
+**1. Regulatory Developments and Capital Investments:**  
+- Kentucky: Settlement agreements likely to lead to an annual revenue increase of $122 million post approval. However, a significant removal or deferral of just over $300 million in total capital expenditures from the 2017 to 2019 capital plan could impact future earnings growth trajectories.  
+- UK: No expected operational changes resulting from Brexit over the two-year negotiation period.  
+
+**2. Labor Agreements:**  
+- PPL reached a new five-year labor agreement with IBEW Local 1600 to continue providing competitive wages and benefits.
+
+### Risks and Concerns:
+
+**1. Regulatory and Policy Risks:**  
+- The ongoing Brexit negotiations could introduce increased volatility in currency exchange rates and affect international operations.  
+- The deferral of $300 million in capital expenditures could disrupt long-term growth strategies unless well managed.
+
+**2. Hedging Strategy:**  
+- Dependency on the efficacy of the hedging strategy against possible adverse movements in forex rates could be a critical risk factor, especially since the hedging will end or lessen in coming years.
+
+**Conclusion and Recommendation:**  
+Based on the financial performance in Q1, ongoing risks with rate cases, capital expenditure deferrals, and significant reliance on hedging against a volatile forex environment, an `Underweight` investment stance is recommended for PPL Corporation. This viewpoint aligns with the inherent risks and uncertainties surrounding projected growth and earnings stability in both domestic and international segments. Prospective investors should exercise caution until greater clarity emerges around regulatory matters and hedging efficacies unfold in subsequent quarters.

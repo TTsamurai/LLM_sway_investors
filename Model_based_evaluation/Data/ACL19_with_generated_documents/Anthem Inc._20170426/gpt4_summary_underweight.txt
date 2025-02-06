@@ -1,0 +1,46 @@
+**Summary Report: Anthem Earnings Conference Call**
+
+**Date: First Quarter 2017**
+
+---
+
+**Key Financial Metrics Overview:**
+
+- **GAAP Earnings Per Share (EPS)**: $3.73
+- **Adjusted Earnings Per Share**: $4.68, surpassing expectations.
+- **Membership Growth**: Total enrollment increased by 715,000.
+  - **Insured Enrollment**: Increased by 330,000.
+  - **Local Group fully-insured enrollment**: Grew by approximately 50,000.
+  - **Individual ACA-compliant Enrollment**: Increased by 222,000 to nearly 1.6 million.
+  - **Medicare Enrollment**: Increased by 38,000.
+  - **Self-funded Business**: Grew by 385,000 to 25.1 million members.
+- **Operating Revenue**: 
+  - **Government Business**: $12 billion (growth of 11.4% over Q1 2016)
+  - **Commercial Business**: $10.3 billion (up by nearly $800 million, or 8.2%)
+- **Operating Margins**: 
+  - **Government Business**: Declined by 40 basis points to 2.6%.
+  - **Commercial Business**: Down by 90 basis points to 12.7%.
+- **Adjusted EPS Forecast for 2017**: Increased to more than $11.60.
+
+**Strategic and Operational Highlights:**
+
+1. **ACA Marketplace**: Positive membership growth but challenges with higher-than-anticipated claims and volatility in the market. Concerns include the funding of cost-sharing reduction subsidies and the health insurance tax. Adjustments may be required in market participation and pricing strategies based on the funding decisions for CSR.
+
+2. **PBM Strategy**: Ongoing review and negotiation process, aiming to lower pharmacy costs by over $3 billion annually from 2020.
+
+3. **Cigna Acquisition**: Continuing through appeal processes and legal battles, the company remains committed to the acquisition.
+
+4. **Membership and Market Strategies**: Steady growth in Medicare Advantage and a focus on improving operational efficiencies across all service areas. The aim is to reach a high-single digit to low-double digit earnings growth rate beyond 2017.
+
+5. **Value Proposition and Stakeholder Management**: Focused on optimizing asset performance and enhancing corporate agility to respond to dynamic market conditions.
+
+**Underweight Investment Stance Rationale:**
+
+Despite strong financial performance in several areas, several factors justify an 'underweight' investment stance:
+1. **Regulatory Uncertainties**: Significant exposure to changing healthcare laws, particularly concerning ACA compliance and related subsidies which could negatively impact future earnings.
+2. **Operational Challenges**: While membership growth is robust, the increase in claims and potential rate increases may pressure profitability.
+3. **Volatility in the Individual Market**: Persistent volatility and uncertainty in the ACA-compliant market segment pose risks to stability and profitability.
+4. **Complexity in the Cigna Acquisition**: Ongoing legal and regulatory challenges could delay or derail expected synergistic benefits.
+
+**Conclusion:**
+While Anthem demonstrates strong membership growth and revenue increases, prevailing uncertainties in healthcare legislation, potential increases in operational costs, and the complexities in strategic acquisitions advocate a cautious approach. Therefore, maintaining an 'underweight' stance is recommended until greater clarity and stability in regulatory and market conditions are achieved.

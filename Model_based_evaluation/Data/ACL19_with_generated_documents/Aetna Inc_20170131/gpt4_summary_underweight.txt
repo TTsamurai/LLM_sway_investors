@@ -1,0 +1,52 @@
+**Summary Report: Aetna's Earnings Conference Call**
+
+**Date: Full Year 2016**
+
+**Investment Stance: Underweight**
+
+### Key Financial Metrics and Observations:
+
+**1. Operating Earnings and EPS:**
+   - **2016 Operating Earnings:** $2.9 billion, a 7% increase from 2015.
+   - **2016 Operating EPS:** $8.23, improved despite no share repurchases during the year.
+
+**2. Revenue Performance:**
+   - **Operating Revenue for 2016:** $63 billion, up nearly 5% over 2015.
+   - **Q4 Operating Revenue:** $15.7 billion, stable against Q3 2016.
+   - Significant drivers were increased health care premium yields and membership growth, particularly in Government business and Large Group Commercial Insured products.
+
+**3. Medical Membership:**
+   - Ended the year at 23.1 million, growth mainly driven by Government and Large Group Commercial sectors. 
+   - **Membership Concerns:**
+     - Decline in Small Group and international Commercial Insured products membership.
+     - Individual Commercial membership forecasted to fall drastically from 965,000 at the year-end 2016 to 240,000 in Q1 2017 due to ACA-compliant product challenges.
+
+**4. Margins and Ratios:**
+   - **Full-Year Pre-Tax Operating Margin:** 8.3%.
+   - **Q4 Pre-Tax Operating Margin:** Improved to 6.4%.
+   - **Full-Year Total Health Care Medical Benefit Ratio (MBR):** 81.8%, better than previously projected.
+   - **Operating Expense Ratios:**
+     - Full Year: Reduced by 80 basis points to 18.1%.
+     - Q4: Improved to 19.8%.
+
+**5. Net Income and Cash Flow:**
+   - **Operating Cash Flows for Full Year:** 1.4 times operating earnings and 1.8 times GAAP net income.
+   - **Shareholder Distributions:** $351 million.
+
+**6. Government Business:**
+   - Strong performance with continued growth in Medicare and Medicaid memberships.
+   - Premiums grew by nearly 13% in Q4, representing nearly 50% of total health care premiums.
+
+**7. Concerns and Losses:**
+   - **Individual ACA-compliant Products:**
+     - Continuing losses, with full-year pre-tax operating losses at $450 million, although improvement is expected in 2017.
+   - Projected increase in full-year Total Health Care MBR for 2017, reaching 84-85%.
+   - Several challenges highlighted for 2017 including Medicaid contract losses and lower Group Insurance earnings.
+
+### Financial Strategy and Outlook 2017:
+
+- Projected operating EPS of at least $8.55, aiming for at least 10% growth from the adjusted 2016 baseline.
+- Anticipated recovery strategies include reduced losses on Individual products, resumption of share repurchase activity, and growth in Medicare.
+
+### Conclusion:
+Despite a strong overall performance in 2016, significant concerns remain, particularly with ACA-compliant products causing sustained losses. The projected decline in some membership segments and anticipated challenges in 2017 suggest caution. An 'underweight' investment stance is recommended for Aetna given the financial metrics, potential volatility in the ACA segment, and uncertain growth prospects in key insurance markets. Further monitoring of membership trends and profit margins is advised to reassess the stance as new developments occur.

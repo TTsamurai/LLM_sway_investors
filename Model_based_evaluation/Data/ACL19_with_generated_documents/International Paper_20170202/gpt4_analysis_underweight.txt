@@ -1,0 +1,29 @@
+**Underweight Investment Stance Report: International Paper Company**
+
+**Executive Summary:**
+This report outlines the rationale for recommending an 'underweight' stance on International Paper Company (IP). The company's financial metrics from the most recent fiscal year, strategic decisions, and ongoing operational challenges are examined to evaluate its investment potential for the upcoming period.
+
+**Financial Performance Overview:**
+During the fiscal transition from 2015 to 2016, IP experienced a downturn in earnings, primarily attributed to price erosion and an unfavorable product mix affecting profit margins. A significant non-cash last-in, first-out (LIFO) inventory reevaluation and rising input costs further deteriorated the profitability, negating some benefits accrued from lower operational costs and tax rates.
+
+**Key Challenges and Risks:**
+1. **Operational Challenges:**
+   - **Cost Pressures**: Increased input costs, particularly in OCC (Old Corrugated Containers) and energy, have considerably impacted the margins. This trend appears to be continuing, with the company noting this as a significant factor for near-term financial health.
+   - **Natural Disasters**: Hurricane Matthew and incidents like the Pensacola mill digester failure have inflicted unexpected operational disruptions and financial losses, exacerbating the year's negative output.
+
+2. **Market and Pricing Dynamics:**
+   - **Price Erosion in Pulp and Paper Segments**: Declining prices in the global pulp sector complicate the scenario, even though some offset was seen in North American containerboard and box prices due to strategic price increases.
+   - **Acquisition Impact**: While the acquisition of Weyerhaeuser’s pulp business potentially broadens IP’s market reach, its immediate financial contribution has been neutralized by integration costs and the existing downward price pressures in the pulp market.
+
+3. **Strategic and Structural Adjustments:**
+   - **Global Cellulose Fibers Segment**: The newest segment aims at leveraging growth in Specialty Fibers, but current earnings are clouded by high setup costs and continuing investment in capacity adjustments.
+   - **Leverage and Liquidity Concerns**: Increased leverage year-over-year, primarily for funding acquisitions and facing lower EBITDA, may strain financial flexibility. Although debt levels are planned to be managed within target ratios, uncertainties remain if operational setbacks continue.
+
+**Analysis of Future Outlook:**
+The company’s near-term outlook remains challenged by operational inefficiencies and market pricing pressures that could continue hindering performance well into 2017. Key projections include:
+- **Cost Increases**: Continued rise in input costs which are estimated to be significantly higher in 2017.
+- **Capital Expenditures**: Increased CapEx for ongoing projects and new investments could strain cash flows, considering the higher operational costs.
+- **Synergy Realizations from Acquisitions**: While advantageous in the long run, the immediate impact is diluted by necessary investments and restructuring costs.
+
+**Conclusion:**
+Given the myriad of challenges and the uncertain benefits from strategic initiatives in the short term, an underweight stance is recommended for International Paper. Investors should monitor the company’s ability to manage costs, navigate price fluctuations, and successfully integrate new acquisitions without compromising profitability. Further review will be necessary as the turnaround efforts take shape and market conditions evolve.

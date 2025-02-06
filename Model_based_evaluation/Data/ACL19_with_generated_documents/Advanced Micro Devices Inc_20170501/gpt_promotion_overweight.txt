@@ -1,0 +1,21 @@
+Dear Investors, 
+
+We are excited to present to you a compelling investment opportunity in our company based on the recent earnings call. Our first quarter revenue increased by an impressive 18% from the previous year to $984 million, driven by growth in both our Computing and Graphics segment, as well as our Enterprise, Embedded and Semi-Custom segment. Our recent product launches, including our Ryzen CPUs, have contributed to this growth.
+
+We have seen strong demand for our Ryzen CPUs, with double-digit percentage year-on-year revenue growth in the Computing and Graphics segment. Our Ryzen CPUs have consistently ranked among the top-selling processors at global retailers, and we have received overwhelmingly positive reviews for their performance and value proposition. This success has led to revenue growth in both desktop and mobile GPU sales.
+
+In addition, we are on track to launch the first products from our next-generation Radeon Vega family, which is expected to significantly impact the high-end GPU market across the PC gaming, professional design, and GPU compute markets.
+
+Our Enterprise, Embedded and Semi-Custom segment also saw a 5% increase in revenue, driven by the latest game console offerings from Sony and Microsoft. We are also preparing for the holiday launch of Microsoft's 4K-focused Project Scorpio console featuring a new AMD SoC.
+
+Moreover, our upcoming Naples server CPU is positioned to offer more cores, I/O, and memory bandwidth compared to the highest-end dual socket x86 server CPUs currently available, resulting in better performance across multiple workloads. The customer excitement around Naples is growing, and we have already seated thousands of Naples processors across an extensive set of OEMs and partners, with the launch expected later this quarter.
+
+As we continue to expand our product portfolio and bring performance, choice, and innovation to an expanding set of markets, we are well-positioned for solid revenue growth and margin expansion. Our gross margin improved by 2 points year over year due to the success of our Ryzen CPUs, and we expect further margin expansion as we go forward.
+
+In conclusion, we believe that investing in our company offers significant growth potential based on the strength of our new products and our long-term strategy. We look forward to discussing more about our vision and the potential for our company at our Financial Analyst Day later this month.
+
+Thank you for considering this opportunity for an 'overweight' investment stance in our company.
+
+Sincerely,
+[Your Name]
+[Your Position]

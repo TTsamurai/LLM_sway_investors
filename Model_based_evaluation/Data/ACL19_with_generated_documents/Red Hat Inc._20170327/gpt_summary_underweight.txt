@@ -1,0 +1,7 @@
+Summary of the Transcript:
+
+Red Hat delivered strong Q4 performance with total revenue of $629 million and subscription revenue of $560 million, representing growth of 16% in USD and constant currency. Key financial metrics include 17% YoY growth in subscription revenue, divided into infrastructure-related offerings at $435 million and application development-related technologies at $125 million. Non-GAAP operating income grew by 23% YoY and non-GAAP operating margin was 30 basis points higher than guidance. Non-GAAP diluted earnings per share was $0.61, up 17% YoY, and operating cash flow was $318 million, an increase of 27% from the year-ago-quarter. Total backlog was up 28% year-over-year for a record balance in excess of $2.7 billion in USD.
+
+Red Hat's guidance indicates a 14% revenue growth at the high end of the range for FY18, with a capex range of $75 million to $85 million. They expect their operating cash flow to grow in a range from $850 million to $870 million, and the number of net new associates to grow by approximately 1,000. They also expect their operating margin to expand by 50 basis points to approximately 23.6% in FY18. 
+
+We maintain the 'underweight' investment stance due to increased expenses and expected headwinds in billings which could impact profitability. The minimal impact of cross-selling between Ansible and other cloud products could also dampen growth prospects.

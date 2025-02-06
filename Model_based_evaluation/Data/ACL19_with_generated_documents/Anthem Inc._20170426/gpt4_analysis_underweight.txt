@@ -1,0 +1,34 @@
+**Future Outlook Report: Underweight Investment Stance on Anthem, Inc.**
+
+**Introduction**  
+This report outlines a future outlook for Anthem, Inc. considering insights and financial metrics discussed during the company’s recent earnings conference call. After a detailed analysis, we adopt an 'underweight' investment stance based on several risk factors associated with the company's financial performance and strategic initiatives.
+
+**Financial Performance Overview**
+- Anthem reported strong earnings for Q1 2017, with a GAAP EPS of $3.73 and an adjusted EPS of $4.68, which surpassed expectations.
+- Revenue and membership growth were robust, but operating margins in the Government Business have declined, primarily due to a one-year waiver of the health insurance tax.
+- The company has updated its 2017 EPS outlook to over $11.60, reflecting a volatile individual ACA-compliant marketplace and anticipated cost pressures.
+
+**Risk Assessment**
+1. **Regulatory Risks**: 
+   - Anthem faces significant risks from regulatory uncertainty, particularly concerning the funding of Cost Sharing Reduction (CSR) subsidies and the potential return of the health insurance tax in 2018. These factors could lead to substantial rate increases and further destabilize the market.
+   - The company has plans to file preliminary 2018 rates assuming CSR subsidies will be funded. However, uncertainty remains, and lack of clarity by early June may lead to market exits or further rate adjustments.
+
+2. **Market Volatility and Competitive Pressures**:
+   - While membership growth in the individual market was strong, claims were higher than anticipated, indicating potential volatility in claims expenses in the future periods.
+   - Fully-insured products in both Medicaid and Medicare are expected to be adversely impacted by the reinstatement of the health insurance tax, which could erode the competitive positioning of Anthem.
+
+3. **PBM Strategy Uncertainties**:
+   - The outcome of Anthem’s ongoing Pharmacy Benefit Management (PBM) strategy is crucial and remains in flux. Decisions related to the RFP process and subsequent strategy are pending and could impact the company's operational efficiency and cost-management capabilities.
+   - Ongoing litigation with Express Scripts over alleged overcharges and disputes about contract terms introduces additional uncertainty to the cost control measures.
+
+4. **M&A Activity Risks**:
+   - There are persistent operational risks and uncertainties surrounding the pending Cigna acquisition. Regulatory hurdles, along with the potential financial impact of the transaction, could strain resources and focus.
+
+**Market and Operational Challenges**
+- Anthem has pointed out the need for speed to market, corporate agility, and operational optimization to enhance performance and sustain value creation. These areas are yet to demonstrate success and pose a challenge to the company amidst a dynamic competitive landscape.
+
+**Recommendation: Underweight Stance**
+Based on an analysis of the outlined risks, regulatory uncertainties, and the current volatile market conditions, it is prudent to adopt an 'underweight' investment stance on Anthem. The potential financial impacts stemming from policy changes, uncertain funding mechanisms, and strategic execution risks could limit the upside potential of the stock in the near to mid-term. Investors should remain cautious and monitor the aforementioned factors closely before adjusting their positions.
+  
+**Closing**
+Future updates and performance metrics should be closely watched to reassess this stance, particularly updates related to regulatory changes, CSR funding decisions, and the successful execution of strategic initiatives, including the PBM strategy and Cigna acquisition outcomes.

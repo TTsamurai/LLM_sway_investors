@@ -1,0 +1,40 @@
+**Red Hat Earnings Conference Call Summary Q2 FY18**
+
+**Financial Highlights and Performance**
+- **Revenue:** 
+  - Total revenue for the quarter: $723 million, a year-over-year increase of 21% reported in USD (20% in constant currency), surpassing guidance expectations by $21 million.
+  - Subscription revenue comprised 88% of total revenue, reaching $638 million, growing by 20% year-over-year.
+  - Infrastructure-related offerings: $487 million, up 14% year-over-year.
+  - Application development and emerging technologies: $150 million, up 44% year-over-year, now achieving a $600 million annualized run rate.
+
+- **Operating Income and Margins:**
+  - Non-GAAP operating income: $191 million, a 40% increase year-over-year.
+  - Non-GAAP operating margin stood at 26.4%, exceeding previous guidance due to higher revenue and sales productivity.
+
+- **Cash Flow and Capital Allocation:**
+  - Operating cash flow: $143 million for the quarter, up from $97 million the previous year, driven by higher profitability and improved billings/collections.
+  - Ended the quarter with $2.3 billion in cash and investments.
+  - Returned $75 million to shareholders via repurchase of nearly 800,000 shares.
+
+- **Deferred Revenue and Earnings Per Share:**
+  - Total deferred revenue at quarter end: $2.1 billion, up 22% year-over-year.
+  - Non-GAAP diluted earnings per share: $0.77, up 40% year-over-year and $0.10 higher than June guidance.
+
+**Strategic Highlights**
+- Stellar performance attributed to robust global demand for Red Hat technologies and effective execution by sales and services teams.
+- Strong sales in all key geographies with balanced bookings growth; Americas (57%), EMEA (24%), and Asia-Pacific (19%).
+- Subscription revenue growth driven primarily by infrastructure-related offerings and significant increases in application development-related and emerging technologies.
+- Notable strength in major contract renewals (25 out of 25 top deals renewed at 115% of their prior value) and 66 deals over $1 million.
+
+**Outlook and Future Guidance**
+- Full-year revenue guidance raised to $2.880 billion to $2.895 billion, a 20% increase year-over-year in USD (19% in constant currency).
+- Non-GAAP operating margin forecast raised slightly by 20 basis points to 23.8% for the full year.
+- Full-year non-GAAP EPS anticipated to be around $2.77 to $2.79.
+- Operating cash flow expected to range from $880 million to $900 million for the full fiscal year.
+- Q3 FY18 revenue expected to be between $730 million to $737 million with a non-GAAP operating margin of approximately 23.7%.
+  
+**Investment and Innovation**
+- Continued commitment to innovation and customer satisfaction with new database product launches anticipated to drive additional revenue.
+- Plan to increase investment in sales teams and emerging technologies in the second half of the fiscal year.
+
+This summary encapsulates the significant achievements and financial metrics discussed in Red Hat's Q2 FY18 earnings call, providing clarity on their robust performance and optimistic future outlook. The company's strategic focus on subscription-based services and emerging technologies continue to bolster their market position and financial health.

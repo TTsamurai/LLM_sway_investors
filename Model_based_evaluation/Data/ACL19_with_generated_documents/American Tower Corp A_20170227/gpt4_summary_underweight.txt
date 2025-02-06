@@ -1,0 +1,15 @@
+As a financial analyst assuming an 'underweight' investment stance, below are the key considerations from the earnings transcript that support this stance:
+
+1. **Revenue Growth Concerns**: While the company reported strong historical growth rates, including a 10% expected revenue growth for 2017, it is crucial to acknowledge the underlying risks. The negative impact due to non-cash straight-line revenue recognition and decreased decommissioning revenue could potentially strain future earnings.
+   
+2. **International Growth vs. Increased Churn**: International organic tenant billings demonstrated robust growth, notably double the U.S. rate. However, the expected churn, especially in India due to carrier consolidation, could adversely affect sustainable revenue growth. This churn, expected to exceed 2% internationally, needs to be closely monitored as it might lead to lower-than-anticipated performance.
+
+3. **Margin Pressures**: The adjusted EBITDA margin projection for 2017 indicates a decline of around 1% from 2016 levels, despite operational efficiencies. This decline principally stems from the full-year inclusion of the lower-margin Viom portfolio and absence of one-time decommissioning revenue. Marginal growth amid increasing operational scale usually points to underlying inefficiencies or competitive pressures that could hinder profitability.
+
+4. **Capital Expenditure and Debt Levels**: The company plans significant capital expenditures (around $850 million with $690 million discretionary) aimed at expanding and enhancing site infrastructure. While investing in growth is positive, it must be weighed against the returns on these investments. Additionally, with approximately $900 million in incremental debt capacity aimed at maintaining current leverage levels, long-term financial health could be compromised if leveraged growth does not yield proportional returns.
+
+5. **Currency Fluctuation Risks**: There is notable concern about foreign exchange impacts, particularly with significant international operations. The company has hedged some exposure, such as in Nigeria; however, currency volatility could still unfavorably impact earnings and cash flows.
+
+6. **Acquisition Strategy**: The recent acquisition of FPS Towers and potential future acquisitions could provide growth opportunities but also come with integration risks and the potential to divert focus from core operational efficiencies. Such strategic moves should be closely watched to ensure they contribute positively to adjusted funds from operations (AFFO) per share.
+
+In conclusion, while the company shows robust growth indicators and strategic expansion plans, underlying risks associated with churn rates, margin pressures, heavy capital expenditures, and potential over-leverage warrant caution. As such, an 'underweight' stance is recommended until these factors are addressed or show marked improvement, ensuring stability and predictability in future earnings and growth trajectories.

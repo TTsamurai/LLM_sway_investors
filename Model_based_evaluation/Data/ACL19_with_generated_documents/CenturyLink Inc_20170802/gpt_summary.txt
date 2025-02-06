@@ -1,0 +1,31 @@
+. As a financial analyst, I have prepared the following detailed summary report on the recent earnings conference call transcripts.
+
+Key Financial Metrics:
+1. Second Quarter Colo Revenue: Below expectations due to higher losses in legacy revenues and higher broadband unit losses.
+2. Adjusted EBITDA: Met target due to expense control by employees and focus on integration planning activities.
+3. Enterprise High-Bandwidth Data Services Revenues: Grew 1% year-over-year, with a 5% increase excluding price reduction and favorable settlements.
+4. MPLS Customers: Nearly 2,000 in second quarter, driven by improved install intervals for SMB customers.
+5. New Product Launches: CenturyLink Ethernet service, simplified bundles of SD-WAN plus network packages, competitively priced cloud-enabled small business VoIP offering, and comprehensive managed Enterprise offering.
+6. Customer Retention: Focused on reducing credits and adjustments, resulting in lower costs and improved customer loyalty.
+7. Security Services: Growing recognition as a leading provider of security services for Enterprise customers.
+8. Forecasted Growth: U.S. Enterprise high-bandwidth data services and managed network services forecasted to grow at mid to upper single-digit compounded annual growth rates through 2021.
+9. IT Services Revenue: Growing, especially IT consulting, cybersecurity, IT service management, and big data and analytics.
+10. Managed Hosting Business: Showed a solid turnaround in the second quarter.
+
+Mergers and Acquisitions:
+1. Pending Acquisition of Level 3: Making good progress in obtaining necessary approvals to complete the acquisition.
+2. Integration Planning: Highly confident in achieving the $975 million annual run rate operating capital cash synergies target.
+3. Leadership Changes: CEO planning to retire in 2019, leading to a change in executive leadership.
+4. Litigation: Facing lawsuits regarding consumer billing practices, conducting an independent review and supporting fair and appropriate investigations.
+
+Consumer Broadband and Video Revenues:
+1. Consumer Broadband: Seasonally challenging quarter with higher residential subscriber losses due to cable competition and aggressive pricing. Focus on higher-quality, more profitable sales and improved customer retention.
+2. Consumer Video: Revenues were down year-over-year due to restructuring of satellite TV agreements and pivot on Prism product for profitability.
+
+Key Initiatives and Challenges:
+1. Infrastructure and Service Offerings: Increasing availability of higher speeds, simplified pricing, and Price for Life offerings to improve sales and customer retention.
+2. Pending Acquisition Challenges: Working to minimize customer disruption and delays due to integration, customer decision-making, and network infrastructure changes.
+3. Product and Service Expansion: Rollout of over-the-top video product and strategic initiatives to drive revenue growth in the third and fourth quarters.
+4. Regulatory Environment: Positive outlook for less stringent regulation and improvements in FCC policies.
+
+Overall, CenturyLink continues to navigate challenges and opportunities in its business while focusing on financial metrics, growth initiatives, and successful completion of the Level 3 acquisition. The company remains optimistic about future growth opportunities and is committed to addressing legal and regulatory challenges with integrity and fairness.

@@ -1,0 +1,21 @@
+### Future Outlook Report: Underweight Investment Stance
+
+**Company Reviewed: Hess Corporation**
+
+#### Financial Overview:
+Hess Corporation, in its latest quarterly statements, revealed a troubling financial narrative consistent with previous quarters. The company reported a substantial net loss of $324 million for Q1 2017, following an adjusted net loss of $305 million in Q4 2016. Despite slight improvements due to higher realized selling prices and lowered operating costs, these positive factors were insufficient to overturn the overall negative trend. Significant concerns arise from increased corporate expenses, including a spike in after-tax corporate and interest expenses from $72 million in Q4 2016 to $109 million in Q1 2017, exacerbated by the non-recognition of a deferred tax benefit on operating losses.
+
+#### Key Performance Metrics Analysis:
+- **E&P Performance**: While there was an improvement in E&P losses, it remains under substantial pressure, reporting a loss of $233 million in Q1 2017. Cost improvements did not entirely counteract the effects of lower sales volumes and detrimental changes in the effective tax rate, complicating the path to profitability.
+- **Midstream Returns**: The Midstream segment, despite completing a successful IPO, showed a downturn in net income to $18 million in Q1 2017 from $23 million in Q4 2016. Although there has been a recast of prior period financials to incorporate newly classified assets, this segment too faces challenges in matching up to previous performance levels.
+- **Debt and Liquidity Concerns**: The total debt of $6.54 billion juxtaposed against cash reserves of $2.7 billion by the end of March 2017 signals a potentially precarious liquidity situation. The liquidity is supported by available credit facilities; however, these could become constraints if not managed cautiously, especially with expected capital increases linked to project developments and infrastructure enhancements.
+
+#### Future Guidance and Strategic Concerns:
+- **Increased Capital Expenditure**: Guidance indicates a hike in capital spending through the remaining quarters, primarily due to escalated activities in the Bakken and forthcoming projects like the North Malay Basin startup and Stampede, which, though potentially lucrative, will strain the financial reserves in the short term.
+- **Volatility in Production Costs**: There is an anticipated increase in E&P cash costs, reflecting lowered production and increased offshore maintenance charges. These fluctuations pose a recurrent risk to operational efficiencies and cost management strategies.
+- **Dependence on Commodity Prices**: Much optimism relayed by the management hinges on favorable oil price environments. The strategy outlined indicates significant exposure to market volatilities, which could impact profitability and operational viability if the market conditions fluctuate unfavorably. 
+
+#### Investment Viewpoint:
+Despite some improvements, Hess Corporation’s overall performance, marked by continued net losses, increasing operation costs in certain areas, and substantial dependence on high oil prices for relief, casts doubt on its ability to secure a stable and profitable turnaround promptly. Moreover, the impending ramp-up in capital expenditures, potentially funded by already substantial debt levels or liquid cash reserves that might otherwise serve as a safety net, adds to the risk profile.
+
+Overall, with the current financial makeup, operational challenges, and strategic dependencies on volatile external factors, an 'underweight' investment stance is recommended. Investors should remain cautious, keeping abreast of the company's ability to manage expenses and navigate the risky terrains of dependency on fluctuating commodity prices and high-stake project executions.

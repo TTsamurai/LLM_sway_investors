@@ -1,0 +1,24 @@
+Based on the detailed review of the company's recent quarterly earnings and with an eye toward its future prospects, I advise an 'underweight' investment stance on the company for the following reasons:
+
+1. **Declining Average Selling Price (ASP)**:
+   - Despite growth in Invisalign case volumes, the company has experienced a sequential decrease in ASPs by approximately $50 from Q3 to about $1230 in Q4. This presages a potential revenue compression if the trend persists, especially against a backdrop of increased promotional activities which could squeeze margins further.
+
+2. **Foreign Exchange Vulnerabilities**:
+   - The company acknowledged a $3 million reduction in revenue both sequentially and year-over-year due to currency fluctuations, suggesting a significant foreign exchange risk that was only partially offset by a natural hedge. This vulnerability is exacerbated by a recent change in corporate structure that has led to revaluation impacts from the foreign currency, specifically the euro to USD transition.
+
+3. **Increased Operating Expenses**:
+   - Operating expenses surged by 33.8% year-over-year, with significant investments in headcount and market expansion. While these are intended to support growth, the magnitude and speed of expense escalation could strain profit margins if revenue growth does not substantially exceed expense growth rates.
+
+4. **Marginal Gross Margin Improvement**:
+   - Gross margins remain relatively flat year-over-year, with a slight improvement of only 0.1 percentage points. Such marginal improvements might not be sufficient to support profitability if operating expenses continue to rise or if ASPs continue to fall.
+
+5. **Scanner Business & Innovation Dependence**:
+   - The scanner business has shown notable growth, yet the company has indicated that they do not expect 2017 to match the previous year's growth rate. Dependency on continuous innovation and the cyclical nature of capital equipment purchases could lead to variability in performance, affecting predictability and stability.
+
+6. **Investment in Smile Direct Club**:
+   - The company's financial commitment to Smile Direct Club, which is expected to incur losses at 2 to 3 times the 2016 recorded losses, represents a risky allocation of resources. While it may offer long-term strategic benefits, the immediate financial impact is uncertain and potentially negative.
+
+7. **Increased Capital Expenditure**:
+   - Large planned capital expenditures, notably around $70 million to $75 million in Q1 for a new facility, could strain cash flows. While such investments are significant for expansion, the immediate return on such high investments is uncertain and could be a drag on financials in the short term.
+
+Given these observations, the underweight recommendation reflects concerns over declining ASPs, increased operating expenses, exposure to foreign exchange risks, and significant investments into initiatives like Smile Direct Club that presently enhance financial risk. Potential investors should monitor these factors closely, as they could impact the company's ability to sustain profitability and deliver shareholder value in the near-to-medium term.

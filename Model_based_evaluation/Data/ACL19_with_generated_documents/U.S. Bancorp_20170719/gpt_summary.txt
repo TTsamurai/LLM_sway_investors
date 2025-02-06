@@ -1,0 +1,19 @@
+As a financial analyst, after analyzing the earnings conference call transcripts, I would like to highlight the following key financial metrics:
+
+1. Loan Growth: There was a 0.9% increase in average loans on a linked quarter basis, with a 3.4% year-over-year growth. This growth was primarily driven by rebounding commercial loan growth, particularly in large corporate and middle market lending.
+
+2. Deposit Growth: Total average deposits increased by 0.8% compared to the previous quarter and by 7.7% year-over-year. The interest-bearing deposits are expected to gradually trend towards a 50% level in response to future rate hikes.
+
+3. Credit Quality: Credit metrics remained stable with net charge-offs at 49 basis points and non-performing assets declining by 9.8% on a linked quarter basis.
+
+4. Earnings: Second quarter net income increased by 1.8% compared to the first quarter, but was down 1.4% versus the second quarter of the previous year. Excluding notable items, net income increased slightly year-over-year.
+
+5. Revenues: Total revenue increased by 3.1% on a linked quarter basis and 4.2% year-over-year, reaching a record $5.5 billion. Net interest income increased by 2.4% compared to the first quarter and by 5.9% year-over-year.
+
+6. Operating Expenses: Non-interest expenses increased by 2.7% compared to the previous quarter and by 6.4% year-over-year. This increase was mainly driven by higher compensation expense and other non-interest expenses.
+
+7. Capital Position: The common equity Tier 1 capital ratio estimated using the Basel III standardized approach was 9.3%, exceeding the capital target of 8.5%.
+
+Based on the forward-looking guidance provided, the company expects linked quarter total loan growth to be in the range of 1% to 1.5%, with average earning asset growth tracking with loan growth. The net interest margin is expected to increase by four to five basis points in the third quarter, supported by positive operating leverage and year-over-year expense growth of 3% to 5%.
+
+Overall, the financial metrics indicate a positive trajectory for the company's performance, with a focus on growth, stability, and efficiency in the coming quarters.

@@ -1,0 +1,29 @@
+### Future Outlook Report: Underweight Investment Stance
+
+**Company Overview:**
+The company under analysis has exhibited robust performance in its latest quarterly earnings, showcasing strong internal storage revenue growth and significant benefits from the acquisitions, notably Recall. Despite these robust metrics, there are underlying challenges that potentially undermine future performance, which are important for constructing an investment thesis that leans towards an 'underweight' stance.
+
+**Financial Highlights and Concerns:**
+1. **Revenue Growth Dependency on Acquisitions**: While the company reported a total revenue growth of 25.1%, much of this growth was fueled by acquisitions rather than organic growth. Organic internal storage revenue grew by only 3%, indicating potential saturation or slow growth in the core business without external boosts.
+
+2. **Margin Pressures**: The integration of Recall seems to have diluted margins, with a 120 basis-point decline in adjusted gross margin, primarily due to higher rent expenses and lower-margin characteristics of Recall's business. This margin erosion, if sustained, could impact long-term profitability.
+
+3. **Increased SG&A Expenses**: Adjusted SG&A expenses rose significantly by 20.1% year-over-year. Although there has been a 100 basis-point improvement in SG&A as a percentage of total revenue, the absolute increase could be a sign of rising operational costs which may not simultaneously come with equivalent revenue growth, especially in a post-acquisition phase.
+
+4. **Tax and Structural Challenges**: The company faces a higher structural tax rate, increasing from 14% to over 23%, which has negatively impacted the adjusted EPS. Tax legislation changes, particularly in the U.K., have also imposed additional burdens, with management actively pursuing restructuring to mitigate these impacts.
+
+5. **Seasonality and Volatility**: Seasonal fluctuations in utility costs and compensation expenses have further pressured margins. Additionally, there is an expectation of quarterly volatility in terms of AFFO, influenced by varying cash tax obligations.
+
+6. **Innovation and Product Development Risks**: While the company is investing in innovation, which is necessary for future growth, there is a risk associated with the commercial success of these innovations. There has been a clear indication that newer activities centered around solution selling are expected to carry lower gross margins compared to traditional storage services.
+
+7. **Debt and Liquidity Concerns**: The company maintains a sizeable amount of debt, with a lease-adjusted debt ratio of 5.8 times which is above the industry average. Although there is a plan to reduce this to 5 times by 2020, high leverage poses risks, particularly if growth slows more than projected or if integration synergies do not materialize as expected.
+
+**Segment-Specific Challenges:**
+- North America data management has seen a decline in internal service revenue due to ongoing reductions in tape rotation.
+- Western Europe’s EBITDA margins declined year-over-year due to one-time tax benefits received in the previous year.
+
+**Guidance and Projections:**
+With the company maintaining its 2017 outlook unchanged and expecting a marginal increase in adjusted EBITDA margins along with AFFO growth, the forward outlook reflects modest optimism. However, this does not fully mitigate the pressures from high operating costs, competitive market dynamics, and margin concerns.
+
+**Conclusion:**
+Given the above analysis, the recommendation of adopting an 'underweight' stance is based on the current financial stressors, high dependence on acquisitions for growth, margin deterioration, and significant ongoing investments into innovations that have uncertain financial returns. Despite strong past performance, the risks associated with operational, financial, and strategic factors could limit the upside potential of the investment in the near to medium term. Investors should pay close attention to the company’s ability to manage integration and innovate effectively, while also preparing for potential impacts from structural tax changes and ongoing global market adjustments.

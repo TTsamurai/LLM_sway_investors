@@ -1,0 +1,35 @@
+**Summary Report: Underweight Investment Stance**
+
+**Company Overview:**
+Alliance Data provided a detailed insight into their financial performance during the recent earnings call. Despite a complex year inflamed by legislative changes and unforeseen expenses, the company reported varied growth across its diverse business segments.
+
+**Key Financial Metrics:**
+
+1. **Revenue Growth:**
+   - **Pro Forma Revenue (2016):** $7.4 billion, indicating a 15% increase from 2015. Adjusting for the $175 million generated from elevated Q4 redemption activity, actual growth aligns with previous expectations at about 12%, amounting to approximately $7.2 billion.
+
+2. **Core EPS:**
+   - Core earnings per share stood at $16.92, marking a 12% increase from 2015 and slightly surpassing the guidance by $0.02. This figure was adjusted for a $242 million one-time charge relating to legislative changes in Ontario impacting loyalty program expiry terms.
+
+3. **Business Segment Performance:**
+   - **LoyaltyOne:** Excluding the influence of adjusted breakage rates and revenue pull forward, revenue and adjusted EBITDA both grew around 4%. BrandLoyalty experienced high single-digit growth in both revenue and adjusted EBITDA.
+   - **AIR MILES:** Encountered a challenging year impacted by negative media attention and legislative changes that led to increased redemptions. Growth in issued AIR MILES was only 1%, against an expected 3%.
+   - **Epsilon:** Disappointed with a mere 1% growth in revenue and a 6% decline in adjusted EBITDA. Specific segments like technology platforms witnessed a downturn mid-year that contributed negatively to the overall performance.
+   - **Card Services:** Recorded a robust 24% growth in revenue and 14% in adjusted EBITDA. Notably, credit sales grew by 18%, despite a build in allowance for loan losses exceeding $200 million.
+
+4. **Credit Performance:**
+   - Principal loss rate was reported at 5.1%, slightly above the forecasted levels due to slower receivables growth, which impacted the net loss rate negatively.
+
+5. **Capital Management:**
+   - The company prioritized a $500 million share repurchase plan over potential mergers and acquisitions, which indicates a strategic focus on enhancing shareholder returns in the absence of compelling M&A opportunities.
+   - Free cash flow is expected to grow by 7% to 10% in 2017, enabling more aggressive share repurchases.
+
+**Market and Strategy Concerns:**
+Several red flags necessitate the 'underweight' stance:
+- **Legislative Impact:** The enactment of new laws significantly influenced operations, particularly for the AIR MILES program, creating uncertainty and increased costs.
+- **Epsilon’s Underperformance:** The substantial reduction in EBITDA and stagnant revenue growth reflect operational difficulties that might continue affecting the overall profitability.
+- **Credit Management:** The slight increase in the loss rate, coupled with softer growth in core spending, suggests potential future risks in the revenue model based on credit expansions.
+- **Operational Inefficiency:** Despite some improvements, several segments of the business, such as technology platforms, presented challenges impacting overall operational efficiency.
+
+**Conclusion:**
+Alliance Data demonstrated resilience in light of legislative changes and market challenges; however, several intrinsic and market-driven vulnerabilities merit a cautious investment perspective. The firm shows potential for recovery and growth in specific sectors but also displays significant exposure to legislative risks and operational inefficiency, justifying an 'underweight' investment recommendation.

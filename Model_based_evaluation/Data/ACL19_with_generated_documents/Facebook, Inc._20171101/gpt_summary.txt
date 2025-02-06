@@ -1,0 +1,10 @@
+from now on.
+
+Some of the key financial metrics mentioned in the transcript include:
+1. Total revenue growth of 47% year over year, with the first ever quarter reaching more than $10 billion in revenue.
+2. Investment in security measures, AI, and infrastructure, which will significantly impact profitability in the future.
+3. Doubling the number of people working on safety and security from 10,000 to 20,000, and increasing engineering efforts focused on security.
+4. Continued investment in lighthouse content for Watch, but moving towards revenue shares for ad-supported content to support higher production costs.
+5. Investment in AI research and development, including the opening of new AI research labs in Montreal and Paris, to advance security and integrity measures.
+
+These financial metrics indicate the company's commitment to addressing security and integrity issues, as well as the investment in content and technology to ensure the long-term growth and profitability of the business.

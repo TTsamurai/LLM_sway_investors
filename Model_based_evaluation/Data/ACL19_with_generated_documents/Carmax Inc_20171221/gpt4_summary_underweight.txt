@@ -1,0 +1,36 @@
+**Investment Analysis: Underweight Stance on CarMax (Ticker: KMX)**
+
+**Summary:**
+The financial metrics disclosed in the recent CarMax earnings call point towards a range of operational challenges and mixed financial results that reinforce our 'underweight' investment stance. While there are positive aspects such as growth in CAF income and net loans, concerns over sales mix shifts, potential credit risk, and weaker performance in Tier 2 financing justify a cautious outlook.
+
+**Key Financial Metrics and Analysis:**
+
+1. **CAF Net Penetration and Loan Origination:**
+   - CAF net penetration decreased from 45% to 44.2% YOY.
+   - CAF net loans originated increased by 8.6% YOY to $1.5 billion, primarily driven by an increase in the average amount financed.
+   - Although there is growth in net loans originated, the decrease in net penetration may indicate a relative weakening of CarMax's financing arm's grip on its customer base, suggesting a potential risk area as customers explore other financing options.
+
+2. **CAF Income and Receivable Metrics:**
+   - CAF income rose by 15% to $102.8 million, boosted by growth in average managed receivables (up 10.4%) and a lower loss provision.
+   - Portfolio interest margin slightly compressed to 5.7% from 5.8% YOY, indicating potential yield pressures on the receivables.
+
+3. **Credit Quality and Risk:**
+   - The ending allowance for loan losses slightly increased to 1.11% from 1.10% YOY, a relatively stable metric that, nonetheless, warrants monitoring given it reflects a bit of uptick in anticipated credit losses. 
+   - Subprime lending showed an uptick in conversion rates of applications to sales, hinting at increasing reliance on higher-risk customers.
+
+4. **Stock Repurchase and Tax Provision:**
+   - Repurchased 1.5 million shares for $107 million, indicating a slowdown from previous quarters, reflective of perhaps more cautious capital management.
+   - The introduction of new FASB guidance on share-based compensation impacts the tax rate, adding volatility which could affect net income predictability.
+   
+5. **Tax Reform Impact:**
+   - Expected lower corporate tax rates should be beneficial, yet enactment may cause an immediate adverse impact estimated between $50 million to $65 million on the tax provision.
+
+6. **Tier 2 and Tier 3 Financing:**
+   - Witnessed weakness in one of the Tier 2 lenders, highlighting a specific risk point in relationship management and potentially indicating broader challenges in the Tier 2 finance space.
+   - Tier 3 sees stronger performance, perhaps a reflection of downward pressure from Tier 2 but also could imply a shift to servicing higher-risk segments.
+
+**Overall Outlook:**
+Given the mixed bag of results, including growth in some areas of CAF but potential issues in terms of sales mix, penetration rates, and certain financing tiers, the modest downturn in Tier 2, and volatility in tax provisioning, an underweight position is recommended. The company's exposure to subprime and potentially volatile credit markets, the intricacies of managing diverse financing tiers, and potential regulatory impacts on tax provisions suggest a conservative stance. The observed trends necessitate ongoing vigilance over credit quality and operational execution as indicators of future performance and risk management effectiveness.
+
+**Conclusion:**
+Investors should maintain a cautious stance with CarMax, monitoring closely for any signs of deterioration in credit quality or further erosion in financing market shares which could impact overall profitability and shareholder returns.

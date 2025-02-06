@@ -1,0 +1,33 @@
+**Company: Hess Corporation**
+**Analyst: Financial Analyst**
+**Investment Stance: Underweight**
+ 
+**1. Financial Performance and Trends:**
+- Recent financial results reveal significant losses, with net losses of $624 million in Q3 2017 compared to a loss of $449 million in Q2 2017. Even with adjustments for comparability, the loss remains substantial at $324 million in Q3.
+- Adjusted net loss in the E&P segment showed improvement ($238 million in Q3 from $354 million in Q2), driven by several factors such as higher realized selling prices and reduced operating costs.
+
+**2. Asset Sales and Strategic Shifts:**
+- The company has been actively divesting assets, including notable sales in Equatorial Guinea, Norway, and Denmark, with projected proceeds of approximately $3.25 billion.
+- Asset sales aim to reduce debt ($500 million targeted) and refocus capital expenditure towards high potential areas such as Guyana and Bakken, indicating a strategic pivot towards these regions.
+- Despite asset divestiture, there appears to be no plan for mergers and acquisitions, focusing instead on organic growth and portfolio optimization.
+
+**3. Cash Flow, Liquidity, and Debt:**
+- Q3 2017 ended with cash and equivalents of $2.48 billion, total liquidity of $6.8 billion, and debt at $6.16 billion.
+- Operating cash flow remains volatile, as evident from the $327 million reduction due to working capital changes in Q3.
+- The company has a robust crude oil hedge position through 2018, potentially safeguarding cash flows against price volatility.
+
+**4. Operational Efficiency and Cost Management:**
+- Despite the financial turmoil, the company has managed cost-effective operations in specific sectors (pro forma cash costs were $12.80 per barrel, below the reported $13.67).
+- The focus on cost reduction is expected to continue, with anticipated annual savings of $150 million post-2018, largely benefiting from organizational restructuring.
+
+**5. Guidance and Future Outlook:**
+- Going forward, quarterly guidance highlights ongoing efforts to reduce costs and enhance operational efficiency. The projected E&P cash costs range from $13.50 to $14.50 per barrel and DD&A from $22.50 to $23.50 per barrel.
+- The effective tax rate adjustment and lower DD&A for assets classified as held-for-sale suggest temporary financial improvements but underscore the need for sustainable operational profitability.
+
+**6. Risks and Concerns:**
+- The company's financial health remains uncertain with the continued recording of significant losses. The dependency on asset sales for liquidity rather than operational income is a critical concern.
+- The strategic focus on Guyana and Bakken, although potentially lucrative, adds geographical and operational risks, particularly in emerging markets and complex extraction environments.
+- Uncertainties in global oil prices, geopolitical tensions, and regulatory changes pose substantial risks to projected cash flows and profitability.
+
+**Recommendation:**
+Based on the above analysis, the recommendation is to maintain an 'underweight' position for Hess Corporation. The ongoing losses, coupled with heavy reliance on asset sales for financial stability, suggest caution. Investors should monitor the company's ability to stabilize its core operations and successfully execute its strategic pivot towards high-return assets in Guyana and Bakken. The effectiveness of the cost reduction initiatives and the impact of geopolitical and market dynamics on Hess's operations will be critical determinants of its future financial health.

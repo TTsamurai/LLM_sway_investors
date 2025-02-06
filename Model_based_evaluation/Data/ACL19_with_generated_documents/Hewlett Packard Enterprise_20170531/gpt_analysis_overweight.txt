@@ -1,0 +1,13 @@
+So, the company's recent earnings conference call transcript paints a mixed picture of the company's performance, with some areas of weakness and others that show promise. From the statement, it is clear that the company is focusing on driving growth in its higher-margin businesses and aligning its cost structure with its future operating model. The total revenue for the quarter was $9.9 billion, with revenue from continuing operations of $7.4 billion, down 5% adjusted for divestitures and currency. However, if you exclude software and tier 1 and consider just the future HPE, revenue was actually up 1%.
+
+Margins continue to be a concern, with gross margin down 200 basis points year-over-year and non-GAAP operating profit down 130 basis points year-over-year. The company is facing challenges from increased DRAM pricing, currency headwinds, and competitive pricing. However, they are taking steps to optimize the cost structure and believe they can drive an incremental $200 million to $300 million in cost savings in just the second half of this year. Additionally, they are working to stabilize the data center networking business, which grew slightly.
+
+From a revenue perspective, the company's enterprise group saw revenue declining by 7% in a tough market, but showed growth in certain areas such as Aruba, three-part all-flash arrays, high-performance compute, and technology services.
+
+The company's technology services also remain a bright spot with revenue up 3%, showing strong order performance in consulting and particular strength in network and data center solutions.
+
+The company's financial services segment also showed growth, with revenue up 11%, indicating the increasing importance of flexible consumption models to customers.
+
+In terms of guidance, the company expects Q3 '17 non-GAAP diluted net earnings per share of $0.24 to $0.28 and full-year '17 non-GAAP diluted net earnings per share outlook of $1.46 to $1.56.
+
+Overall, based on the insights from the earnings conference call transcript, it is clear that the company is working to address the challenges it is facing and is optimistic about the future. Although there are areas of weakness, the company's focus on driving growth in higher-margin businesses, aligning its cost structure, and taking steps to optimize cost savings is a positive sign. Therefore, adopting an 'overweight' investment stance based on these key insights and financial metrics derived from the recent earnings conference call transcript would be warranted.

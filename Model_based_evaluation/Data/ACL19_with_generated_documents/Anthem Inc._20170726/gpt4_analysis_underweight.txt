@@ -1,0 +1,28 @@
+### Investment Analysis: Underweight Stance on Anthem, Inc.
+
+**Overview:**
+Based on the details provided in the Q2 2017 earnings call of Anthem, my analysis recommends an 'underweight' investment stance. While Anthem has shown profitability and membership growth, several uncertainties, primarily regulatory and market-driven, suggest a cautious approach.
+
+**Key Financial Metrics:**
+- **Earnings Per Share (EPS):** The company reported a GAAP EPS of $3.16 and an adjusted EPS of $3.37.
+- **Operating Revenue:** Grew by 4.3% from Q2 2016 to $22.2 billion in Q2 2017.
+- **Operating Margins:** Commercial operating margin declined to 9.4%, a reduction of 150 basis points from the previous year. The Government business operating margin also fell by 150 basis points to 2.5%.
+
+**Membership Trends:**
+- **Growth in Total Membership:** Anthem’s membership grew by 468,000 lives in the first half of 2017, reaching 40.4 million members.
+- **Decline in Individual Enrollment:** Enrollment in the Individual sector saw a reduction by 107,000 lives, indicating potential instability in this market segment.
+
+**Market and Policy Uncertainties:**
+- **ACA Market Participation:** Uncertainties surrounding the continuation of cost-sharing reduction (CSR) subsidies and other legislative changes have made the ACA-compliant individual market volatile. Anthem has already planned exits from ACA marketplaces in three states and suggested further narrowing of participation might be necessary.
+- **Healthcare Policy Changes:** Continuous changes and debates in healthcare policies at both state and federal levels add to the unpredictability of operating conditions for health insurers like Anthem.
+
+**Future Financial Outlook:**
+- **Earnings Guidance:** Anthem has revised its 2017 adjusted EPS guidance upwards to over $11.70, citing improved performance in the Commercial Local Group business despite unstable individual marketplaces.
+- **Pharmacy Benefit Management (PBM) Strategy:** The potential shift from Express Scripts to a new PBM solution could lead to significant cost savings but also entails complex transition risks.
+
+**Concerns and Risks:**
+- **Regulatory Risks:** The ongoing uncertainty and potential shifts in healthcare policies, including the funding of CSRs and the status of the health insurance tax, directly impact pricing and profitability.
+- **Operational Risks:** The Individual ACA-compliant business is expected to operate at a slight loss, with high reliance on mitigating claims pressures through medical management.
+
+**Conclusion:**
+While Anthem displays strong performance in certain sectors like Commercial and Government business, the inherent volatility and regulatory uncertainties in the health insurance market, particularly concerning the ACA, suggest a cautious investment approach. The company’s proactive management strategies are commendable but given the significant external pressures, an 'underweight' stance is advisable, targeting a more conservative investment in this sector until greater market stability and regulatory clarity are achieved. Analysts and investors should remain vigilant to shifts in healthcare policy and market dynamics that could affect Anthem’s operations and financial health.

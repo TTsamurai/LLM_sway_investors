@@ -1,0 +1,19 @@
+ based on the comments made in the earnings conference call transcript, here are the key insights and financial metrics to consider for the future outlook report adopting an 'underweight' investment stance for Akamai:
+
+1. Revenue Growth: The company's Q1 revenue was $609 million, up 7% year-over-year. Revenue from Performance and Security Solutions was particularly strong, growing 18% year-over-year. However, Media Delivery Solutions revenue was down 9% year-over-year.
+
+2. Revenue Diversification: The company has seen continued diversification into highly differentiated, higher margin, and more stable subscription model offerings, particularly in the Performance and Security Solutions category.
+
+3. Future Growth Potential: The company remains bullish on the longer-term secular growth trends, especially in the OTT area as more video content moves online.
+
+4. Costs and Gross Margins: Cash gross margin was 77%, consistent with previous quarters. However, GAAP gross margin, including depreciation and stock-based compensation, was 66%, down 1 point from previous quarters.
+
+5. Expenses and EBITDA: GAAP operating expenses were $288 million, and adjusted EBITDA for the quarter was $241 million, down $6 million from the previous quarter.
+
+6. Net Income and EPS: GAAP net income for the quarter was $81 million, with non-GAAP net income at the high end of the guidance. The non-GAAP EPS guidance for the next quarter is projected to be in the range of $0.59 to $0.61.
+
+7. International Markets: International market revenue represented 33% of total revenue in Q1, with strong growth in the Asia Pacific region.
+
+8. Future Guidance: The company expects overall Q2 revenue in the range of $597 million to $609 million, with the anticipation of moderation of Media growth rates and cautious guidance for the back half of the year.
+
+Based on these insights, an 'underweight' investment stance could be recommended. The company's Media Delivery Solutions revenue declined, and there are cautious projections for future growth rates in this segment. Additionally, the company's expenses, including operating and capital expenditures, are projected to increase, which could impact profitability and margins. The company's future prospects may be impacted by continued investments in newer product offerings and potential revenue variability in the Media business.

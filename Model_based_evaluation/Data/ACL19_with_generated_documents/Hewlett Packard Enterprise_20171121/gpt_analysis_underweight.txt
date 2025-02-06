@@ -1,0 +1,11 @@
+Based on the recent earnings conference call transcript, HPE's future outlook seems positive, with the company announcing growth in revenue for Q4 FY '17 and the full year FY '17. The stability and growth of the core rack and tower server business, as well as the company's investments in key growth areas like intelligent edge, high-performance compute, and all-flash storage, are indicators of a strong competitive position.
+
+Additionally, HPE has made strategic decisions to further sharpen its focus and accelerate performance, such as the separation into two independent Fortune 100 companies, divesting some business units, and making strategic acquisitions to strengthen its portfolio in key growth areas.
+
+HPE's strong leadership team, led by President and CEO Antonio Neri, is another positive indicator for the company's future. Neri has been with the company for 22 years and is described as a deep technologist, capable of leading the next phase of value creation for shareholders.
+
+However, despite these positive indications, there are still concerns that prompt an 'underweight' investment stance. The competitive pricing environment, challenges in the U.S. market for storage business, and disruptions in the supply chain due to events like Hurricane Harvey are areas of potential risk. Additionally, the impact of upcoming changes in the Tier 1 server business and fluctuations in DRAM pricing should be monitored closely.
+
+The company's recent reorganization and transition from the design phase of HPE Next to the execution phase could also introduce an element of business disruption, which might impact financial performance in the short term.
+
+Overall, while HPE has demonstrated growth and strategic advancement, there are potential risks that suggest a cautious investment approach. Close monitoring of market dynamics, organizational changes, and financial metrics will be important in assessing future investment decisions.

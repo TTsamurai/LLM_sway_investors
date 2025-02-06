@@ -1,0 +1,37 @@
+### Future Outlook Report: PayPal – Underweight Investment Stance
+
+#### Introduction:
+PayPal has demonstrated strong financial performance as evidenced by their solid fourth quarter results of 2016 and continual growth throughout the year. However, adopting an 'underweight' investment stance necessitates a critical analysis beyond surface-level metrics. This report delves into potential concerns and market challenges that may influence PayPal's future prospects despite their current strong performance.
+
+#### Financial Performance Overview:
+- **Earnings Per Share (EPS)**: PayPal reported a non-GAAP EPS of $0.42 for Q4 2016, which aligns with the upper end of their guidance. The full-year non-GAAP EPS was $1.50.
+- **Revenue Growth**: Revenues increased by 19% on an FX-neutral basis in Q4, reaching $2.981 billion. The full-year revenue grew by 21%, totaling $10.84 billion.
+- **Free Cash Flow**: PayPal generated $771 million in free cash flow in Q4 and $2.5 billion for the full year.
+
+#### Market Position and Innovations:
+- PayPal expanded its mobile payment functionalities and partnerships, significantly growing the payment volumes processed through mobile devices, which now account for 55% of their total payment volume.
+- Strategic alliances with major financial institutions and networks like Visa and MasterCard have been formed, aiming to extend PayPal’s market reach and enhance user flexibility.
+- Introduction of new features like One Touch significantly boosted online conversion rates.
+
+#### Risks and Challenges:
+1. **Intense Market Competition**:
+   - The payments industry is experiencing rapid digitization, inviting intense competition from both established financial entities and emerging fintech startups. As the market becomes saturated, PayPal may find it challenging to maintain its growth trajectory.
+   
+2. **Regulatory Scrutiny**:
+   - Increased regulatory focus on digital payments could impose new compliance costs or constraints that affect operational flexibility.
+
+3. **Global Market Penetration**:
+   - Expanding into less familiar international markets involves risks related to regulatory compliance, cultural adaptation, and foreign exchange volatility.
+
+4. **Consumer Behavior Shift**:
+   - While PayPal has capitalised on the shift towards online and mobile shopping, any unpredicted shift in consumer behavior or technological disruption could impact performance.
+
+5. **Dependence on Strategic Partnerships**:
+   - PayPal’s growth is becoming increasingly reliant on partnerships. Any faltering in these relationships, or changes in terms favorable to PayPal, can have immediate effects on their business model and revenue growth prospects.
+
+#### Forward-Looking Statements:
+- PayPal's management has shown optimism for continued growth and innovation, particularly emphasizing mobile engagement and the exploration of new market opportunities internationally.
+- The monetization of Venmo and integration into broader payment contexts is a significant avenue for future revenue, though it represents a delayed impact on financials, likely coming to fruition post-2017.
+
+#### Conclusion:
+While PayPal exhibits impressive current financial metrics and strategic positioning, the complexities of an increasingly competitive environment, reliance on continuous innovation, and potential regulatory challenges contribute to the recommendation of an 'underweight' investment stance. Investors should maintain careful vigilance over the evolving payments landscape and PayPal’s adaptability to sustain its growth momentum. This stance is supported by the potential headwinds that might impede long-term growth in contrast to immediate past performance metrics which present a highly favorable view.

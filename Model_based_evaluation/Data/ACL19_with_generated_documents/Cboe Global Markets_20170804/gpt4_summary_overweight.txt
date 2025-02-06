@@ -1,0 +1,33 @@
+**Investment Summary Report with an Overweight Stance**
+
+**Company:** CBOE Holdings
+
+**Financial Performance and Key Metrics:**
+- **Adjusted Earnings Per Share (EPS):** CBOE reported a strong adjusted EPS of $0.87, demonstrating robust profitability.
+- **Net Revenue:** Impressively, CBOE recorded net revenue of $267 million for Q2 2017. Revenue growth is primarily driven by continued expansion in proprietary index products.
+
+**Operational Highlights:**
+1. **Options Volume:** A year-over-year increase of 15% in overall options volume showcases strong market demand, particularly in the proprietary products.
+2. **Record Trading Volumes:** The VIX (Volatility Index) trading escalated by 19% compared to Q2 of last year, indicating heightened investor interest in volatility as a tradable asset.
+3. **Index Options and ETF Growth:**
+   - A 9% increase in index options volume, highlighting a robust trading environment.
+   - Significant growth in ETF marketplace with over 221 ETFs now listed, 89 of which were added in the current year.
+   
+**Strategic Initiatives and Technological Innovations:**
+- **Partnership with Gemini Trust Company:** This collaboration allows CBOE exclusive global rights to use Gemini's market data to develop bitcoin derivatives, indicating CBOE's strategic entry into cryptocurrency derivatives.
+- **Platform Integration:** Continued efforts for integrating trading technology onto the Bats platform, promising future operational efficiencies and improved client engagement.
+- **Expanded Global Presence:** The opening of a satellite Hong Kong APAC office aligns with the strategic global expansion, aiming to capture a broader market base and offer localized services in key Asian markets.
+
+**Regulatory and Market Development:**
+- **MiFID II:** CBOE’s readiness and proactive approach towards MiFID II compliance illustrate their commitment to regulatory excellence and market integrity.
+- **Proposed Bats Market Close:** Awaiting SEC approval, this initiative reflects an innovative approach to enhance market operations and client offerings.
+
+**Market Positioning and Future Outlook:**
+- CBOE holds a strengthening market share in ETFs and is growing its presence in global FX volumes which increased by 8%.
+- Strategic focus remains on leveraging index products, primarily through volatility trading and ETFs, which are anticipated to capture increasingly diversified client segments.
+- The focus on low volatility environments and the strategic diversification into bitcoin derivatives emphasizes CBOE's commitment to addressing market needs and trends effectively.
+
+**Recommendation: Overweight**
+- The overweight recommendation is supported by CBOE’s strong financial performance, strategic market positioning, and innovative growth initiatives. The company’s robust revenue performance, coupled with strategic expansions and product developments, position it well for sustained growth. Investors should consider CBOE’s shares favorable for achieving above-market returns, particularly given the company’s pioneering moves into emerging asset classes and technology platforms.
+
+Investors are advised to closely monitor further developments in regulatory landscapes, tech integrations, and global market expansions as these factors will be pivotal to CBOE's continued success and influence in the financial markets.

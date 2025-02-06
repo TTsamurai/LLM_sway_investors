@@ -1,0 +1,32 @@
+**Earnings Conference Call Summary:**
+
+**Financial Highlights:**
+1. **Revenue:** Total revenue for the quarter stood at $24.7 billion, reflecting an increase of 9% year-over-year (YoY) and 10% on a constant currency basis. LinkedIn contributed approximately 5 points to the revenue growth.
+
+2. **Gross Margin:** Gross margin increased by 11% YoY and 12% in constant currency terms. Gross margin at the company level was 66%, marking a 1-point increase from the previous year. LinkedIn contributed around $217 million of amortization costs. 
+
+3. **Operating Income:** The operating income grew by 13% YoY and 16% in constant currency. However, LinkedIn's operating loss of $361 million negatively impacted the operating income growth by 6 points. This was largely due to $371 million in amortization of acquired intangibles included in COGS and OpEx.
+
+4. **Earnings Per Share (EPS):** EPS was $0.98, up 42% YoY. Adjustments related to prior years' non-deductible phone-related losses contributed $0.23 to EPS.
+
+5. **Commercial Cloud Business:** The commercial cloud annualized revenue run rate exceeded $18.9 billion, showing a 56% growth. Commercial cloud revenue for the year nearly reached $15 billion, with gross margin percentage increasing by 10 points YoY to 52%.
+
+6. **Segment Revenue:**
+   - **Productivity and Business Processes:** Revenue in this segment grew by 21% (23% in constant currency) to reach $8.4 billion. LinkedIn contributed 15 points to the growth. Office 365 Commercial revenue outperformed, growing by 43% (44% in constant currency).
+   - **Intelligent Cloud:** Revenue was $7.4 billion, growing by 11% (12% in constant currency). Azure’s revenue specifically saw a 97% increase (98% in constant currency).
+   - **More Personal Computing:** This segment saw a slight decline with revenue at $8.8 billion, down 2% (but only -1% in constant currency), impacted by a reduction in phone revenue.
+
+7. **Capital Expenditure (CapEx):** Q4 saw approximately $3.3 billion spent, including capital leases, with $2.3 billion paid in cash for property and equipment.
+
+8. **Free Cash Flow:** Increased 50% YoY, driven primarily by a 30% increase in operating cash flow and lower expenditures in CapEx.
+
+9. **Shareholder Returns:** The company returned $4.6 billion to shareholders through repurchases and dividends.
+
+**Forward-Looking Projections:**
+- Considering stable current FX rates, a less than 1 point negative impact is expected on revenue growth.
+- In FY 2018, gross margin percentage is expected to decline about 1 point with increasing cloud revenue mix and full-year LinkedIn amortization.
+- Commercial unearned revenue is expected to be in the range of $24.85 to $25.05 billion.
+- Full-year non-GAAP tax rate anticipated to be 23%, with adjustments for quarterly variability.
+- LinkedIn is expected to be non-dilutive in FY 2018.
+
+The detailed financial figures and projections outlined in this earnings call highlight a strong performance across various segments with significant contributions from the cloud business and LinkedIn, despite its operational losses. Future investments in cloud infrastructure and strategic positioning in the productivity and business processes segment anticipate fostering continuous growth.

@@ -1,0 +1,31 @@
+## Earnings Conference Call Summary - Adopting an 'Underweight' Stance
+
+**Company: GGP Inc.**
+**Date: Q1 2017 Earnings Call**
+
+### Key Financial Metrics:
+1. **FFO per Diluted Share:** Reported at $0.36, aligning with guidance and consensus.
+2. **Dividend:** Declared at $0.22 for the quarter, marking a 16% increment from the previous year.
+3. **Same-store NOI Growth:** Achieved a 2.9% increase, suggesting moderate operational growth.
+4. **EBITDA Growth:** Registered at 3.7%, showing stability in earnings before interest, taxes, depreciation, and amortization.
+5. **Leasing Levels:** A decrease from 96.1% last year to 95.9%, driven by tenant bankruptcies affecting 1.2 million square feet. Approximately 80% of the impacted space has been re-leased, signaling underperformance in portfolio management.
+
+### Analysis:
+- **Lease Rates and Asset Quality:** GGP has managed a slight growth in same-store NOI and EBITDA, attributed primarily to the performance of its A assets. Despite this, a 0.2% decrease in overall leasing levels hints at potential vulnerabilities in tenant retention and attraction, exacerbated by recent tenant bankruptcies.
+  
+- **Dividend Increase and Reinvestment Risks:** The increase in dividends, although potentially attractive to income-focused investors, raises concerns regarding the company's long-term reinvestment strategy and its ability to sustain growth amidst leasing challenges.
+
+- **Tenant Mix and Sales Performance:** The apparel category, which constitutes about half of the total sales, experienced a 1.8% decline. This could suggest a weakening demand within a significant segment of GGP’s portfolio. In contrast, non-apparel categories showed stronger performance, which may not entirely compensate for losses in apparel.
+
+- **Portfolio Recovery and Reliance on A Assets:** The heavy reliance on the top-performing A assets, which contribute to 80% of the NOI and are forecasted to grow at 4%, underscores a concentration risk. Should these assets falter, the impact on the overall portfolio could be substantial.
+
+- **Long-term Leasing and Redevelopment Initiatives:** Re-leasing nearly 80% of the space impacted by tenant exits indicates some recovery, yet poses questions on the long-term stability and attractiveness of GGP's properties. The ongoing and planned redevelopment projects, while necessary, carry execution risk and capital allocation concerns, especially given the uncertain retail environment.
+
+### Conclusion and Investment Stance:
+Considering the outlined financial metrics and associated risks, an 'underweight' stance on GGP’s stock is recommended. The factors justifying this stance include:
+- **Underwhelming leasing metrics and the impact of tenant bankruptcies.**
+- **Risks associated with high dividend payouts amidst operational challenges.**
+- **Dependence on a limited number of high-performing assets.**
+- **Uncertainties surrounding the long-term effectiveness of redevelopment projects.**
+
+Investors should closely monitor the company's ability to manage and mitigate leasing challenges, the performance trajectory of redeveloped properties, and the broader retail environment’s impacts on GGP’s prime assets. Adjustments to the investment stance may be warranted based on these factors and emerging market conditions.

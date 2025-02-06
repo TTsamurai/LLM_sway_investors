@@ -1,0 +1,36 @@
+## Earnings Summary Report: Underweight Stance
+
+### Company Overview and Quarter Performance 
+The company posted a solid earning of $0.45 per share for the quarter in 2017, compared to $0.39 in the same quarter of the previous year. This increase in EPS was largely attributed to higher electric and natural gas margins, resulting from rate increases in non-fuel riders to cover capital investments. Additional contributing factors included a lower effective income tax rate, primarily driven by wind production tax credits, and reduced Operations and Maintenance (O&M) expenses.
+
+### Key Financial Metrics
+- **Earnings Per Share (EPS)**: Increased from $0.39 in 2016 to $0.45 in 2017 for the quarter.
+- **Revenue Drivers**: Elevated margins in electricity and natural gas sectors due to regulatory rate increases.
+- **O&M Expenses**: Decrease by $19 million QoQ and $10 million YoY, contributing to the earnings increase.
+- **Depreciation Expense**: Increased depreciation expense lowered EPS by $0.05, reflecting capital additions.
+
+### Sales Performance
+- **Electric Sales**: Grew 0.8% YTD on an adjusted basis, slightly above expectations.
+- **Natural Gas Sales**: Increased 1.7% YTD, reflecting steady customer growth offset by lower usage per customer.
+
+### Regulatory and Strategic Updates
+- Approval of a multi-year electric rate case by the Minnesota Commission, providing revenue and price certainty until 2019.
+- Approval of an advanced grid proposal and a modified decoupling mechanism in Colorado.
+- New rate cases filed in Wisconsin and Colorado aiming for increased revenues based on forward test years.
+
+### Investment and Risk Analysis
+- **Capital Investments**: Noted deferment of approximately $120 million in capital investments in Colorado, suggesting potential short-term financial relief but long-term commitments.
+- **Rate Cases**: High dependence on favorable regulatory outcomes, which introduces regulatory risk.
+- **Customer Usage Trends**: A decline in usage per customer could indicate underlying inefficiencies or shifts in consumer behavior that might impact future revenues.
+  
+### Forward-Looking Statements
+Expressing an optimistic outlook, the company expects to meet its 2017 earnings guidance of $2.25 to $2.35 per share, reinforcing its growth targets of 4% to 6% in earnings and 5% to 7% in dividends.
+
+### Concerns and Recommendations (Underweight Stance)
+1. **Regulatory Dependence**: The company’s performance and strategic initiatives show significant dependence on regulatory approvals, which poses risks given the unpredictable nature of regulatory environments.
+2. **Usage Decline Per Customer**: The consistent decline in usage per customer in both electricity and natural gas sectors could indicate a long-term risk to revenue growth.
+3. **Deferred Investments**: The deferral of capital investments may impact the long-term strategic capability of maintaining grid reliability and customer satisfaction.
+4. **ROE Performance Gap**: The ongoing efforts to close the gap between allowed and actual Returns on Equity (ROE) show persistent operational inefficiencies which need addressing to enhance competitiveness and profitability.
+
+### Conclusion
+Given these observations, the recommendation is for an underweight investment stance on the company’s stock. This position is driven by the identified risks relating to regulatory dependence, customer usage trends, and deferred investments potentially impacting long-term growth. The company needs to transparently address these areas to improve investor confidence and stock performance.

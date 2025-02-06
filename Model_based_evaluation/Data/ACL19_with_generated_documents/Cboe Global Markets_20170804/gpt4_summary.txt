@@ -1,0 +1,48 @@
+**CBOE Earnings Summary Report - Q2 2017**
+
+**Overview:**
+CBOE Holdings reported a strong financial performance in the second quarter of 2017. Key highlights included robust growth in proprietary index products, significant volume increase in VIX trading, and strategic expansion in ETF listings and global market presence.
+
+**Financial Metrics:**
+- **Adjusted Earnings Per Share (EPS):** $0.87
+- **Net Revenue:** $267 million
+- **Options Volume Growth:** +15% compared to the same quarter the previous year.
+
+**Performance by Segment:**
+1. **Volatility Index (VIX) Products:**
+   - VIX options and futures saw a remarkable increase, with trading volume for VIX futures up 19% year-over-year.
+   - Continued dominance in the VIX market, with a record quarter in VIX trading.
+
+2. **Index Options:**
+   - 9% increase in volume, indicating strong growth in SPX options volume.
+
+3. **Global FX Volume:**
+   - Increased by 8% from the previous year.
+   - Market share grew to 12.9% at the end of June, up from 11.5% the previous year.
+
+4. **Exchange-Traded Funds (ETFs) and Notes:**
+   - The Bats ETF marketplace thrived, now hosting over 221 ETFs.
+   - Achieved its highest-ever percentage of new listings at 39% for the year.
+   - Launched new exchange-traded notes during the quarter.
+
+5. **Integration and Technology Expansion:**
+   - An agreement with Gemini Trust Company to utilize Gemini’s market data to create bitcoin derivatives was made.
+   - Ongoing migration of trading technology to the Bats platform, with significant milestones being the expected completion dates set for the future exchanges.
+
+6. **Regulation and Compliance:**
+   - Successfully advancing readiness for MiFID II, with significant software releases ensuring compliance.
+
+7. **Innovative Market Proposals:**
+   - Continuation of the Bats market close proposal, which, pending SEC approval, would provide significant closing price benefits.
+
+**Outlook and Strategic Initiatives:**
+- Expanded product line and global reach are expected to further drive growth. The integration of Bats has positioned the company to cross-sell additional products and leverage a broader customer base meaningfully.
+- Opening of a new Hong Kong office in Q3 to enhance the APAC presence.
+- Anticipated offerings in the crypto sector with bitcoin futures in partnership with Gemini, subject to regulatory review.
+- Continued focus on delivering state-of-the-art trading technology and index products targeting the over-the-counter (OTC) space.
+
+**Conclusion:**
+CBOE Holdings’ Q2 Financial Results reflect a strong performance across core business lines and strategic initiatives aimed at future growth and expansion. The company’s enhanced product offerings and market presence point to a positive outlook for the coming quarters. Further efforts to integrate and leverage technologies and partnerships, such as with Gemini for bitcoin derivatives, are set to strengthen CBOE's position in both existing and emerging markets.
+
+---
+This summary encapsulates a detailed report based on the provided earnings call transcript, focusing on all key financial metrics and major strategic outcomes relevant for stakeholders.

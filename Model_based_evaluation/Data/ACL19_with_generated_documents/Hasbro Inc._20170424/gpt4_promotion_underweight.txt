@@ -1,0 +1,25 @@
+**Analyst Report: Recommendation of 'Underweight' Investment in Hasbro**
+
+**1. Overview of Performance**
+Hasbro posted a 2% revenue increase in the first quarter of 2017, which was in line with expectations. The reported 40% earnings per share (EPS) increase provides an initially positive outlook. However, upon closer examination, there are several underlying concerns that influence the recommendation to assign an 'underweight' stance towards Hasbro's stock.
+
+**2. Risk Factors**
+- **Decline in Magic: The Gathering Revenue:** A key product line, Magic: The Gathering, saw revenues decline by 1%. As a flagship brand, any negative shifts are concerning and raise questions about the brand's ongoing ability to drive growth.
+- **Flat International Sales and Decreased Operating Profit:** The international segment reported flat revenue, which includes a modest positive impact of foreign exchange. The declining operating profit in this segment from $2.9 million to $0.5 million could indicate deeper issues in international market penetration and profitability.
+- **Increased Expenses:** Despite modest top-line growth, operating profit decreased by 9%, and the operating profit margin shrank from 10.1% to 9.2%. This fiscal contraction was exacerbated by a one-week additional cost and a shift in product mix favoring lower-margin items.
+- **Dependency on Currency and Accounting Changes:** A portion of the reported EPS growth was supported by favorable foreign exchange gains and benefits from the adoption of new accounting standards rather than operational performance. The $0.11 benefit from new accounting standards for stock-based compensation notably inflates the EPS.
+
+**3. Demand Uncertainties**
+There is a notable uncertainty in the demand for key products. The reported high single-digit POS (point of sale) increase could suggest good market reception, but the decline in revenues from significant brands like Magic: The Gathering may indicate changing consumer preferences that could not be offset by emerging brands or other initiatives.
+
+**4. Inventory and Cash Flow Concerns**
+- **Inventory Management:** While inventory levels decreased by 10%, aligning with revenue generation efficiencies, any misalignment in production with actual market demand poses a risk of stock accumulation.
+- **Cash Utilization:** The strategies surrounding cash use, particularly the $81.5 million returned to shareholders through dividends and repurchases, need careful scrutiny against the backdrop of flat international revenues and increased expense ratios. 
+
+**5. Forward-Looking Statements**
+Management expects full-year numbers to align with initial forecasts, suggesting confidence in long-term strategies. However, this does not alleviate the immediate concerns surrounding Q1's mixed financial health. The future effect of currency hedging strategies and how they might impact gross margin in a flatter rate environment also remain uncertain.
+
+**6. Conclusion and Investment Stance**
+While Hasbro retains a strong market position with several robust brands, current operational and market challenges suggest potential downside risks. The increased expenses, reliance on favorable, non-operational income adjustments, and fragility in some key product revenues call for a cautious investment approach.
+
+Given these factors, it is recommended that investors assign an 'underweight' position on Hasbro, monitoring the company for improvements in operational efficiency and clearer successes from new products and international markets before adjusting this stance.

@@ -1,0 +1,15 @@
+As a financial analyst adopting an 'underweight' investment stance, it is important to focus on key financial metrics that indicate the company's performance and outlook. The earnings conference call transcript for CBOE Holdings provides valuable insights into the company's financial results and strategic initiatives. 
+
+First, the company reported adjusted earnings per share of $0.87 for the second quarter of 2017, and net revenue of $267 million. While these figures indicate a strong quarter, it is important to note that revenue growth did not meet analyst expectations, and overall revenue growth has been sluggish.
+
+The company's options volume increased by 15% over the previous year, with proprietary index products showing continued growth. Notably, the VIX trading volume reached an all-time high in the second quarter, increasing by 19% year-over-year. This indicates a strong performance in the volatility trading segment.
+
+However, the company's market share in U.S. and European equities decreased due to low volatility, which has impacted trading opportunities. This suggests a weakness in equity trading performance.
+
+On the positive side, the Bats ETF marketplace has seen strong growth, with the company winning 39% of all new ETF listings and listing some of the largest ETF launches this year. This indicates a strong position in the ETF market.
+
+The company's strategic partnership with Gemini Trust Company to develop and trade bitcoin futures is a bold move into the cryptocurrency market. However, the success of this initiative remains uncertain, and it presents a new and untested revenue stream for the company.
+
+The integration with Bats provides opportunities for cross-selling additional products and services to an expanded customer base. However, it remains to be seen how effectively this integration will drive revenue growth.
+
+In summary, while CBOE Holdings has demonstrated strength in their volatility trading segment and ETF marketplace, there are challenges in equity trading and uncertainty in the cryptocurrency venture. The company's financial performance and market positioning suggest a mixed outlook, which supports an 'underweight' investment stance.

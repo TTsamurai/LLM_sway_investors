@@ -1,0 +1,41 @@
+**Summary Report and Investment Stance: Underweight**
+
+**Company Review**: Tractor Supply Co.
+
+**Period**: Q4 2016
+
+**Financial Overview**:
+
+1. **Revenue Performance**:
+   - **Net Sales**: $1.92 billion, up 16.4% y-o-y. Strong sales performance primarily driven by an additional 53rd week in the fiscal calendar, contributing 6.2% to the total sales increase. Improved sales in December due to colder weather aiding winter merchandise sales.
+   - **Comparable Store Sales**: Grew by 3.1% y-o-y, with positive growth seen across all regions, albeit driven by an extra sales day which contributed 60 basis points to the quarterly growth.
+
+2. **Profitability**:
+   - **Net Income**: Increased by 10.6% to $123.6 million.
+   - **Earnings Per Share (EPS)**: Grew by 14.6% to $0.94 per diluted share, benefiting from the extra week and efficient cost management.
+
+3. **Margin Analysis**:
+   - **Gross Margin**: Fell by 35 basis points to 33.7%, affected by the mix of merchandise sold which included lower-margin items like animal and pet food, despite proactive management of sales and markdown strategies.
+   - **SG&A Expenses**: Despite strong control, increased by 16.5% y-o-y primarily due to the absorption of Petsense operations and a one-time related charge. Excluding the factors of the 53rd week and one-time costs, SG&A grew by 6.7% which signifies relatively controlled expense management.
+
+4. **Inventory and Capital Expenditure**:
+   - **Inventory Levels**: Decreased by 2.9% per store, indicating improved inventory management.
+   - **Capital Expenditures**: Dropped to $226 million from $236.5 million, showing a cautious approach in capital spending, mainly influenced by strategic capex reductions and store optimizations.
+
+5. **Debt and Liquidity**:
+   - **Cash and Debt**: Cash balance reduced to $53.9 million from $63.8 million year-end last year. Total outstanding debt increased significantly to $274 million from $150 million, reflecting new debt taken on to fund the Petsense acquisition.
+
+**Risks and Concerns**:
+- Heavily reliant on weather conditions for sales of seasonal merchandise.
+- Increasing debt level post-Petsense acquisition which could pressure financial flexibility.
+- Pressure on gross margins due to merchandise mix and necessary markdowns to manage inventory.
+- Significant part of the sales increment was driven by the extra sales week, questioning the sustainability of growth without such boosts.
+
+**Recommendation - Underweight**:
+The recommendation to maintain an 'underweight' stance on Tractor Supply is based on several considerations:
+- Structural margin pressures and increased operating costs impacting the net profitability.
+- Heightened financial leverage due to recent acquisitions and higher debt levels, which may limit future financial flexibility.
+- Although sales showed a robust headline number, the sustainability of such growth sans the benefit of an extra sales week is questionable.
+- The dependence on specific weather conditions for sales boosts introduces volatility and unpredictability in revenue streams.
+
+Given these factors, we recommend a cautious approach, closely monitoring management's strategy to handle margin pressures and integration of recently acquired operations for future sustainability and growth.

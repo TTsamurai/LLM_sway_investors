@@ -1,0 +1,13 @@
+ As a stock promoter, I am excited about the recent earnings call from Seagate. The company achieved $2.6 billion in revenue and shipped a record 70.3 exabytes of storage in the September quarter. This performance demonstrates the company's strong position in the enterprise HDD market, with a record average capacity of 3.9 terabytes per drive.
+
+Seagate's growth in hyperscale and cloud storage deployments presents a significant opportunity for the company, and their nearline HDD portfolio is well-positioned to serve these environments. In addition, customer feedback on their products has been excellent, and Seagate is confident in its competitiveness across key customer qualification processes.
+
+The company's strong performance also extends to the edge and consumer verticals, with revenue growth and increasing average capacity per drive in notebook compute and gaming businesses. Furthermore, Seagate's non-HDD revenue, primarily from their cloud systems and silicon group, saw significant growth in the September quarter.
+
+From a financial perspective, Seagate's focus on cost improvements and divestment of high-performance computing assets demonstrates their commitment to efficient operations. The company's healthy balance sheet, cash flow from operations, and reduced capital expenditures for FY 2018 indicate a strong financial position.
+
+Seagate's participation in the consortium led by Bain Capital Private Equity to acquire Toshiba Memory Corporation also reflects their strategic investment in the future growth opportunity markets. This transaction is expected to be accretive to the company's earnings.
+
+Overall, Seagate's recent earnings call shows strong operational and financial performance, and the company's focus on aligning its go-to-market and product portfolio advancements toward future growth opportunities bodes well for its long-term success.
+
+Based on these positive developments, I recommend an 'overweight' investment stance on Seagate, as the company's strong performance and strategic investments position it for future growth and profitability.

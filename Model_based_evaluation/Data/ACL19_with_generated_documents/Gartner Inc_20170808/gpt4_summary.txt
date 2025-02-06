@@ -1,0 +1,37 @@
+The earnings conference call presents a comprehensive review of the company's performance for the second quarter of 2017 following the acquisition of CEB. As structured by the new reportable segments, the key financial highlights include:
+
+### Research Segment:
+- **Revenue**: Research remains the driving force of the company, encompassing 72% of total revenues in 2016, showing an 11% growth in Q2 adjusted revenue.
+- **Contribution Margin**: The gross contribution margin dipped slightly to 68%, primarily due to the inclusion of recently acquired businesses which have lower margins.
+- **Segment Changes**: Now includes strategic advisory services previously part of the Consulting segment and some parts of CEB’s Research, leading to enhanced offerings.
+
+### Consulting Segment:
+- **Revenue**: Representing over 9% of 2016 revenues, the segment experienced a revenue increase of 6% (8% FX-neutral) in Q2.
+- **Gross Contribution**: Improved by 160 basis points, largely driven by a strong performance in contract optimization business.
+- **Modifications**: No longer includes revenues from strategic advisory services, realigned to the Research segment.
+
+### Events Segment:
+- **Revenue**: Roughly 9% of combined revenues, adjusted Events revenues increased by 10% year-on-year in Q2.
+- **Contribution Margin**: Declined by 200 basis points, affected by the flat performance of CEB events juxtaposed against strong growth in traditional Gartner events.
+
+### Talent Assessment & Other (TA & Other):
+- **Revenue**: Accounts for about 9% of combined revenues, with a 6% decline year-over-year.
+- **Performance Initiatives**: Included organizational adjustments to improve the segment's future performance, along with increased bookings towards the end of Q2.
+
+### Financial Metrics:
+- **Adjusted Revenue Growth**: Overall, the company reported a robust growth of 9% in adjusted revenue, attributed particularly to 13% growth in the traditional Gartner business and a minor decline in CEB's contribution.
+- **EBITDA**: Combined adjusted EBITDA stood at $185 million.
+- **EPS**: Adjusted diluted EPS was reported at $0.88, surpassing the higher end of the guidance range.
+- **Free Cash Flow**: Marked a high conversion with 126% reported through Q2, demonstrating a strong cash-generation capability.
+
+### CEB Integration and Operational Adjustments:
+- Efforts to align CEB's operating metrics with Gartner's have been successful, including recalibration of contract values and wallet retention calculations.
+- Continued investment in expanding the sales force, leveraging proven best practices from Gartner to amplify CEB's growth potential.
+- Implementing a seat-based pricing model for CEB offerings to drive future wallet retention and market penetration.
+
+### Guidance for 2017:
+- Updated to reflect integration efforts and revised segment reporting.
+- Revenue expectations hold steady with combined adjusted revenue projected between $3.4 billion to $3.5 billion.
+- Adjusted EBITDA and EPS forecasts were slightly revised owing to strategic investment accelerations and marginal business adjustments in secondary segments.
+
+As the acquisition and integration with CEB continue to unfold, the company remains focused on leveraging combined strengths to capitalize on broader market opportunities, with continued emphasis on operational excellence and strategic growth across all reportable segments. The integration and rapid adoption of best practices across CEB’s businesses indicate positive forward momentum, supporting sustained growth into future quarters.

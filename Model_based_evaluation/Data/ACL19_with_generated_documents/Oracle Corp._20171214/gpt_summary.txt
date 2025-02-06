@@ -1,0 +1,15 @@
+Key financial metrics from the recent earnings conference call transcripts include:
+
+1. Cloud and software revenues: Total cloud and software revenues were $7.8 billion, up 7% in constant currency and up 9% in U.S. dollars. Cloud revenues alone were $1.5 billion, up 39% from last year.
+
+2. Non-GAAP operating income: Non-GAAP operating income was $4.2 billion, up 8% from last year, and the operating margin was 44%, up from 42% last year.
+
+3. Non-GAAP tax rate and EPS: The non-GAAP tax rate for the quarter was slightly higher than expected at 25.2%, resulting in EPS of $0.70 per share in U.S. dollars, up 14% in U.S. dollars.
+
+4. Cash flow and capital expenditures: Operating cash flow over the last four quarters was $14.6 billion, up 2%, and free cash flow over the last four quarters was $12.5 billion. Capital expenditures for the quarter were $599 million.
+
+5. Balance sheet and share repurchases: The company has more than $71 billion in cash and marketable securities, but net of debt, the cash position is $10.9 billion. The short-term deferred revenue balance is $8.1 billion, up 6% in constant currency. The company repurchased nearly 41 million shares for a total of $2 billion in the quarter.
+
+6. Guidance for Q3: Cloud revenue, including SaaS, PaaS, and IaaS, is expected to grow 21% to 25% in constant currency, while total revenues are expected to range from 2% to 4%. Non-GAAP EPS in constant currency is expected to be between $0.68 and $0.70.
+
+These key financial metrics indicate the company's strong performance in cloud and software revenues, operating income, and cash flow, as well as its strategic focus on cloud growth and capital expenditures for future expansion.

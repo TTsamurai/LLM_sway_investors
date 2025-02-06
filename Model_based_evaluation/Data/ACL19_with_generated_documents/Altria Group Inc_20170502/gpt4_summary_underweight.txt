@@ -1,0 +1,59 @@
+### Summary Report: Altria Group Earnings Conference Call
+
+---
+
+#### **Overview:**
+Given the detailed discussion in the recent earnings conference call, there are several critical financial metrics and performance indicators that necessitate a careful evaluation under an 'underweight' investment stance for Altria Group. The primary concerns arise from the reported declines in shipment volumes, notably in the smokeable products segment, alongside challenges in the wine and Brazilian beer markets.
+
+#### **Smokeable Products Segment:**
+1. **Adjusted OCI Margins:**
+   - Expanded by 2.9 percentage points reaching 51%, primarily influenced by higher net pricing and reduced resolution expenses.
+
+2. **Shipment Volume:**
+   - Reported a decline of 2.7% over the quarter with an adjusted decline rate approximately aligning with industry trends at -3%.
+
+3. **Market Share:**
+   - Slight reduction in PM USA's first quarter retail share moving from 51.1% to 51%.
+   - Marlboro saw a more notable decline from 43.8% to 43.6%.
+
+4. **External Factors Influencing Future Performance:**
+   - Implementation of California's cigarette State Excise Tax (SET) anticipated to further affect short-term shipment volumes.
+
+#### **Smokeless Products:**
+1. **Adjusted OCI Margins:**
+   - Decreased by 3.6 percentage points to 61.9%, majorly affected by a recent product recall.
+   
+2. **Shipment Volume and Industry Growth:**
+   - A 5% decline in USSTC’s shipment volume due to the recall.
+   - A relative industry growth rate at 2%, indicating pressure on volume despite sector growth.
+
+#### **Wine Segment (Ste. Michelle):**
+1. **Profitability:**
+   - Adjusted OCI at $21 million, reflecting a 25% decrease.
+   - Contracting margins down 4.6 percentage points to 15.4%.
+
+2. **Volume Influences:**
+   - Declines due to wholesaler inventory adjustments and unfavorable timing of the Easter holiday compared to the previous year.
+
+#### **Beer Investment (ABI Stake):**
+1. **Financial Performance:**
+   - Equity earnings significantly impacted, with ABI earning Altria $23 million after adjusting for $73 million in pre-tax charges for special items.
+   - Troublesome market conditions in ABI's major market, Brazil, along with financial losses from mark-to-market hedging strategies.
+
+#### **Capital Allocation:**
+- Continued shareholder return strategies: $1.2 billion in dividends and over $550 million in share repurchases.
+- An ongoing share repurchase program is expected to complete by the end of Q2 2018, with $1.4 billion remaining.
+
+#### **Guidance and Forward-Looking Statements:**
+- Altria projects that its adjusted diluted earnings growth will be higher in H2 2017 due to overcoming the financial impacts of the USSTC recall and incorporating full quarterly contributions from ABI.
+
+### **Investment Stance: Underweight**
+- **Rationale:**
+  1. **Volume Declines**: Persistent shrinking volumes in key segments (smokeable, smokeless) suggest potential long-term market share erosion.
+  2. **Market Pressure**:
+     - Challenges such as regulatory changes (e.g., California's SET) could further impact sales volumes.
+     - Troubles in ABI’s operations particularly in the volatile Brazilian market suggesting possible continued stress on earnings from this equity investment.
+  3. **Revenue and Profit Pressure**:
+     - Although there is success in cost management (e.g., resolution expenses), declining revenues from key product lines and overseas investments could hinder profitability.
+
+- **Conclusion**: Given the evidence of volume contractions and competitive and regulatory headwinds, an underweight stance is recommended until signs of sustained turnaround in core business segments emerge.

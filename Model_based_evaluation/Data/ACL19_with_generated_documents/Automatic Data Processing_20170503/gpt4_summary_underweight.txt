@@ -1,0 +1,43 @@
+### **Earnings Conference Call Summary Report Q3 2017**
+
+#### **Company:** ADP
+#### **Reporting Period:** Third Quarter 2017
+#### **Financial Analyst's Stance:** Underweight
+
+---
+
+### **Key Financial Metrics:**
+
+#### **Revenue Growth:**
+ADP reported revenue growth of 5% on a reported basis, with an organic growth of 6%. This indicates moderate growth but is tempered by pressures due to lapping fiscal year 2016 ACA-related revenues. This pressure should be closely monitored for sustainability issues.
+
+#### **Earnings Performance:**
+- **Pre-Tax Earnings:** Grew by 4% to $828 million, impacted by business dispositions and 2017 acquisitions.
+- **Net Earnings:** Increased by 10% to $588 million, significantly enhanced by a lower effective tax rate.
+- **Diluted EPS:** Rose by 12% to $1.31, also aided by a reduced number of shares outstanding and a lower tax rate.
+  
+These figures present a superficially strong picture but hinge crucially on non-operational aspects like tax benefits and share repurchases, which could disguise underlying operational weaknesses.
+
+#### **Margin Analysis:**
+- **Adjusted EBIT Margin:** Slightly decreased by 20 basis points year-over-year. This decline is attributed to slower revenue growth and ongoing investments in product sales and service.
+- **Employer Services Margin:** Dropped approximately 40 basis points, mainly due to moderate revenue growth offsetting continued investments.
+  
+The contraction in margin reflects a challenged operating efficiency that needs immediate attention to curb potential further erosion.
+
+#### **Segment Performance:**
+- **Employer Services:** Experienced a revenue increase of 2%, but showed a slow growth rate potentially due to the disposition of CHSA and COBRA businesses earlier in the fiscal year.
+- **PEO Services:** Notably better, growing by 12% with corresponding increases in average worksite employees, yet faced slowing growth in benefit pass-through costs.
+
+The relative success in the PEO segment might mask broader issues in the other areas of the business, such as the Employer Services segment.
+
+#### **New Business Bookings:**
+ADP faced a disappointing quarterly performance with new business bookings down 7%. Full-year forecast predicts a 5% to 7% decline from the previous fiscal year. This decline signals potential difficulties in market penetration and sales effectiveness, raising concerns on future revenue streams.
+
+### **Revised Forecasts:**
+While maintaining a revenue forecast growth rate of around 6%, despite facing various strategic and operational pressures, ADP updated certain fiscal elements, including a slight anticipated increase in client funds interest revenue.
+
+#### **Tax and Earnings Guidance:**
+The adjusted effective tax rate saw a reduction due primarily to incremental tax benefits. This adjustment led to raising the expected growth in diluted earnings per share to 13-14% from the previously forecasted 11-13%.
+
+### **Investment Conclusion:**
+While ADP shows robust headline figures in net earnings and diluted EPS growth, these are largely buoyed by temporary tax advantages and share buybacks rather than organic business growth. Persistent issues like declining margins, disappointing new business bookings, and pressured revenue growth in key segments suggest potential instability that warrants an ‘underweight’ investment stance. Investors should be cautious, focusing on the company’s ability to address operational weaknesses and improve core performance without reliance on external factors such as tax benefits.

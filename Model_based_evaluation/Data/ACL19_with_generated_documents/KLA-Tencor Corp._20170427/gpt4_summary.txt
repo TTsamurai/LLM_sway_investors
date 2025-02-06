@@ -1,0 +1,25 @@
+KLA-Tencor reported a strong financial performance for the March quarter, highlighting a continuation of robust operational execution and demand across the product portfolio.
+
+**Key Financial Metrics for March Quarter:**
+1. **Revenue:** $914 million, surpassing the guidance midpoint.
+2. **GAAP Diluted Earnings Per Share (EPS):** $1.61.
+3. **Non-GAAP Diluted EPS:** $1.62.
+4. **Shipments:** Reached a record $909 million, higher than the guidance range midpoint of $890 million.
+5. **New Orders:** Totaled $990 million with foundries generating 54% of new system orders due to increasing investments in 10-nanometer and 7-nanometer technologies.
+6. **Gross Margin (Non-GAAP):** Recorded at 62.5%, aligning with expectations.
+7. **Operating Expenses (Non-GAAP):** $224 million, a slight increase from the previous quarter.
+8. **Operating Margin (Non-GAAP):** Maintained at 38%.
+9. **Effective Tax Rate (Non-GAAP):** Recorded at 20.7%, below the guided rate of 22%.
+10. **Net Income (Non-GAAP):** $256 million.
+11. **Cash and Investments:** Ended the quarter at $2.7 billion, an increase of $111 million from the previous quarter.
+12. **Free Cash Flow:** Amounted to $215 million.
+
+**Guidance for the June Quarter:**
+1. **Shipments:** Expected to range from $890 million to $970 million.
+2. **Revenue:** Forecasted between $885 million and $945 million.
+3. **GAAP Diluted EPS:** Ranging from $1.44 to $1.64.
+4. **Non-GAAP Diluted EPS:** Anticipated to be between $1.46 and $1.66.
+
+The company's order book remains strong, with a total backlog of $1.7 billion by the end of March. Looking ahead, the management expects shipments in the second half of the year to rise by mid-single digits compared to the first half. The revenue growth is supported by robust orders and favorable market conditions projected for the semiconductor equipment sector. The firm also plans to manage costs strategically and continue investment in technologies like 3D NAND and EUV inspection and metrology, reflecting confidence in sustained demand and operational efficiency.
+
+In summary, KLA-Tencor's Q1 2017 results and forward-looking statements reflect strong market leadership and the ability to maintain robust margins and profitability amid evolving market dynamics. The company's strategic focus on new technologies and efficient cost management position it well for future growth and operational excellence.

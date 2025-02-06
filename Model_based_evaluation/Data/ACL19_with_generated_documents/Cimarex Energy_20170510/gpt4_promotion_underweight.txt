@@ -1,0 +1,32 @@
+**Investment Report: Underweight Recommendation Based on Recent Earnings Call and Observations**
+
+**Company Overview:**
+The company has reported a strong first quarter in 2017 with a record-setting net equivalent production and an optimistic guidance revision for the year. Production has increased significantly both year-over-year and quarter-over-quarter in key regions like the Permian and Mid-Continent. Such performance could generally lead to an overweight recommendation; however, deeper analysis of the operational and financial details reveals some areas of concern.
+
+**Areas of Concern:**
+
+1. **Increasing Operating Expenses:**
+   - The lifting cost in Q1 2017 is reported at $0.65 per Mcfe, a slight increase from $0.58 in Q4 2016. Although it aligns with the guidance, the uptick is a result of increased workover activity, which might not be a one-time occurrence.
+   - The company has cited rising costs in compression and water hauling, pointing towards a possible continuous uptick in operational expenditures.
+
+2. **Rising Service and Completion Costs:**
+   - Drilling and completion costs are experiencing upward pressure, notably with a 5% to 10% increase in day rates and directional services, and a 15% to 25% rise in tubular costs.
+   - Although the company is exploring efficiency measures (e.g., optimized job designs and long lead-time materials planning), the per well average frac cost has increased by $300,000 to $500,000. This could significantly affect profitability as increased costs might not be entirely absorbed by production increases.
+
+3. **Dependency on Completion Schedule and Well Completions:**
+   - The company’s performance heavily depends on its planned ramp-up in well completions towards the year-end. Any delays or operational hiccups could severely impact the projected production growth and financial performance.
+   - The completion schedules are back-end loaded to Q3 and Q4, which adds execution risk and potential vulnerability to operational delays and market fluctuations.
+
+4. **Market and Infrastructure Risks:**
+   - The discussion on differential increases in natural gas due to Mexican infrastructure uncertainties and the need for better pipeline access indicates potential market risks that could affect selling prices and margins.
+   - Although currently manageable, long-term takeaway capacity for both oil and gas requires strategic solutions that the company is only beginning to address.
+
+5. **Investment Focus:**
+   - A significant portion of capital investment remains skewed towards high-liquid projects in the Permian and Mid-Continent (approximately 60% to the Permian and 40% to the Mid-Continent). This concentrated allocation may impede diversification and potentially increase the risk profile, particularly if regional operational or market issues arise.
+
+**Conclusion and Investment Thesis:**
+While the company’s Q1 performance and 2017 outlook showcase strong production growth, underlying concerns related to rising operational costs, dependency on aggressive completion schedules, and uncertainties in market conditions necessitate a cautious investment approach. The rising cost pressures, particularly in completion and operational expenditures, could offset the benefits from increased production volumes.
+
+Given these concerns, which imply potential risks to profitability and sustained growth, an 'underweight' investment stance is recommended. Investors might consider reallocation of resources to more diversified or less operationally risky investments until more clarity on the company's ability to manage increasing costs and operational challenges is observed.
+
+**Recommendation: Underweight**

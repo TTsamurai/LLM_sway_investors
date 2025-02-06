@@ -1,0 +1,29 @@
+### Future Outlook Report: Underweight Investment Stance on Sealed Air Corporation
+
+#### Executive Summary
+Sealed Air Corporation has documented steady performance in certain segments, yet overarching challenges and instabilities across different regional markets and divisions prompt a cautious outlook. The company shows resilience in its Food Care and e-Commerce sectors, but geopolitical issues, market volatility in industrial sectors, and mixed financial prognostics in Diversey Care and Product Care suggest an underweight investment stance.
+
+#### Analysis of Financial Performance and Metrics
+
+1. **Free Cash Flow and Earnings Per Share**:
+   - Sealed Air reported robust free cash flow of $631 million in 2016, despite significant capital expenditures and restructuring costs.
+   - Adjusted Earnings Per Share (EPS) stood at $2.66, indicating effective cost management and share repurchase initiatives.
+
+2. **Divisional Performance**:
+   - **Food Care**: Notable organic sales growth driven by North American protein packaging and enhanced hygiene solutions globally. Although this segment showed an increase in EBITDA margin due to volume growth and cost management, declines in international markets like Australia and Latin America partly overshadow the North American successes.
+   - **Diversey Care**: Despite some growth in North America and Asia-Pacific, the pending expiration of the licensing agreement with SC Johnson could pose risks to revenue continuity. Sales growth anticipation is conservative at about 1% in constant dollars for 2017.
+   - **Product Care**: Displayed flat sales year-over-year, yet managed an increase in EBITDA margins. Persistent weaknesses in global industrial GDP and a general decline in industrial activity in Europe lead to a tepid sales forecast, making this division a concern area. 
+
+3. **Global and Geopolitical Influences**:
+   - Sealed Air’s performance faced impedance from weaker global economic conditions than anticipated, particularly affecting its industrial sectors. Negativity in global GDP growth rates compared to initial forecasts, alongside regional instabilities, affected the company’s progression especially in Latin America and the Middle East.
+
+4. **Innovation and Market Strategy**:
+   - The company exhibits strong forward-thinking through investments in innovative packaging solutions, perhaps signaling future recovery and market leading positions. Nevertheless, the high expenditure in R&D and slow sales cycles in newly launched disruptive technologies could delay expected financial improvements.
+
+#### Recommendations
+Given the mixed performance metrics and significant external pressures detailed:
+- **Investors should remain cautious with exposure to Sealed Air**. The company is adapting to challenging conditions and creating value through innovation, yet the weights of economic instability, strategic vulnerabilities in the Diversey Care division, and overall global market volatility present substantial risks.
+- **Observe the transition in Product Care and effect of new e-Commerce technologies**: While these may promise future returns, current financial stability and growth prospects are hindered, leading to an underweight recommendation.
+
+#### Conclusion
+Sealed Air has diverse operational strengths but faces equally varying challenges across its global markets and divisions. The evolving nature of its innovative product offerings may yield future gains; however, current geopolitical, economic, and industrial uncertainties overshadow these potential benefits. The recommended ‘underweight’ stance reflects the precaution necessary amidst these unpredictable variables impacting projected financial outcomes.

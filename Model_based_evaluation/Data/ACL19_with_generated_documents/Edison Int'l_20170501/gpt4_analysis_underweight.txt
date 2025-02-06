@@ -1,0 +1,27 @@
+### Underweight Investment Stance on Edison International
+
+#### Executive Summary:
+Upon careful review of Edison International's recent earnings conference call transcript, several areas of concern warrant an 'underweight' investment stance. These concerns predominantly revolve around regulatory uncertainties, significant capital outlays for infrastructure and grid modernization, and potential risks associated with strategic initiatives such as transportation electrification.
+
+#### Key Insights Derived from the Conference Call:
+
+1. **Regulatory Challenges**:
+   - The ongoing 2018 General Rate Case (GRC) introduces uncertainty, with interventions from the Office of Ratepayer Advocates recommending zero capital spending on grid modernization, which is counter to Edison's strategic focus on enhancing grid reliability and accommodating state-wide greenhouse gas reduction policies.
+   - Delays in regulatory decisions concerning transportation electrification projects inject unpredictability into potential revenue streams and capital return timelines.
+
+2. **Capital Expenditure and Growth Strategy**:
+   - Edison is committed to significant capital investments aimed at modernizing the grid and preparing for an increase in electric vehicles, forecasting a substantial outlay of $574 million for electric vehicle infrastructure and an additional potential $225 million for commercial charging systems.
+   - While these investments align with California's environmental goals, there is significant execution risk, and high capital spending could stress financial metrics if there are delays or lower-than-expected returns on these projects.
+
+3. **Financial Metrics and Projections**:
+   - Edison reported improved earnings per share in the recent quarter, but maintaining this trajectory could be challenging given the substantial future investments and ongoing regulatory uncertainties.
+   - The company presents an ambitious rate base growth, targeting an 8.6% average annual growth up to 2020. However, deviations from this target due to regulatory outcomes could impact financial performance.
+
+4. **Strategic Risks**:
+   - The company's focus on infrastructure for transportation electrification exposes it to risks associated with technology adoption rates and the competitive landscape of electric vehicle support infrastructures.
+   - The dispute resolution and regulatory proceeding linked to SONGS (San Onofre Nuclear Generating Station) could have financial and reputational implications, given the complex and controversial background of the issue.
+
+#### Conclusion:
+Edison International is at a strategic juncture, with significant investments lined up to support California's clean energy goals. However, the extensive regulatory challenges, heavy reliance on favorable regulatory outcomes for revenue recognition, and substantial capital requirements earmarked for future projects introduce notable risks to the investment outlook.
+
+Given these factors, the recommendation is to adopt an 'underweight' stance on Edison International. Investors should closely monitor regulatory developments, project execution efficiency, and financial performance tied to upcoming strategic investments before reassessing the stance. Continued vigilant oversight is recommended to gauge whether the company can navigate these challenges while delivering sustainable shareholder value.

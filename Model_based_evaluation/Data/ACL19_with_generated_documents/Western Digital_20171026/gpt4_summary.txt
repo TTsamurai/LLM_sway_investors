@@ -1,0 +1,41 @@
+### **Earnings Conference Call Summary**
+#### Company: Western Digital
+#### Date: Fiscal First Quarter
+
+#### Participants:
+- **Mike Cordano**, President and Chief Operating Officer
+- **Mark Long**, Chief Financial Officer
+- **Steve**, Executive (Speaker)
+
+### **Financial Overview:**
+- **Revenue:** $5.2 billion for the September quarter
+- **Non-GAAP Gross Margin:** 42%
+- **Non-GAAP Earnings per Share (EPS):** $3.56
+- **Operating Cash Flow:** Demonstrated strong performance, fueled by healthy demand particularly in flash-based businesses
+
+### **Business Highlights:**
+- **Data Storage Solutions:** Continued robust performance demonstrates the strength of the company’s platform and its value in the data storage market
+- **Flash Supply Growth Rate:** Anticipated bit growth rate of 35% to 45% in calendar years 2018 and 2019
+- **Product Segments:** Significant increases in sales volumes in high-capacity storage units (10 and 12 terabytes), showing a positive trend in market demand for higher capacities
+- **Pricing:** Average Selling Prices (ASPs) have flattened as expected and are anticipated to remain stable
+
+### **Legal and Partnership Concerns:**
+- **Toshiba Joint Ventures:** The ongoing JV with Toshiba and the disputes concerning investments and control, particularly with regards to Fab 6:
+    - Investment disputes led to arbitration, notably Toshiba's unilateral move in Fab 6 without joint agreement
+    - Engagement in an arbitration process to resolve these disputes, with injunctive relief sought to prevent Toshiba transferring JV interests without consent
+- **Arbitration Update:** 
+    - The International Court of Arbitration has set up a three-member arbitration panel as of October 5
+    - Western Digital is confident about its legal position and rights for injunctive relief
+    - Anticipated ruling in early 2018, ahead of Toshiba’s planned transaction close
+- **Future Relationships and Investments:** Despite disagreements, both parties aim to maintain beneficial investments in technology and manufacturing for the JV
+
+### **Outlook and Guidance:**
+- **Supply Chain:** No expected disruptions from the Toshiba issue into calendar year 2018
+- **Seasonality:** Expected trends impacting PC and consumer segments (including gaming) showing seasonal benefits in the second half of the calendar
+- **Strategic Goals:** Emphasis on balancing short-term financial results and long-term objectives, including diversifying customer base and increasing market segments
+
+### **Closing Remarks:**
+- The company priorities continue to focus on resolving differences with Toshiba either through negotiation or arbitration, and protecting stakeholder interests. Western Digital expresses commitment to transparency and clarity in its communications, addressing misinformation actively. The ultimate goal remains the long-term success and stability of the joint ventures.
+
+### **Future Communication:**
+- Western Digital plans consistent updates and will engage in the next public forum/earnings call to keep the stakeholders informed about progress and developments.

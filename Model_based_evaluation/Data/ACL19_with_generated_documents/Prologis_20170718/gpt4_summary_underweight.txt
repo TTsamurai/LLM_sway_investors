@@ -1,0 +1,21 @@
+## Underweight Investment Stance Summary Report
+
+### Financial Metrics Evaluation:
+
+#### 1. **Core Funds from Operations (FFO) Analysis:**
+Core FFO for the quarter was reported at $0.84 per share, including an unusually high net promote income of $0.18 per share. Excluding these promotes, the core FFO stands at $0.66 per share, only a modest increase of $0.03 sequentially. The reliance on volatile promote income to boost earnings is concerning for steady future performance, as such incomes are not guaranteed to recur.
+
+#### 2. **Occupancy and Rent Growth:**
+The global occupancy rate showed a decline, dropping 40 basis points sequentially to 96.2%. Although market rent growth exceeded expectations (with a remarkable 24% net effective rent change on rollover), the declination in occupancy can be attributed to a strategy focused harshly on pushing rents to maximize lease economics. This strategy, while beneficial in the short term for rent income, could pose risks of higher vacancy rates and reduced tenant retention in economic downturns.
+
+#### 3. **Capital Deployment and Portfolio Adjustments:**
+A vigorous level of capital deployment was noted, with around $900 million in development starts, the highest quarterly level in recent years. The company also undertook significant portfolio adjustments, such as acquiring partner’s interest in Brazil for $360 million and contributing $2.8 billion in assets into USLF. Such large-scale reallocations and the high capital outlay indicate potential pressure on cash flows if these investments do not yield the expected returns.
+
+#### 4. **Leverage and Liquidity:**
+Post the major USLF transaction, the leverage stood at around 25% on a market capitalization basis, with debt to adjusted EBITDA below 4.5 times. Although these figures portray a strong balance sheet, the substantial future capital commitments and ongoing portfolio reshuffling could strain liquidity, currently stated at $3.7 billion, especially if market conditions become unfavorable.
+
+#### 5. **Guidance and Future Earnings Potential:**
+The revised guidance for 2017 suggests an increase in core FFO by $0.05 at the midpoint, primarily driven by gains from promotes and core operations. However, the reliability of promotes for future earnings and the aggressive assumptions in rental growth may not be sustainable in a stabilizing or declining real estate market.
+
+### Conclusion:
+Given the aggressive growth strategies, reliance on non-recurring income like promotes, and the potential risks associated with high capital deployment and occupancy volatility, an 'underweight' investment stance is recommended. Investors should be cautious of the potential headwinds from market normalization, lease expirations, and higher operational risks due to strategic focuses that may not align with broader economic conditions. While the company shows strong historical financial metrics, the future outlook based on operational dependency on risky strategies may dilute investor returns.

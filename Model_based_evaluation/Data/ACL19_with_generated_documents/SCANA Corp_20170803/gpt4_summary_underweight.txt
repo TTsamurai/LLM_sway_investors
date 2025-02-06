@@ -1,0 +1,41 @@
+## Earnings Conference Call Summary - Q2 2017
+
+**Investment Stance: Underweight**
+
+### Key Financial Metrics:
+
+1. **Earnings Per Share (EPS) Analyzed:**
+   - **Q2 2017: $0.85** compared to **Q2 2016: $0.74.**
+   - **First Half 2017: $2.04** vs **First Half 2016: $1.97.**
+   - Y/Y increments are observed but they are partly attributed to the less impactful weather conditions which slightly adjusted electric margins.
+
+2. **Impact of Weather:**
+   - Reduced electric margins by **$0.01 per share** in Q2 Y/Y mainly due to milder weather.
+   - For the first half of the year, weather conditions decreased earnings by **$0.20 per share** compared to being neutral in 2016; a significant impact which raises concerns about sustainability in earnings without weather leverage.
+
+3. **Operational Aspects:**
+   - Increases in gas margins and other income factors are noted, however, they were counteracted by higher CapEx related expenses such as interest expense, depreciation, and property taxes.
+   - Electric margins in Q2 had minor increments primarily due to an offset by adverse weather conditions, contrastingly, increases in gas margins and reduced O&M expenses benefitted SCE&G. 
+
+4. **Customer and Sales Growth:**
+   - Notable growth rates in customer numbers for electric and gas utilities are positive. SCE&G's Electric added customers at a **1.6% Y/Y rate**.
+   - Weather-normalized electric sales showed a marginal increase of **0.8%** Y/Y which might not strongly advocate for strong underlying demand growth.
+
+5. **Regulatory Rate Base and Returns:**
+   - Regulated rate base stands at roughly **$11.5 billion**.
+   - SCE&G base electric business earns a return of **9%**, within the allowable range.
+   - PSNC Energy observed a **10.78% ROE**, but this is expected to normalize to permitted levels upon completion of ongoing projects.
+
+6. **Capital Expenditure and Financial Planning:**
+   - Consistent CapEx forecast and financial planning indicate stability, but a significant focus remains on the abandoned nuclear project which could suggest a reallocation of capital towards more traditional and less risky ventures.
+
+7. **Earnings Guidance and Projections:**
+   - 2017 earnings guidance reiterates a range of **$4.15 to $4.35 per share** with an internal target of **$4.25 per share**.
+   - Expected O&M expense for 2017 to remain flat, indicating controlled operational costs.
+
+8. **Growth and Strategy:**
+   - Continued focus on increasing regulatory rate base through customer growth and infrastructure development, particularly in SCE&G, which may require rate stabilization increases.
+   - Despite a solid growth narrative in PSNC Energy, the overall company strategy remains overshadowed by resource allocation to the new nuclear projects, signaling potential underutilization of other growth avenues.
+
+### Conclusion and Investment Stance:
+Given the earnings analysis and current strategic focus, maintaining an 'underweight' stance may be prudent due to the marginal growth in earnings primarily driven by uncontrollable factors like weather, along with significant ongoing capital reallocations due to the abandonment of the new nuclear projects. While there are positive signs in customer growth and controlled operational expenses, the lack of formidable growth in actual demand and reliance on regulatory adjustments pose risks that could undermine future profitability and returns.

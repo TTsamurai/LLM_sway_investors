@@ -1,0 +1,13 @@
+Based on the earnings conference call transcript, it is recommended to adopt an 'underweight' investment stance for NVIDIA. The key financial metrics that support this recommendation are as follows:
+
+1. Quarterly revenue reached $1.94 billion, up 48% from the year earlier, but down 11% sequentially. This sequential decline indicates a potential slowdown in growth.
+
+2. GAAP and non-GAAP gross margins were 59.4% and 59.6% respectively, reflecting the decline in Intel licensing revenue. This decline could impact profitability in future quarters.
+
+3. GAAP net income was $507 million and non-GAAP net income was $533 million, more than doubling from a year ago. While the doubling of net income is positive, it is important to note that this growth may not be sustainable.
+
+4. GAAP operating expenses were $596 million, and non-GAAP operating expenses were $517 million, up 17% from a year ago, reflecting hiring for growth initiatives. The increase in operating expenses may impact overall profitability.
+
+5. The outlook for the second quarter of fiscal 2018 expects revenue to be $1.95 billion plus or minus 2%, with approximately 3% sequential growth excluding the expiry of the Intel licensing agreement. This modest revenue growth outlook may not meet investor expectations.
+
+In conclusion, the company's strong performance in certain segments, such as data center and gaming, is overshadowed by the sequential decline in revenue and potential impact on gross margins. This, coupled with the increase in operating expenses, suggests a potential slowdown in growth and profitability. Therefore, it is advisable to adopt an 'underweight' investment stance for NVIDIA.

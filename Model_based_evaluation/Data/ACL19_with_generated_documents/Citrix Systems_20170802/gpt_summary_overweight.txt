@@ -1,0 +1,14 @@
+Key financial metrics from the recent earnings conference call transcript:
+
+- Top line revenue grew 3% year-on-year
+- Bookings and deferred revenue witnessed a significant acceleration
+- 76 deals over $1 million, with 30% coming from subscription-based product bookings
+- Deferred revenue up more than 13% year-on-year, totaling over $1.7 billion
+- Recognized SaaS revenue growing quickly, up 27% year-on-year
+- Average contract duration for Workspace Services approaching three years
+- Multiyear plan including capital in progress, expecting to share details and metrics on the Q3 call
+- Networking Enterprise segment bookings growing in double digits
+- Citrix Cloud on Microsoft Azure driving large joint customer wins
+- Expanded partnership with Google and availability of Citrix SD-WAN 9.3 on the AWS marketplace
+
+In summary, the business is strong with accelerated growth, particularly in the subscription-based model. There is a focus on managing the transition and balancing operational efficiency while driving solid growth and profitability into the future. The company is also actively seeking to align the entire organization towards a multiyear cloud transformation and is in the process of developing a detailed plan and metrics to support this strategy.

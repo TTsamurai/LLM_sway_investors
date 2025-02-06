@@ -1,0 +1,29 @@
+**Investment Report: Underweight Recommendation for Hess Corporation**
+
+**Overview**
+
+Based on the analysis of Hess Corporation’s first quarter of 2017 earnings call in comparison with their performance in the last quarter of 2016, this report recommends an 'underweight' investment stance on the company's stock. Below, key aspects of the company’s recent financial performance and future outlook are evaluated, offering a cautious perspective for potential investors.
+
+**Financial Performance Analysis**
+
+1. **Continued Net Losses**: Hess reported a substantial net loss of $324 million in the first quarter of 2017, showing only minimal improvement over the $305 million loss in the prior quarter. This pattern indicates ongoing challenges in achieving profitability. 
+
+2. **Decline in Midstream Performance**: The Midstream segment reported a decrease in net income, falling from $23 million in the fourth quarter of 2016 to $18 million in the first quarter of 2017. Additionally, EBITDA before non-controlling interest declined from $102 million to $94 million over the same period, suggesting pressures in this segment.
+
+3. **Increased Corporate Expenses**: After-tax corporate and interest expenses surged from $72 million in Q4 2016 to $109 million in Q1 2017. This sharp increase further strains the financials in light of failing to recognize deferred tax benefits on operating losses.
+
+4. **Cash Flow Concerns**: Despite a net cash inflow from operating activities before changes in working capital, Hess experienced a net decrease in cash and cash equivalents by $46 million at the end of Q1 2017 due to substantial capital expenditures and shareholder dividends.
+
+**Future Outlook and Risks**
+
+1. **E&P Cost and Production Volatility**: While the company has presented an optimistic guidance on cost-per-barrel in Exploration & Production (E&P), stating a slight reduction despite expected lower production linked to maintenance activities, the volatility and unpredictable nature of operational costs and production rates pose significant risks.
+
+2. **Capital Expenditure and Debt Levels**: Hess is forecasting increased capital expenditures in the upcoming quarters, primarily due to the ramp-up in Bakken and initial expenditures on the North Malay Basin project. Despite a robust balance sheet with $2.7 billion in cash, the expected future capital needs, especially concerning the ambitious Guyana project could strain financial resources if not managed judiciously against the backdrop of $6.54 billion in existing debt.
+
+3. **Projected Decrease in Midstream Net Income**: There is an anticipated decrease in net income attributable to Hess from the Midstream segment, reducing year-over-year guidance. This could reflect underlying struggles in the scaling and profitability of this segment.
+
+4. **Reliance on Future Asset Performance**: Significant reliance is placed on future projects like the North Malay Basin and the Stampede which are expected to start contributing positively from 2018. Any delays or underperformance in these projects could critically impact anticipated improvements in financial health.
+
+**Recommendation**
+
+Given the continued losses, elevated operational and financial risks, and the critical dependency on future project success and commodity prices, an 'underweight' stance is recommended at this time. Investors should be cautious, monitoring closely the company's execution on its strategic initiatives and financial management. This stance could be re-evaluated based on the successful advancement and cash generation from its key projects like Guyana, the North Malay Basin, and the Stampede project in the medium to long term.

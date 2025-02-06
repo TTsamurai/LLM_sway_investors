@@ -1,0 +1,33 @@
+**Edison International Earnings Conference Summary Report - Q1 2017**
+
+**Fiscal Overview**
+Edison International reported a promising start to 2017 with first-quarter earnings increasing to $1.11 per share from $0.85 per share in the same period a year earlier. Despite this positive performance, the company opts to maintain its full-year guidance unchanged at present, noting a tendency toward the upper half of its forecast range.
+
+**Investment Stance: Underweight**
+Our analysis bears an 'underweight' stance for several key reasons detailed below, focusing particularly on forecasted growth, regulatory challenges, and potential capital expenditures that may affect profitability.
+
+**Regulatory and Infrastructure Challenges**
+1. **General Rate Case (GRC) Concerns:**
+   Southern California Edison (SCE), a principal subsidiary, has a pending GRC for 2018 that outlines substantial investments in grid modernization essential for supporting California’s climate change policies. Notably, the Office of Ratepayer Advocates (ORA) recommended no capital spending toward the grid modernization, posing a direct conflict with SCE's strategy to enhance infrastructure. The eventual rulings from the California Public Utilities Commission (CPUC) will critically determine SCE's operational pace and financial outlay in these areas.
+
+2. **Transmission Enhancements:**
+   SCE is focused on extending and strengthening its transmission system. These projects, while beneficial for system reliability and reducing greenhouse gas emissions, involve complex permitting processes and regulatory approvals that could delay execution and increase costs.
+
+3. **Cost of Capital Settlement:**
+   A recent development saw the CPUC withdrawing a proposed decision recommending settlement approval regarding the cost of capital, with revaluation pending without a disclosed timeline. This generates uncertainty regarding future regulatory support and financial stability.
+
+4. **SONGS Settlement:**
+   Edison faced a setback with the International Chamber of Commerce (ICC), capping damages from Mitsubishi Heavy Industries at $137 million for the San Onofre Nuclear Generating Station (SONGS) issues, below the losses incurred. This decision limits financial recuperation and highlights operational risks.
+
+**Growth and Development Concerns**
+1. **Grid Modernization and Capital Spending Forecast:**
+   The CPUC’s decision on SCE's grid modernization will be pivotal. ORA's recommendations, if followed, could restrict SCE to a lower-than-requested rate base growth of 6.6% compared to an 8.6% target. This poses a risk to projected earnings and financial stability.
+
+2. **Electric Vehicle Infrastructure Investment:**
+   SCE plans significant investments in electric vehicle charging infrastructure, essential for meeting state-imposed zero-emission targets. However, substantial capital outlay for these initiatives, approximately $574 million in upcoming proposals, could strain finances if regulatory recovery through rate hikes faces public or administrative resistance.
+
+3. **Renewables Integration:**
+   Meeting the 33% renewable energy target by 2020 and supporting the state’s ambitious greenhouse gas reduction goals necessitates high capital expenditures. Delays or insufficient regulatory approvals for transmission projects necessary for renewable integration pose significant financial risks.
+
+**Conclusion**
+While Edison International shows operational strength, an 'underweight' investment position is recommended due to existing regulatory uncertainties, substantial required capital expenditures with unclear recovery paths, and the strategic but risky shift towards extensive infrastructure upgrades and clean energy commitments. Investors should weigh the potential slower rate base growth, ongoing regulatory proceedings, and significant investment in new technologies against the backdrop of ambitious state policy objectives and possible financial strain. Future updates and regulatory decisions will be critical in reassessing this stance.

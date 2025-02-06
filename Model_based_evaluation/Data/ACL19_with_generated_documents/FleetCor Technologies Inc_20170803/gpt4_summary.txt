@@ -1,0 +1,50 @@
+### Earnings Conference Summary Report - Q2 Results and Outlook
+
+**Company:** FleetCor Technologies
+
+#### Q2 Financial Performance:
+- **Revenue:** $541 million, up 30% YoY
+- **Cash EPS:** $199 million, up 26% YoY
+- **Organic Growth:** 9%
+- **Fuel Card Revenue Growth:** 8%
+- **Cash Flow:** $125 million, up 40% YoY
+- **Global Customer Revenue Retention:** 91.5%
+
+#### Key Drivers:
+- Significant contributions from STP (14% pro forma growth)
+- Decrease in share count contributing to EPS improvement.
+
+#### Challenges:
+- Issues with Comdata MasterCard portfolio following IT conversion, resulting in one-time losses.
+- Comdata trucking money movement products (eCash and Comchek) performed weakly.
+- Corporate payments and STP experienced growth potential, albeit with some delays in pricing adjustments.
+
+#### Outlook for H2 2017:
+- **Overall Environment:** Expected to be macro-neutral.
+  - **FX:** Improvement expected
+  - **Interest Rates:** Expected to worsen
+- **Organic Revenue Growth:** Forecasted at around 8-9%.
+- **Profit Growth:** 20% expected for full year.
+- **Significant Corporate Developments:**
+  - Portfolio rebalancing: Divestiture of NexTraq, acquisition of Cambridge.
+  - Liquidity and debt management: Successful refinancing increasing liquidity and extending maturity; $700 million in term debt raised, term B improved by 25 bps.
+
+#### Capital Allocation and Partnerships:
+- **Debt Facility:** Refined, increasing liquidity and extending maturity.
+- **Sale of NexTraq:** Completed for $320 million in July; proceeds used for Cambridge acquisition and capital return strategies including a $250 million ASR and potential further acquisitions.
+- **Uber partnership:** Relationship extended.
+- **Speedway implementation:** 75% complete, expected completion in September.
+
+#### Strategic and Operational Developments:
+- **Cambridge Acquisition:** Expected closure by September 1 with full regulatory clearance.
+- **Mastercard portfolio issues:** Corrective actions taken; client attrition plateauing.
+- **System Conversions:** Mixed results; mainframe migration to IBM Cloud successful, MasterCard portfolio conversion problematic.
+- **Recent Developments:** 
+  - Termination of JV with First Data on gift cards due to regulatory hurdles; SVS retained.
+  - Multiple potential acquisitions under consideration (specifically tuck-ins).
+
+#### Forward Guidance Adjustment:
+- **Cash EPS for 2017 Adjusted:** Raised by $0.03 from $8.31 to $8.34 at the midpoint, reflecting the positive performance in Q2 and maintaining guidance for the rest of the year.
+
+### Comments:
+The company demonstrated robust profit and revenue growth in Q2, despite some operational hurdles especially linked to IT system conversions. The outlook remains strong with strategic acquisitions poised to accelerate growth. The leadership is actively managing the portfolio and capital, gearing towards accelerating revenue and maintaining strong customer retention rates. The adjustments in strategic partnerships and continued emphasis on operational excellence suggest positive momentum heading into the latter half of the year and beyond.

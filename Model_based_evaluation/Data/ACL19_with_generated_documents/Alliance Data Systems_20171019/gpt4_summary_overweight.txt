@@ -1,0 +1,39 @@
+**Earnings Summary Report – Q3 2017**
+
+**Company Overview:**
+The third quarter financial results reflect a mixed performance across different segments of the company. Notable fluctuations were observed due to external events such as hurricanes, but core financial metrics remained strong, underscoring robust fundamental operations.
+
+**Key Financial Metrics:**
+
+1. **Revenue**:
+   - Total company revenue modestly increased by 1% to $1.9 billion, influenced by hurricane impacts. The growth was mainly hindered in the Card Services segment.
+
+2. **Core Earnings per Share (EPS)**:
+   - Core EPS for Q3 2017 increased by 13% to $5.35, outperforming expectations primarily due to lower loss rates in Card Services and reduced tax rates thanks to strategic tax initiatives. Without these benefits, the core EPS still rose by about 9%.
+
+3. **Adjusted EBITDA**:
+   - Adjusted EBITDA net increased by 7%, benefitting from improved loss rates in Card Services despite falling short in other segments like Epsilon and LoyaltyOne.
+
+4. **Debt and Liquidity**:
+   - Corporate debt was reduced by approximately $180 million to $6.2 billion, improving the corporate leverage ratio to 2.8x. This is significantly better than the covenant ratio of 3.5x and presents a strong liquidity position with over $2 billion available.
+
+5. **Segment Performance**:
+   - **Card Services**: Showed a robust performance with a 9% revenue increase to $1.1 billion and a 20% increase in adjusted EBITDA net. Operating expenses and net loss rates were managed effectively, influencing a positive outlook for the future.
+   - **LoyaltyOne**: Revenue declined by 20% to $305 million and adjusted EBITDA fell by 26% to $61 million. The AIR MILES segment saw a significant drop due to a strategic reduction in redemption rates.
+   - **Epsilon**: Underperformed with only a 3% revenue increase to $559 million and a 7% decrease in adjusted EBITDA. The digital offerings' slowed growth impacted the results, although stabilization is expected with new client onboarding.
+
+6. **Impact of Hurricanes**:
+   - The hurricanes had a dual impact by reducing credit sales and revenue while temporarily benefiting loss rates in the Card Services segment. These effects are considered temporary disruptions to an otherwise stable performance trajectory.
+
+**Investment Stance: Overweight**
+The recommendation to maintain an 'overweight' investment stance on the company is anchored by:
+- A strong liquidity position and a de-leveraging balance sheet that provides flexibility for operational and strategic maneuvers.
+- Consistent core EPS growth which, despite external pressures, continues to outpace expectations due to solid operational management, particularly in the Card Services division.
+- Expected recovery in segments like Epsilon and improvements in AIR MILES issuance metrics which are likely to bolster future growth.
+- Sound strategic decisions, such as the re-signing of BMO for AIR MILES, which stabilizes revenue prospects in the loyalty segment.
+
+**Risks & Considerations:**
+Potential risks include continued external disruptions that may impact consumer behavior, slower-than-expected recovery in digital offerings at Epsilon, and possible fluctuations in loss rates due to normalization post-hurricanes. These factors necessitate careful monitoring but are deemed manageable within the broader strategic outline of the company.
+
+**Conclusion:**
+The company demonstrates resilient operational capabilities and financial management amidst challenges. With solid growth metrics, strategic segment improvements, and robust financial health, the company presents a compelling investment case for potential upside in stock performance.

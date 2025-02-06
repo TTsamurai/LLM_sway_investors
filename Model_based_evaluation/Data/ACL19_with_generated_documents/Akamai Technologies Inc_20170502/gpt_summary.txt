@@ -1,0 +1,19 @@
+Based on the given transcript, the following key financial metrics can be extracted:
+
+1. Revenue: The total revenue for the first quarter was $609 million, with growth rates of 7% year-over-year or 8% in constant currency, and a 13% increase if six large Internet platform customers are excluded. Performance and Security Solutions revenue was $369 million, showing an 18% year-over-year growth.
+
+2. Cloud Security Solutions: This specific product line showed strong growth, with revenue of $110 million, up 37% year-over-year, contributing to an annualized revenue run rate of $450 million.
+
+3. Gross Margin: The cash gross margin was 77%, consistent with Q4 levels, and the GAAP gross margin was 66%. Excluding charges, non-GAAP cash operating expenses were $228 million.
+
+4. Adjusted EBITDA: Adjusted EBITDA for the first quarter was $241 million, down $6 million from Q4 levels, with an adjusted EBITDA margin of 39%.
+
+5. Net Income: GAAP net income was $81 million, while non-GAAP net income was $120 million, resulting in earnings per diluted share at the high end of guidance.
+
+6. Balance Sheet: The company's balance sheet showed cash, cash equivalents, and marketable securities totaling $1.6 billion, with a net cash position just under $900 million, and a solid cash flow generation with cash from operations of $143 million.
+
+7. Forecast for Q2: The company forecasts a revenue range of $597 million to $609 million, with projected non-GAAP EPS in the range of $0.59 to $0.61 and fully diluted share count of 174 million shares.
+
+8. Investments and Future Outlook: The company plans to continue making investments in new product innovation, service delivery, and scaling, with a focus on Performance, Security, and Enterprise offerings to drive accelerated, sustainable, long-term double-digit top and bottom-line growth.
+
+These metrics provide an overview of the company's financial performance, revenue diversification, market trends, and future growth prospects as per the earnings conference call transcripts.

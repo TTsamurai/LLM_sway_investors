@@ -1,0 +1,9 @@
+Based on the recent earnings call, there are a few factors that stand out which support a cautious or skeptical perspective on the company. First, while the non-GAAP results for Q2 were reported as excellent, their reported revenue growth of 4% is relatively low for a cloud-based company, and their traditional on-premise software revenue only grew 1% from last year. This suggests a potential slowdown in growth for the company.
+
+Additionally, the shift towards cloud services, while promising, may not be as robust as initially presented. The growth of cloud PaaS and IaaS services is impacted by the decline in traditional hosting services, which were down nearly 10%. This raises concerns about the underlying growth of the cloud business, particularly considering the transition to BYOL and the Autonomous Database.
+
+Furthermore, the company's statement about operating income growing faster than revenue due to economies of scale and margin improvement raises questions about the sustainability of this trend, especially given the relatively low revenue growth reported in the last quarter.
+
+Finally, the uncertainty surrounding the tax reform and the potential impact of mandatory repatriation of cash could have a significant effect on the company's financials, particularly in terms of cash available for investment and shareholder returns.
+
+Taking these factors into account, it would be advisable to recommend an 'underweight' investment stance for the company.

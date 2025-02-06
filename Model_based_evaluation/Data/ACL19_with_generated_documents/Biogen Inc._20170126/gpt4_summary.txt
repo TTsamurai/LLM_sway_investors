@@ -1,0 +1,57 @@
+### Earnings Conference Call Summary Report
+
+**Company:** Biogen
+
+**Date of Conference Call:** Not specified
+
+**Financial Highlights from the Conference Call:**
+
+1. **Earnings Per Share (EPS):**
+   - **GAAP Diluted EPS:** $2.99 for Q4; $16.93 for full year.
+   - **Non-GAAP Diluted EPS:** $5.04 for Q4; $20.22 for full year.
+   - Impact: GAAP EPS negatively impacted by $1.55 due to Forward Pharma settlement.
+
+2. **Revenue:**
+   - **Total Revenue:** 
+     - Q4: Grew 1% year-over-year to $2.9 billion.
+     - Full Year: Grew 6% to $11.4 billion.
+   - **TECFIDERA Revenue:** 
+     - Q4: $1 billion globally.
+     - Full Year: Increased 9% to $4 billion.
+   - **Interferon (AVONEX and PLEGRIDY) Revenue:**
+     - Q4: $688 million, a decrease of 7% from Q4 last year.
+     - Full Year: $2.8 billion.
+   - **TYSABRI Revenue:**
+     - Q4: $474 million, a slight decrease of 1%.
+     - Full Year: Increased 4% to $2 billion.
+
+3. **Other Significant Revenues:**
+   - **Hemophilia Products (ELOCTATE and ALPROLIX):**
+     - Notable growth with ELOCTATE revenues rising by 47% in Q4.
+   - **Biosimilars:**
+     - $53 million in Q4.
+     - $101 million for the full year.
+
+4. **Cost of Goods Sold (COGS):**
+   - **GAAP COGS:** 13% of revenue for both Q4 and full year.
+   - **Non-GAAP COGS:** 12% of revenue for the full year.
+
+5. **Research and Development (R&D) and Selling, General and Administrative (SG&A) Expenses:**
+   - R&D and SG&A expenses remained consistent at approximately 17% of revenue for both metrics across the year, with specific investments in key R&D areas including Alzheimer’s programs.
+
+6. **Tax Rates:**
+   - Approximate rates for both GAAP and non-GAAP stood around 23-25%.
+
+7. **Share Repurchase Program:**
+   - 2.2 million shares repurchased in Q4 for $651 million.
+   - Ongoing $5 billion share repurchase program.
+
+8. **Future Guidance and Outlook for 2017:**
+   - **Revenue Guidance:** Estimated $11.1 billion to $11.4 billion, including impacts from Hemophilia spin-off.
+   - **Expense Trends:** Expected rise in COGS; R&D expected at 16-17%.
+   - **Earnings Guidance:** 
+     - GAAP EPS between $18 and $18.80.
+     - Non-GAAP EPS between $20.45 and $21.25.
+
+**Conclusion:**
+Biogen witnessed a strong financial performance over the past year with significant growth in key product areas despite some challenges such as the settlement cost associated with Forward Pharma. The planned spin-off of Bioverativ and strategic investments in R&D are expected to influence the financial trajectory in the upcoming year. The company’s focus on maintaining robust revenue streams and managing operating expenses while investing in promising areas suggest a proactive approach toward sustaining growth and profitability.

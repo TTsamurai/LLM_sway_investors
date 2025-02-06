@@ -1,0 +1,27 @@
+### Summary Report on Earnings Conference Call
+
+#### Financial Performance
+- **Colo Revenue**: Below expected due to higher losses in legacy revenues and broadband unit losses. Growth in MPLS revenues was lower than anticipated.
+- **Adjusted EBITDA**: Met target, supported by effective expense control despite Level 3 acquisition integration activities.
+- **Enterprise High-Bandwidth Data Services Revenue**: Grew 1% YoY; adjusted for certain factors, increased 5% YoY.
+- **Consumer Broadband Revenue**: Remained flat sequentially despite a loss of approximately 65,000 residential subscribers, largely due to stronger competition and aggressive pricing by competitors.
+
+#### Customer and Product Highlights
+- **MPLS Customers**: Nearly 2,000 with major input from SMB customers. Improved install intervals expected to boost revenue recognition in future quarters.
+- **New Product Launches**: CenturyLink Ethernet service and three simplified bundles of SD-WAN plus network packages, a competitively priced cloud-enabled small business VoIP offering, and a comprehensive managed Enterprise offering including WiFi, network management, video surveillance, security, and mobility management.
+- **Virtualization and Security**: Continued leadership in network virtualization and significant sales increase in network and cybersecurity capabilities driven by threats like WannaCry.
+
+#### Strategic Developments
+- **Level 3 Acquisition**: Progressing with necessary approvals; 23 states and territories cleared, with two additional state approvals pending. Targeting to close acquisition by end of September. Integration planning is well underway, expecting $975 million annual run rate operating capital cash synergies.
+- **Consumer Broadband Strategy**: Implementing "Price for Life" offers and continuing investment in customer and digital experiences and speed enhancements. Anticipating improved consumer broadband trends in the latter half of the year.
+
+#### Regulatory and Legal Matters
+- **Consumer Billing Litigation**: Facing allegations related to improper sales and billing practices. Management and the board's special committee are actively investigating with assistance from O'Melveny & Myers law firm. The outcomes are expected by the fourth quarter.
+- **FCC Regulation**: Positive outlook towards regulatory environment improving under current policies, which should support business operations and market competition.
+
+#### Future Guidance
+- **Outlook**: Strong sales in June anticipated to lead to a solid third quarter. Expected improvements in strategic revenues and managed services, backed by new services rolled out and the impending benefits from the Level 3 integration.
+- **Leadership Transition**: CEO retirement announced for the beginning of 2019 with succession plans in place ensuring smooth transition to new leadership post-acquisition.
+
+### Conclusion
+CenturyLink is undergoing significant transformations with strategic acquisitions, product expansions, and operational refinements geared towards enhanced profitability and market leadership in network services. Despite facing competitive pressures and legal challenges, the company remains optimistic about its growth prospects, supported by robust planning and a focus on innovation and customer retention.

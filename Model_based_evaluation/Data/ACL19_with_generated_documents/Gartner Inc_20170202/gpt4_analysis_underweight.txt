@@ -1,0 +1,24 @@
+### Executive Summary:
+Our analysis, based on Gartner's recent earnings conference call, recommends an 'underweight' investment stance on the company. This cautious approach is primarily due to underlying concerns that include integration risks with the CEB acquisition, signs of sluggish growth in the Consulting segment, and uncertainties in Event revenue growth post-management changes and event consolidations.
+
+### Key Financial Metrics & Insights:
+1. **Strong Overall Growth but Dependent on Acquisitions**: Gartner has reported robust growth with total company revenue increasing by 14% in 2016. However, acquisitions significantly influenced this performance, raising questions about the company's organic growth capabilities.
+
+2. **Consulting Segment's Stagnant Growth**: The Consulting business showed almost no growth on an FX neutral basis, with revenues just 1% up in Q4 2016. This stagnation is concerning, given that a healthy consulting segment generally reflects strong client engagement and execution capabilities.
+
+3. **Uncertainties in Event Revenue**: Events revenue growth was modest at 2% on a same-event basis in Q4 2016. Issues arose from staff changes and consolidating events, which did not perform as expected. While management expects improvements, the past challenges and the dependence on increased sales force effectiveness add risks to future performance expectations.
+
+4. **Risks Associated with CEB Acquisition**: The acquisition of CEB is intended to create value and enhance capabilities across business functions and industries. However, large-scale integrations often come with execution risks which could impact short-term financial performance due to integration costs and potential disruptions in ongoing operations.
+
+5. **Robust Free Cash Flow Conversion** remains a strength, with Gartner reporting a free cash flow conversion of 140% of normalized net income. This indicates efficient cash management but must be viewed cautiously in light of increased capital expenditures linked to real estate and potential integration costs from recent acquisitions.
+
+### Balance Sheet and Liquidity:
+As of the end of 2016, Gartner reported a strong balance sheet with a net debt position of about 0.5 times normalized EBITDA. However, the pending acquisition of CEB and associated financial adjustments will need careful monitoring to maintain financial stability.
+
+### Outlook for 2017:
+Gartner's guidance for 2017 anticipates continued revenue growth in the range of 12% to 14% on an FX neutral basis and an EPS increase of 6% to 13%. However, considering the substantial changes underway with the CEB integration and the existing challenges within certain segments, these projections carry higher degrees of uncertainty and risk.
+
+### Investment Thesis:
+Given the potential integration challenges with CEB, along with concerns about organic growth and segment-specific risks, we advise an 'underweight' stance. Investors should monitor the company's ability to manage integration risks, stabilize its consulting segment, and deliver on event revenue growth amidst operational changes.
+
+In conclusion, while Gartner continues to exhibit strong historical growth and cash flow generation, the impending complexities and underlying segment struggles justify a cautious investment approach for the near term. Keep an eye on subsequent quarters for signs of successful integration and segment recovery which could influence a reassessment of the investment stance.

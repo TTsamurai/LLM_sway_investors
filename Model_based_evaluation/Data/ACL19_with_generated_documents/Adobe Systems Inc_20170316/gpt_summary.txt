@@ -1,0 +1,15 @@
+.
+
+Based on the recent earnings conference call transcripts, Adobe had a strong first quarter with record revenue of $1.68 billion and record profit. The GAAP earnings per share in Q1 was $0.80, and non-GAAP earnings per share was $0.94. Adobe continues to demonstrate strength in its Digital Media segment, achieving a record $1.14 billion in Digital Media revenue in Q1. Additionally, Adobe's Digital Media annualized recurring revenue (ARR) reached over $4.25 billion, with a net ARR increase of $265 million. This growth was driven by strong performance in the SMB segment, international growth, and strong retention of existing subscribers.
+
+Adobe's Creative Cloud business continues to drive growth, with strong performance in the SMB segment, international growth, and strong retention of existing subscribers. Adobe Stock service business is also accelerating, with more than 60 million assets and a partnership with 500px to expand Adobe Stock's Premium collection. The Document Cloud business achieved revenue of $196 million in Q1, with ARR reaching $493 million. The strong growth in Acrobat units and new customer acquisitions contributed to this success.
+
+In Digital Marketing, Adobe drove a record $477 million in revenue in Q1, representing 26% year-over-year revenue growth. Adobe Marketing Cloud continues to lead the category, delivering best-in-class solutions in analytics, content management, cross-channel campaign management, and media optimization. Adobe was recognized as a leader in Gartner's 2017 Magic Quadrant for Digital Marketing Hubs research report and received the highest score in the Forrester Wave report on Web Content Management systems.
+
+Adobe also continues to invest in innovation, particularly in the areas of artificial intelligence and machine learning. The company's Adobe Sensei framework and intelligent services leverage trillions of data transactions to help customers tackle complex experience challenges. Furthermore, Adobe is committed to training every technical employee in artificial intelligence fundamentals, demonstrating a dedication to continuous innovation.
+
+The company has also made strategic acquisitions, such as TubeMogul, to strengthen its advertising solutions and integrate them with Adobe Media Optimizer. Adobe's strong customer relationships and comprehensive platform continue to drive market momentum, with major customer wins at Dick's Sporting Goods, Mercy Health, Hutchison UK, Autotrader.com, Computer Sciences Corporation, ADT, and the University of Michigan.
+
+Adobe's outlook for the future remains positive, with a focus on empowering individuals and enabling businesses to transform themselves. The company's continued investment in technology, strong market momentum, and strategic partnerships position it for long-term success.
+
+Overall, Adobe's financial performance in Q1 demonstrates strong growth and momentum across its Digital Media and Digital Marketing segments, driven by innovative products and a comprehensive platform. The company's strong customer relationships and strategic investments in technology and innovation position it for continued success in the future.

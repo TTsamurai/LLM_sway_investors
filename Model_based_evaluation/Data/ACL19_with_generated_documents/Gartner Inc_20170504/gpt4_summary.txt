@@ -1,0 +1,46 @@
+**Key Financial Metrics Summary from Recent Earnings Conference Call**
+
+1. **Revenue Growth**
+   - **Total Company Revenue Growth**: Increased by 13% year-over-year on an FX-neutral basis.
+   - **Segment-specific Growth**:
+     - Research Revenue: Grew by 15% on both reported and FX-neutral basis.
+     - Events Revenue: Increased by 11% on an FX-neutral basis.
+     - Consulting Revenue: Up by 2% on an FX-neutral basis from the previous year.
+
+2. **Earnings Per Share (EPS)**
+   - **Adjusted Diluted EPS**: Reported at $0.60 per share, aligning towards the upper end of the guidance range.
+
+3. **Contract Value**
+   - Total contract value grew by 15% year-over-year on an FX-neutral basis to $1.95 billion.
+
+4. **Profitability Metrics**
+   - **Adjusted EBITDA**: Showed growth of 1%, totaling $106 million for the quarter.
+   - Gross Contribution Margin in Research: Declined slightly by one point to 69%.
+
+5. **Client Retention and Wallet Retention**
+   - Client retention stood at 83%, slightly down by 40 basis points year-over-year.
+   - Wallet retention was reported at 104%.
+
+6. **Free Cash Flow**
+   - On a rolling four-quarter basis, free cash flow conversion was 126% of normalized net income.
+
+7. **Debt and Financing**
+   - Post-acquisition of CEB, gross debt increased by approximately $2.9 billion, totaling about $3.6 billion.
+   - Net debt after closing was approximately $3 billion, translating to about 4.3 times leverage on a pro forma combined last 12 months of adjusted EBITDA.
+
+8. **Guidance for 2017**
+   - **Revenue**: Combined company adjusted revenue range for 2017 is between $3.4 billion to $3.5 billion.
+   - **Adjusted EBITDA**: Expected to be between $685 million to $735 million for the year.
+   - **Adjusted EPS**: Anticipated to be between $3.32 and $3.60 per share, representing a 5% to 7% accretion for 2017 from the acquisition of CEB.
+   - **Capital Expenditures**: Estimated to be between $95 million to $105 million.
+   - **Free Cash Flow**: Projected to range from $335 million to $365 million for 2017.
+
+9. **Acquisition Impact**
+   - The acquisition of CEB is expected to drive double-digit accretion to adjusted EPS in 2018.
+   - Integration charges and acquisition-related adjustments were significant factors impacting the financial statements.
+
+10. **Other Financial Aspects**
+    - **SG&A Expense**: Increased by 18% year-over-year in Q1.
+    - **Tax Rate**: GAAP tax rate for Q1 was 24.9%, with a normalized rate post-acquisition adjustments of 25.7%.
+
+This overall financial performance illustrates solid growth in revenues and contract values, stable profitability metrics, and strategic movements in acquisitions which are expected to contribute positively to future financial periods. The company’s focus remains on robust operational execution, strategic acquisitions, and sustained revenue growth.

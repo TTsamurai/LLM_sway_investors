@@ -1,0 +1,39 @@
+**Investment Analysis and Recommendation Report**
+**Company: APS (Arizona Public Service)**
+**Report Date: Second Quarter 2017 Financial Review**
+**Recommendation: Underweight**
+
+**1. Introduction:**
+We have evaluated Arizona Public Service's (APS) financial performance as provided in its second quarter 2017 earnings call. Despite notable strengths reflected in the recent financial results and promising regional economic indicators from Metro Phoenix, several areas of concern exist that justify a cautious investment approach.
+
+**2. Financial Results - Q2 2017 Overview:**
+APS reported an increase in earnings to $1.49 per share in Q2 2017 from $1.08 per share in Q2 2016, propelled by improved gross margin, supported by stronger customer usage, favorable weather conditions, and higher transmission revenues. O&M expenses have decreased, primarily due to reduced outages at the fossil generation plant. However, certain variances require careful consideration before a robust positive outlook can be justified.
+
+**3. Areas of Concern:**
+**A. Limited Sales Growth Prospect:**
+Year-to-date sales increased by only 0.1%, with expectations of weather-normalized sales growth ranging between 0% and 1% for the entire year. This limited growth trajectory questions the long-term revenue sustainability, particularly if economic conditions fluctuate.
+
+**B. Dependency on Fossil Generation Plants:**
+The significant reduction in O&M expenses was largely due to decreased outage activity, which is not sustainable long-term. Upcoming extended outages anticipated for pollution control installations may inversely impact future O&M expenses. This could lead to increased operational complexities and costs.
+
+**C. Increased Debt Issuance:**
+Plans to issue approximately $650 million in long-term debt could strain the financial structure, particularly if earnings do not increase proportionately. The company also signaled a potential decline in its equity ratio, making it susceptible to higher financial leverage risks.
+
+**D. Economic Dependency on Regional Growth:**
+While the Phoenix metropolitan area shows robust job and real estate growth, a dependency on regional economic conditions introduces significant risk. Financial services and construction, sectors known for volatility, drive much of this growth. Any downturn could adversely affect APS’s operations and growth.
+
+**E. Renewable Installation and Regulatory Challenges:**
+There is notable uncertainty regarding the economic impacts of increased rooftop solar installations and policy adjustments. By 2020, 6% of APS’s residential customer base is expected to employ rooftop solar, potentially decreasing demand for traditional electricity supply. This shift also calls for strategic readjustments that might involve substantial capital commitment and regulatory navigation.
+
+**4. Competitive and Strategic Analysis:**
+Competition from renewable energy sources continues to intensify. APS needs a clearer strategy for integrating more renewable energies into its mix, a transition that requires substantial investment and could impact profitability in the transition phase.
+
+**5. Conclusion and Recommendation:**
+Given the mixed financial results, reliance on regional economic conditions, upcoming operational challenges, and unfolding regulatory environment, we advise adopting an ‘Underweight’ investment stance on APS. Investors should maintain close observation, particularly on how management navigates the impending complex operational and regulatory terrain, before committing further.
+
+**6. Action Points:**
+- Monitor quarterly financial and operational reports for deviations from forecasted growth and profitability.
+- Closely observe developments in regional economic conditions.
+- Stay updated on regulatory changes and their impacts on APS’s business model and financial posture.
+
+This analysis aims at providing investors with a comprehensive understanding of the risks associated with an investment in APS under current conditions.

@@ -1,0 +1,23 @@
+. And as we anticipate the continued growth of high-end smartphones and the increasing demand for memory and storage solutions in applications such as augmented reality and machine-to-machine communications, we are confident in the future opportunities for our products.
+
+Regarding our financial performance, our revenue for the fourth quarter was $6.14 billion, with record gross margin, operating income, and free cash flow. Full year revenue, profitability, and free cash flow also set company records. Our results were driven by favorable industry fundamentals, solid execution of our next-generation, lower-cost technologies, and diversifying our product portfolio towards high-value solutions.
+
+In terms of our business units, our Compute and Networking Business Unit saw robust growth in Q4 revenue and profitability compared with the prior year, driven by strong demand in Cloud and Graphics. Revenue growth from these segments exceeded overall growth in the business unit.
+
+Our Mobile Business Unit also recorded strong revenue growth due to a favorable pricing environment and significant growth in our eMCP business. We anticipate continued growth in our 1X LPDRAM portfolio and volume shipments of new products in fiscal 2018.
+
+The Storage Business Unit also saw a revenue increase of 71% in Q4, supported by strong demand for our SSD product portfolio. Although we experienced a temporary decline in SSD revenue due to a flash component issue, shipments have now resumed and we expect solid sequential SSD revenue growth in Q1.
+
+Our Embedded Business Unit delivered strong performance, with revenue growing 39% for the full year. We anticipate continued growth in automotive applications and increased demand for our NAND and LPDDR MCP products.
+
+In terms of technology progress, our 1X DRAM and 64-layer NAND production rollout is proceeding as planned, with mature yields expected before the end of 2017. Our third-generation 3D NAND development is also progressing well, with production expected to commence in 2018.
+
+In terms of the demand and supply fundamentals, we expect the industry to remain moderately undersupplied for both DRAM and NAND for the rest of 2017. We see DRAM industry supply bit growth of about 20% in 2017 and expect similar levels in 2018. The DRAM industry supply-demand balance is expected to remain healthy, driven by strength in data center and cloud computing trends.
+
+For NAND, we expect industry bit supply growth to approach the 50% range in 2018, which should better satisfy current unfulfilled demand. As we transition to 64-layer 3D NAND, our bit output growth is expected to be somewhat higher than the industry range.
+
+As we look ahead to the future, our strategic priorities include driving cost competitiveness to best-in-class levels, accelerating our transition to high-value solutions, and developing deeper collaboration and partnerships with marquee customers.
+
+In conclusion, we are excited about our future opportunities as customers increasingly recognize the strategic value of our memory and storage solutions across a range of high-growth markets. We remain focused on executing our strategic priorities to drive profitable growth and enhance our market competitiveness.
+
+Thank you for your attention, and we are open to any questions.

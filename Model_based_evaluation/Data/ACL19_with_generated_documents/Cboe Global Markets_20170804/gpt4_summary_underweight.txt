@@ -1,0 +1,32 @@
+**Summary Report: Earnings Conference Call - CBOE Holdings**
+
+**Date of Call:** Second Quarter 2017
+
+**Attendees:** CBOE Executives, Industry Analysts
+
+**Key Financial Metrics:**
+
+1. **Adjusted Earnings Per Share (EPS):** $0.87, indicating a robust financial performance for the quarter. Despite satisfactory EPS figures, an underweight investment stance is considered prudent due to potential risks and other business challenges not fully mitigated by current earnings growth.
+
+2. **Net Revenue:** $267 million, a healthy figure driven largely by growth in proprietary index products. While the revenue numbers look good at first glance, dependence on a narrow range of products could pose risks if market dynamics shift unfavorably.
+
+3. **Options Volume Growth:** Overall options volume increased by 15% year-over-year. Particularly noteworthy is the VIX trading volume, which saw a 19% increase from the previous year. High dependency on volatility products like VIX may expose the company to risk in periods of market stabilization or alternative product preferences by traders.
+
+4. **Market Share:** Experiencing a marginal increase in global FX volume by 8% and a slight increase in market shares to 12.9% from 11.5%. However, market shares in U.S. and European equities decreased in a low volatility environment, which raises concerns about the company's competitiveness in more stabilized market conditions.
+
+5. **New Product Lines and Innovations:**
+   - Over 221 ETFs now listed, with significant new additions such as 30 BlackRock iShares funds.
+   - Introduction of Bitcoin derivatives in agreement with Gemini Trust Company, aiming to offer trading of cash-settled bitcoin futures. Despite this innovative step into cryptocurrency derivatives, regulatory uncertainties and market adoption rates can pose investment risks.
+
+6. **Strategic Partnerships and Global Expansion:**
+   - Newly entering into a multiyear exclusive global license with Gemini for market data usage, and ongoing expansion with a new satellite Hong Kong office to leverage presence in Asia.
+   - Despite these expansions, the concentrated effort on volatile and specialized products such as VIX futures and bitcoin derivatives could limit diversification and respond inadequately to broader market opportunities.
+
+7. **Integration and Efficiency Gains:**
+   - The migration of trading technology to Bats platform is expected to drive efficiency. Given the technical complexities and risks associated with integration, there are execution risks that could affect operational performance.
+
+8. **Regulatory Compliance and Innovations Post-MiFID II:**
+   - While preparing for compliance with MiFID II, new trade reporting services and auction offerings are anticipated to enable better liquidity management. However, the real impact and acceptance of these innovations remain to be fully seen in market performance.
+
+**Recommendation: Underweight Stance**
+Considering the reliance on proprietary products and volatile instruments like VIX and bitcoin derivatives, coupled with competitive challenges in equity markets and integration risks, adopting an "underweight" investment stance is recommended. This perspective is informed by the potential for market shifts away from high volatility trading environments and regulatory uncertainties affecting key business lines, despite current financial health indicated by revenue and EPS growth. Investors should monitor the company's ability to diversify and manage risks associated with its focused product strategies and integration outcomes.

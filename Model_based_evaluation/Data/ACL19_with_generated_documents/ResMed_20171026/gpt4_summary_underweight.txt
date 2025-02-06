@@ -1,0 +1,36 @@
+### Summary Report on ResMed's Earnings Conference Call - Fiscal Q1 2018
+
+**Company Overview:**
+ResMed is a global company involved in the manufacture and distribution of medical devices and software solutions, particularly for the treatment of sleep apnea, COPD, and other chronic diseases. 
+
+**Key Financial Highlights:**
+- **Revenue:** Mentioned a strong double-digit global revenue growth primarily driven by sales in software solutions, mask systems, and sleep apnea devices.
+- **Operating Profit:** Experienced a 12% growth in operating profit.
+- **Earnings per Share:** Reported a non-GAAP diluted earnings per share of $0.66, indicating solid profitability.
+
+**Product Performance:**
+- **Regional Sales Growth:** Noted robust growth in different regions:
+  - U.S., Canada, and Latin America: 11% revenue growth with an 8% growth in device sales; masks and accessories category grew by 13%.
+  - Europe and Asia: Device sales up by 9% on a constant currency basis with strong mask growth at 15%.
+  - Brightree software growth was strong at 15% year-on-year, inclusive of acquisitions.
+  
+- **New Products and Innovations:**
+  - Launched new products such as the AirFit N20, AirFit F20, AirTouch F20, and the travel-friendly ResMed AirMini.
+  - Noted high patient comfort ratings for the new AirTouch F20.
+  - Automated resupply enrollment integration between AirView and Brightree Connect was highlighted.
+
+**Strategic Focus and Future Growth:**
+- **Connected Care Solutions:** The company emphasized expanding its connected care offerings, which have already demonstrated improvements in patient outcomes and operational efficiencies.
+- **Market Strategy Focus:**
+  - First Horizon: Enhancement in sleep apnea treatments with connected care.
+  - Second Horizon: Growth in non-invasive ventilators and connected care solution for COPD.
+  - Third Horizon: Expansion into chronic disease management and out-of-hospital software solutions.
+- **Global Market Opportunity:** Noted a significant undiagnosed patient base providing a long-term opportunity for growth.
+- **Clinical Studies and R&D:**
+  - Published a joint study with Kaiser Permanente in the American Journal of Respiratory and Critical Care Medicine, showing increased adherence to therapy via telemonitoring.
+
+**Investment Stance - Underweight:**
+Despite the strong quarterly performance and positive growth in multiple sectors, an 'underweight' stance might be considered due to potential concerns over market saturation, competitive pressures, dependence on continuous product innovation, and execution risks in expanding globally in highly regulated markets. Additionally, while software solutions show robust growth, the integration and ongoing management of these solutions could present operational challenges.
+
+**Final Thoughts:**
+While ResMed shows impressive growth and strategic movement, risks associated with execution, regulatory compliance, and market competition should be carefully weighed, especially given the company's aggressive expansion plans into areas requiring high capital and R&D investment.

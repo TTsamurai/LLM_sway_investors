@@ -1,0 +1,25 @@
+Based on the detailed summary of the earnings conference call, our investment stance on the company remains 'underweight' due to several concerning financial indicators and trends, despite some positive notes. Here is an analysis focusing on the key financial metrics and concerns:
+
+### Revenue Trends
+- **Decline in Revenues**: Revenues declined 9% both on a reported basis and in constant currency. Such a steep decline, occurring even as the company is undertaking strategic measures to boost financial health, suggests potential ongoing market challenges and competitive pressures.
+- **Segment Performance**: Revenue in North America fell by 16%, and European revenues were relatively flat in constant currency. These are significant markets for the company, and poor performance here can materially impact overall results.
+- **Asia as a Bright Spot**: Revenue in Asia was flat year-on-year but increased by 4% in constant currency, showing some resilience and growth potential. Still, this does not offset declines in other significant markets.
+
+### Profitability and Margin Analysis
+- **Gross Margin Improvement**: There was an increase in gross margin by 300 basis points year-over-year, primarily due to reduced promotional activities and a favorable mix. This is a positive development, signaling better profitability per sale.
+- **Operating Margin**: Adjusted operating margin improved by 100 basis points. While this improvement indicates better operational efficiency, the underlying revenue decline can undermine long-term margin sustainability.
+
+### Cash Flow and Balance Sheet
+- **Stronger Balance Sheet**: The company ended the quarter with $1.7 billion in cash and investments, up from $1.1 billion the previous year, and reduced total debt from $692 million to $590 million. This shows a robust cash position and healthier balance sheet.
+- **Free Cash Flow**: A significant increase in free cash flow to $362 million from $67 million shows operational efficiency and good cash management. However, this needs to be consistently high to combat the deteriorating revenue situation.
+
+### Strategic Concerns
+- **Quality of Sales Initiatives**: The company's strategic focus on improving the quality of sales by reducing discounts and changing distribution strategies is a positive approach but has resulted in substantial revenue declines. The full impact of these initiatives is yet to be realized, indicating potential risk in the near term.
+- **Store Closures and Openings**: There were both closures and openings globally, reflecting a restructuring of the retail footprint. This could lead to further uncertainties regarding future performance.
+
+### Guidance and Future Outlook
+- **Continued Revenue Decline**: The guidance suggests a continued decline in revenues, which is concerning. Operating margins are expected to be pressured by increases in SG&A due to investments in marketing and stores.
+- **No Share Repurchases**: The company is not planning share repurchases in fiscal 2018, likely reflecting a need to conserve cash amidst operational uncertainties.
+
+### Conclusion
+The company shows strong areas in cost management and cash flow improvements. However, the continued decline in revenue, especially in key markets like North America and Europe, alongside ongoing strategic shifts that have yet to demonstrate a capacity to reverse these trends significantly, supports an 'underweight' stance. There's an observable risk in the revenue decline outweighing the operational improvements, which could potentially erode future profitability and shareholder value.

@@ -1,0 +1,43 @@
+**Summary Report: Earnings Conference Call**
+
+**Key Financial Metrics and Highlights:**
+1. **Impact of Malware Incident:**
+   - Occurred on June 27, affecting the last four days of Q2 and extending into Q3.
+   - Resulted in approximately 240 basis points decline in organic net revenue (~$140 million).
+   - Majority of systems restored, but some lingering impact on parts of the supply chain expected in Q3.
+   - Additional one-time costs related to recovery expected in H2.
+   - No long-term impact on customer relationships or market share anticipated.
+
+2. **Financial Performance:**
+   - **Q2 Organic Net Revenue:** Growth negatively impacted by malware and India GST transition, combined headwind of 260 basis points. Excluding these, growth would have been flat.
+   - **Adjusted Operating Income (OI) Margin:** 15.8% in Q2, a 90 basis points improvement, driven by lower SG&A through Zero-Based Budgeting.
+   - **Adjusted Gross Margin:** Decreased by 10 basis points due to unfavorable product mix and higher input costs, particularly in dairy.
+   - **Earnings Per Share (EPS):** Adjusted EPS was $0.48, up 19% on a constant currency basis.
+
+3. **Regional Performance:**
+   - **Europe:** Slight decline in organic net revenue (-0.7%), but strong margin expansion (adjusted OI margin up by 220 basis points).
+   - **Asia Pacific and EMEA:** Mixed results, with some markets facing challenges but overall solid margin improvement.
+   - **Latin America:** Improved overhead costs and lower A&C spending led to a 530 basis points increase in adjusted OI margin.
+   - **North America:** Faced significant challenges due to malware incident and lower category growth, resulting in an 8% decline in organic net revenue.
+
+4. **Advertising and Promotion (A&P):**
+   - Total year spending expected to be flat, with reallocation to H2.
+   - Digital advertising remains a priority, accounting for 30% of total A&P spending.
+
+5. **Growth and Innovation Initiatives:**
+   - Introduction of new products like Véa snacks, non-GMO Triscuit, and expanded distribution of Oreo Milka.
+   - Focus on health and wellness trends and distribution channel expansion.
+
+6. **Shareholder Returns:**
+   - $900 million returned to shareholders in Q2 through repurchases and dividends.
+   - Increase in annual dividend by 16%, with a target to grow faster than adjusted EPS.
+   - Share repurchases for the full year increased to between $1.5 billion and $2 billion.
+
+7. **Outlook:**
+   - Full-year organic net revenue growth target remains at least 1%.
+   - Adjusted OI margin expected in the mid-16% range.
+   - Projections of doubling-digit adjusted EPS growth on a constant currency basis.
+   - Free cash flow expected around $2 billion, supported by lower CapEx and efficient working capital management.
+
+**Conclusion:**
+Despite the challenges presented by the malware incident and market conditions, the company displayed resilience and effective crisis management, executing well on cost controls and strategic initiatives. The outlook remains optimistic with strong growth drivers and strategic investments aligned with market trends. The focus for H2 will include recovery from the malware incident's impact, continued innovation, and capitalizing on distribution and market opportunities, particularly in North America.

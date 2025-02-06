@@ -1,0 +1,27 @@
+### Future Outlook Report: Underweight Stance on Varian Medical Systems
+
+#### Overview:
+Varian Medical Systems, a leader in oncology systems and imaging components, recently spun off its Imaging Components business into a new public company, Varex Imaging. Although the company has posted strengths in its core areas, significant financial challenges related to its proton therapy business and related financing could pose substantial risks moving forward.
+
+#### Financial Overview:
+- **Revenue and Earnings:** Varian reported company-wide revenues of $763 million, a modest year-over-year increase of 1%. Non-GAAP net earnings stood at $0.75 per diluted share, primarily hit by $0.34 per share in charges related to the California Proton Treatment Center (CPTC). The GAAP net earnings were significantly impacted, reporting at $0.22 per diluted share after $0.64 charges mainly due to CPTC.
+  
+- **Proton Therapy Business Impact:** The CPTC has impacted the financial health of Varian, with $76 million in GAAP charges taken in Q1 2017 due to liquidity issues. This included a $38 million reserve in accounts receivable and a $38 million impairment of loans to CPTC. This position compromised Varian’s earnings significantly and raised concerns over the sustainability of its proton therapy investments.
+
+#### Market Dynamics and Strategic Initiatives:
+- **Oncology Systems Growth:** Strong order growth reported in the Oncology Systems at 10% in both dollars and constant currency. This growth was spread globally with notable performances in APAC and North America.
+
+- **Contraction in Imaging Components:** Varian has spun off its Imaging Components business, expecting it to operate as a separate entity, which might affect consolidated future revenues and synergistic gains between the two operations.
+
+- **Proton Therapy Business Risks:** Varian reported substantial investments in proton therapy, which have not yielded expected results due to market and operational challenges. This has resulted in significant financial strain, evidenced by impairment and reserve charges, with doubts about any short-term recovery or viability of such investments.
+
+#### Financial Outlook:
+- **Guidance for FY 2017:** Post-separation, Varian forecasts 4-5% revenue growth in continuing operations with Non-GAAP earnings from continuing operations predicted to lie between $2.94 to $3.06 per diluted share for the second to fourth quarters. This projection remains tenuous given the recent financial impacts and market volatility.
+
+#### Risks:
+- **Dependence on Proton Therapy Success:** With the ongoing liquidity and performance issues in the proton therapy investments, significant risks are impacting Varian’s financial health.
+- **Regulatory and Market Changes:** Potential changes in healthcare policies, especially in North America, could pose additional operational risks.
+- **Spinoff Operational Risks:** The recently completed spin-off of the Imaging Components may involve transitional risks that could adversely affect the business operations and financial stability of Varian.
+
+#### Conclusion: Recommend Underweight
+Given the significant financial challenges originated from the proton therapy area, the modest growth in core business areas, uncertainty around the recent divestiture, and potential regulatory changes, an 'underweight' stance is recommended. Investors should exercise caution with respect to Varian’s near-term growth prospects and stability until more promising improvements in profitability and reduced exposure to high-risk segments are observed.

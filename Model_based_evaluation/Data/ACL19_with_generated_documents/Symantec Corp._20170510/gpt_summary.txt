@@ -1,0 +1,25 @@
+.
+
+Key Financial Metrics to focus on in the summary report:
+
+1. Revenue Growth: Analyze the revenue growth for both Enterprise Security and Consumer Security segments for Q4 fiscal year 2017 and the full year of fiscal 2017.
+
+2. Operating Margins: Examine the operating margins for Enterprise Security and Consumer Security for Q4 fiscal year 2017 and the full year of fiscal 2017 and compare them to the previous year.
+
+3. EPS Outlook: Compare the projected EPS for fiscal year 2018 to the actual EPS for Q4 fiscal year 2017 and the full year of fiscal 2017.
+
+4. Cost Savings and Synergies: Evaluate the cost savings and synergies achieved by integrating the transformative acquisitions and their impact on the financial profile of Symantec.
+
+5. Business Activity: Assess the business activity within Enterprise Security, particularly the shift towards cloud subscription and virtual appliances, and its impact on financial results.
+
+6. Consumer Digital Safety: Analyze the revenue growth and demand generation in the Consumer Digital Safety segment, particularly with the roll-out of new products and the cross-selling efforts between Norton and LifeLock.
+
+7. Cloud Security Portfolio: Examine the traction and growth in cloud security solutions, including the revenue run rate, competitive wins, and the potential impact on future success.
+
+8. Endpoint Security: Evaluate the success of the endpoint security solutions, including the advancements in endpoint detection and response (EDR) and its impact on customer retention and renewal metrics.
+
+9. Integrated Cyber Defense Platform: Assess the resonance of the Integrated Cyber Defense Platform with customers, its impact on wallet share, and the opportunities for expanding market leadership.
+
+10. Future Outlook: Consider the projected organic revenue growth, operating margins, and profitability for both Enterprise Security and Consumer Security segments for fiscal year 2018 and beyond.
+
+The summary report should include a detailed analysis of these key financial metrics to provide stakeholders with a comprehensive understanding of Symantec's recent earnings conference call transcripts and the financial performance of the company.

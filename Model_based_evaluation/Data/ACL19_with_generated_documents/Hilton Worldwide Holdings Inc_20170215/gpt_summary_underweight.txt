@@ -1,0 +1,9 @@
+. As a financial analyst, I have analyzed the recent earnings conference call transcript and have determined that an 'underweight' investment stance is appropriate. The key financial metrics that inform this decision are as follows:
+
+- RevPAR growth: While the company reported consistent RevPAR growth throughout 2016, it is important to note that the growth was in the range of 1.5% to 2%, which may not be as strong as desired. The company also mentioned that the rate of growth in the first quarter was slightly above expectations. However, this does not provide enough evidence of a significant positive trend to warrant an 'overweight' investment stance.
+
+- Adjusted EBITDA and adjusted EPS: The company reported that both adjusted EBITDA and adjusted EPS were in line with expectations. While this shows stability, it does not indicate a significant improvement or strong growth, further supporting the 'underweight' investment stance.
+
+- System-wide growth and net unit growth: The company reported a 6.6% increase in system size and a forecasted growth of 50,000 to 55,000 rooms in 2017, or approximately 6.5% system growth. While these numbers indicate growth, it is important to note that the growth is supported almost entirely by third-party capital, which may not provide the same level of financial stability as growth driven by internal funding.
+
+Overall, the key financial metrics provide evidence of stable performance, but not significant growth or improvement that would warrant an 'overweight' investment stance. Therefore, I recommend adopting an 'underweight' investment stance for this company based on the financial analysis of the earnings call transcript.

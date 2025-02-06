@@ -1,0 +1,38 @@
+### Earnings Conference Call Summary: Third Quarter 2017 Financial Results
+
+#### Financial Performance Overview
+- **Earnings Per Share (EPS)**: The company reported EPS of $2.46 for the third quarter of 2017, up from $2.35 in the same quarter of 2016.
+- **Gross Margin**: Increased by $0.22 per share YOY, mainly due to:
+  - A rate increase approved by the commission effective August 19, contributing an additional $0.13 per share.
+  - Higher sales increasing earnings by $0.02 per share, attributed to customer growth, partly offset by energy efficiency initiatives and weather variations also adding $0.02 per share.
+- **Operating Costs**:
+  - Operations and maintenance expenses increased earnings impact by -$0.02 per share, primarily due to higher employee benefit costs.
+  - Higher plant outage costs related to SCR installation at Four Corners unit 5.
+  - Depreciation and amortization expenses also rose, impacting earnings by -$0.07 per share, driven by asset additions and an increase in D&A rates from the rate case.
+  
+#### Economic and Market Update: Arizona and Metro Phoenix
+- **Job Growth**: Employment in Metro Phoenix grew by 2% through August, surpassing the national average of 1.5%.
+- **Unemployment Rate**: The unemployment rate in Metro Phoenix stood at 4.3%.
+- **Real Estate**: Both commercial and residential markets showed positive trends, with vacancy rates decreasing to levels last observed in 2008 or earlier. Approximately 3 million square feet of new office and retail construction was noted at the quarter's end.
+- **Residential Market**: Continuation of growth in housing construction with single-family home permits at their highest since 2006.
+  
+#### Customer and Sales Growth
+- The company’s retail customer base grew by 1.9% in the third quarter. This growth is expected to accelerate, supported by robust economic development.
+
+#### Financial Outlook and Guidance
+- **Liquidity and Capital Structure**:
+  - Issued $300 million of 10-year 2.95% senior unsecured notes for refinancing purposes.
+  - Total short-term debt was approximately $100 million for Pinnacle West and $32 million for APS as at the end of the quarter.
+- **Dividends**:
+  - The annual dividend was raised by $0.16 per share to $2.78, effective December.
+- **2017 Earnings Guidance**: Ongoing earnings are expected to be in the range of $4.15 to $4.30 per share.
+- **2018 Earnings Guidance**: Introduced at $4.25 to $4.45 per share, reflecting a forecast increase in weather-normalized sales growth of 0.5% to 1.5%.
+
+#### Capital Expenditures and Operational Focus
+- **2018 Capital Expenditures**: Forecast increased by approximately $40 million, emphasizing reliability-related projects.
+- **Operational Costs**: Expected increase in fossil plant outage costs and general operating expenses, including G&A and property taxes.
+
+#### Strategic and Regulatory Environment
+- The rate base growth outlook remains firm with a projected growth of 67% through 2019, aiming for an annualized return on common equity of over 9.5%.
+
+Throughout the fiscal periods discussed, the company's performance reflects robust operational handling, proactive growth strategies in the Arizona market, and a strong focus on maintaining financial health through strategic refinancing and careful capital management investments, aiming for both short-term gains and long-term operational success.

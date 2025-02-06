@@ -1,0 +1,31 @@
+**Underweight Investment Recommendation Report on Company's Financial Standing Based on Q1 2017 Analysis**
+
+**Financial Summary:**
+
+The company has reported adjusted earnings of $939 million for Q1 2017, indicating a year-over-year growth of 14%, with adjusted earnings per share growing by 17% to $2.71. However, moderate adjustments and risk factors within the details persist. 
+
+**Key Concerns Leading to Underweight Stance:**
+
+1. **Decline in ACA-Compliant Membership**: There has been a noted decrease in membership in ACA-compliant individual and small group products. This declining trend impacts the stable revenue streams and exposes the company to risks associated with regulatory changes and market volatility.
+
+2. **High Dependency on Government Business**: The reported figures show an increased reliance on government business, with Government premiums exceeding Commercial premiums for the first time. While initially appearing favorable, this reliance subjects the company to political and policy alteration risks, which can impact profitability and operations.
+
+3. **Volatility in Individual Commercial Products**: The performance of individual commercial products, despite improvements, remains uncertain. The company recognized a $110 million premium deficiency reserve for greater expected losses in 2017. The ongoing reduction in individual Commercial members adds to concerns about underperformance in this segment.
+
+4. **Moderate Medical Cost Trends**: Although current medical cost trends are moderate, there is an ongoing risk of increase. The company has projected a non-ACA core Commercial medical cost trend of 6% to 7%. Rising costs in this area could pressure margins and profitability further if they exceed projections.
+
+5. **Balance Sheet and Cash Flow Pressures**: Despite strong Q1 cash flow performances, significant cash outlays for accelerated share repurchase programs, debt repayments and shareholder dividends place considerable pressure on free cash flow. The cash at the parent by the end of Q1 was approximately $100 million, potentially limiting future financial flexibility.
+
+6. **Regulatory Risks with Health Insurer Fee**: The suspension of the health insurer fee in 2017 has led to temporary financial relief. However, uncertainties about the permanent repeal or reinstatement of this fee could create future financial volatility.
+
+7. **Market and Membership Outlook**: Projected membership declines in Medicaid and small group Commercial could negatively impact overall performance. The company's strategy to reduce exposure to individual Commercial products in 2018 hints at underlying challenges in maintaining profitability in this segment.
+
+**Strategic Concerns:**
+
+- **Future Growth Dependency on Government-Sponsored Initiatives**: With substantial investment planned to drive growth predominantly in government-sponsored programs, the business's performance becomes highly susceptible to the whims of regulatory and political shifts.
+
+- **Exit from State-Based Exchanges**: The planned exit from one of the state-based exchanges in 2018 may impact market perceptions and trust in the company's stability and long-term commitment.
+
+**Conclusion:**
+
+Given these highlighted concerns, particularly with volatility in key business segments and dependency on government business, an 'Underweight' investment stance is recommended. Investors should exercise caution due to the company’s exposure to potentially unstable revenue segments and ongoing regulatory risks. While the company shows robust tactical execution, the strategic vulnerability posed by external factors could impede predicted growth and profitability. This stance will be reassessed as new financial data and market conditions evolve.

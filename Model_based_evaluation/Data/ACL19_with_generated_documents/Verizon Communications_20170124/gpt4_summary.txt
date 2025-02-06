@@ -1,0 +1,40 @@
+### Executive Summary
+
+**Overall Performance and Strategic Overview**
+Verizon's 2016 performance exemplified strategic adaptation and execution in a competitive and dynamic industry. The company focused on maintaining its leadership in wireless network services, enhancing wireline operations, and venturing into new growth areas like digital media and the Internet of Things (IoT). Notable strategic moves included the acquisition of Telematics and Smart City businesses and the restructuring of the wireline segment to improve its cost structure.
+
+### Financial Highlights
+
+- **Revenue:** Consolidated revenue for 2016 was $126.0 billion, marking a decrease of 4.3% year-over-year. This decline was moderated to a 2.4% decrease when excluding divested wireline properties and the impact of the AOL acquisition. The fourth quarter saw a revenue fall of 5.6%, totaling $32.3 billion.
+
+- **EBITDA:** Excluding non-operational items, EBITDA for the year stood at $44.8 billion, with a robust operating margin of 35.5%.
+
+- **Cash Flow:** Cash flow from operations was reported at $22.7 billion for the year, affected by substantial tax payments relating to divestitures.
+
+- **Capital Expenditure:** Capital spending for 2016 was slightly below guidance at $17.1 billion.
+
+- **Dividends:** The company increased dividends for the 10th consecutive year in September, showcasing its commitment to shareholder returns.
+
+- **Debt Reduction:** The unsecured debt was reduced to $103.1 billion by year-end, decreasing by $6.6 billion compared to the prior year, aligning with the company’s long-term credit rating goals.
+
+### Segment Review
+
+**Wireless Segment:**
+- **Revenue:** There was a trend of declining service revenue due to customer migrations to unsubsidized plans, slightly offset by growth in equipment revenue driven by higher device payment plans uptake.
+- **Operational Metrics:** Total wireless customers reached 114.2 million. The company reported strong industry-leading retail phone churn of less than 0.9%.
+
+**Wireline Segment:**
+- **Revenue:** Marginal growth in consumer revenue was offset by declines in global enterprise and wholesale revenues. Fios continued to perform strongly with revenue growth driven by an increase in customer numbers and demand for higher speed internet.
+- **Operational Metrics:** Added 68,000 Fios Internet and 21,000 Fios Video customers in the fourth quarter alone.
+
+### Strategic Initiatives and Forward Look
+
+- **Network Investments:** Verizon plans to continue investing in its network, focusing on 4G densification and laying the groundwork for 5G deployment. Additionally, the expansion of fiber resources is a priority to support network capabilities.
+
+- **Digital Media and IoT:** Revenue from digital media business and IoT was promising, with notable growth seen from acquisitions and organic expansions. The integration of AOL and the planned Yahoo acquisition are pivotal in Verizon’s strategy to enhance its digital media offerings.
+
+- **Outlook for 2017:** The company expects stable revenue growth and operational performance in line with 2016 on an organic basis. Capital spending is projected between $16.8 billion and $17.5 billion, reflective of ongoing investments in network and strategic initiatives.
+
+### Conclusion
+
+Verizon’s 2016 performance, amidst restructuring and market challenges, demonstrates a resilient operational model and a proactive strategic outlook. With sustained investments in technology and new business models, Verizon is well-positioned to maintain its market leadership and deliver continuous growth and shareholder value moving into 2017 and beyond.

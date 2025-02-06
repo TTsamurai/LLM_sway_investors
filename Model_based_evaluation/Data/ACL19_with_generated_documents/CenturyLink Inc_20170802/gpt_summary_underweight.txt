@@ -1,0 +1,17 @@
+Based on the recent earnings conference call transcript, it is clear that there are several key financial metrics and business trends to consider when adopting an 'underweight' investment stance for CenturyLink.
+
+1. Colo Revenue: Second quarter colo revenue was below expectations due to higher losses in legacy revenues and broadband unit losses, indicating a decrease in revenue and potential profitability.
+
+2. Enterprise High-Bandwidth Data Services: While there was a 1% year-over-year growth, this was slower than the previous quarter, and there are challenges including contracted price reductions and a higher churn rate.
+
+3. Managed Network Services: Forecast growth rates for U.S. Enterprise managed network services are mid to upper single-digit compounding annual growth through 2021. However, there are concerns about market challenges, especially after the Level 3 acquisition.
+
+4. Consumer Broadband: Consumer broadband subscribers experienced losses due to strong cable competition and aggressive pricing, impacting revenue and potential profit margins.
+
+5. Legacy Services: Revenue from legacy services such as switch voice services and low bandwidth data services have been declining due to regulatory changes, wireless displacement, and technology transitions, leading to continuous revenue declines.
+
+6. Level 3 Acquisition: The pending acquisition of Level 3 is seen as a key opportunity for future growth, but there are complexities in obtaining necessary approvals and potential delays in customer decision-making post-acquisition.
+
+7. Litigation: The company is facing significant litigation related to consumer billing practices, which could impact financial performance, customer trust, and reputation.
+
+Overall, the combination of slowed growth in key revenue streams, challenges in customer retention, intense competition in the market, and pending litigation suggests that an 'underweight' investment stance may be appropriate for CenturyLink. These factors indicate potential financial pressures and uncertainties that could affect the company's performance in the coming quarters.

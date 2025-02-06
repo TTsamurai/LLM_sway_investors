@@ -1,0 +1,40 @@
+### Investment Outlook Report: Underweight Stance on GGP Inc.
+
+#### Company Overview:
+GGP Inc. (GGP) is a prominent player in the retail real estate industry, focusing on the acquisition, management, and redevelopment of high-quality retail properties, including mixed-use developments. The company's portfolio includes a vast array of assets such as shopping malls, office spaces, residential units, and large-format stores.
+
+#### Recent Developments:
+- GGP has actively engaged in re-tenanting and redevelopment efforts targeting vacated department stores within its portfolio, which is a critical aspect of its long-term growth strategy.
+- The company has ventured into non-traditional retail and mixed-use to adapt to evolving consumer preferences, showing positive traction with a 10% year-over-year increase in its quarterly dividend.
+- Strategic alliances, acquisitions, and management shifts underscore efforts to sustain and enhance shareholder value.
+
+#### Financial Highlights:
+- FFO per diluted share remained stable at $0.35 as per the recent quarterly report, aligning with consensus estimates.
+- NOI increased by 1.3%, slightly affected by store closures but managed a stronger underlying growth rate when adjusted for bankruptcy impacts.
+- Lease spreads increased significantly, indicating robust demand for GGP’s spaces.
+- Sales productivity and asset utilization remain strong, particularly in Class A locations, which drive the majority of GGP’s business.
+
+#### Market Position and Risks:
+- GGP's assets are strategically placed, covering diverse geographical locations that attract significant consumer traffic, mainly within an hour's drive for 56% of the U.S. population.
+- The impending expiration of Brookfield in-the-money warrants and the subsequent increase in ownership represent both an opportunity and a market manipulation risk depending on the execution of the ensuing equity strategies.
+
+#### Concerns and Rationale for Underweight Stance:
+1. **Market Dynamics and Over-Reliance on Redevelopments:**
+   - While GGP’s strategic focus on redeveloping anchor spaces has been beneficial, the high dependency on continuous positive outcomes from such activities poses a risk. The retail landscape is volatile, and any slowdown in effective redevelopment can impact financial performance significantly.
+
+2. **Operational Risk from Tenant Bankruptcies:**
+   - The retail sector is still recovering from the impacts of increased e-commerce penetration. Tenant bankruptcies have affected GGP's NOI and could persist as a risk if the broader retail sector faces more disruptions.
+
+3. **Public vs. Private Valuation Concerns:**
+   - Remarks from the management highlight the ongoing concerns about the valuation gap between public and private markets. This might indicate underlying issues not fully reflected in public trading prices, potentially leading to market corrections affecting the stock.
+
+4. **Strategic Execution and Management transitions:**
+   - Any strategic shift requires seamless execution. Changes in board composition and management strategies should align with operational realities. Misalignments or execution failures could affect operational efficiency and market confidence.
+
+#### Recommendations:
+- Investors should consider an 'underweight' position on GGP given the outlined risks associated with retail real estate dependency and market volatility.
+- Closely monitor quarterly performance, particularly in terms of NOI growth, lease spreads, and asset utilization rates.
+- Pay attention to developments related to strategic repositionings, such as the exploitation of the embedded value through densification, as these could either negate risks or exacerbate them if not managed effectively.
+
+#### Conclusion:
+While GGP demonstrates solid operational strategies and fair financial performance, the prevailing uncertainties in the retail sector and dependency on continuous redevelopment for growth present considerable risks. An 'underweight' stance is recommended until more stable conditions emerge, or GGP proves its ability to mitigate these risks more robustly.

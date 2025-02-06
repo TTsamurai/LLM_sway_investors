@@ -1,0 +1,30 @@
+### Symantec Q4 Fiscal Year 2017 Earnings Call Summary
+
+#### Financial Results Overview:
+- **Fiscal Year Performance**: 2017 was highlighted as a transformative year for Symantec, with substantial improvements noted across the company. 
+- **Q4 Results**: Q4 demonstrated strong execution with enterprise security seeing an increase in cloud subscription and virtual appliances. Operating margins for Enterprise Security improved dramatically, with a 17-point increase year-over-year.
+- **Earnings Per Share (EPS)**: EPS for Q4 was at the high end of the guidance range provided, at $1.75 to $1.85, excluding contributions from LifeLock.
+
+#### Segment Performance:
+- **Enterprise Security**: Grew 2% organically in Q4. The segment's performance was boosted by the integration and performance of Blue Coat products and a heightened adoption of cloud solutions. The Blue Coat subscription offerings are approaching a $100 million revenue run rate, growing by 67% year-on-year.
+- **Consumer Security**: Exceeded revenue expectations organically and through strong performance by LifeLock. The segment benefitted from increased renewal rates and an 8% year-over-year growth in cumulative ending members.
+
+#### Strategic and Operational Highlights:
+- **Integrated Cyber Defense Platform**: Continues to resonate with customers, combining robust threat intelligence with integrated functionality to ensure comprehensive cybersecurity solutions.
+- **Sales and Marketing Initiatives**: The merging of Norton and LifeLock has substantially increased demand generation capabilities. There is strong traction in mobile security, propelled by recent agreements with large international telcos.
+- **Cloud Security**: Symantec has advanced its offerings to address cloud-related risks, combining cloud proxy, CASB, DLP, and multi-factor authentication into robust solutions.
+  
+#### Future Outlook:
+- **Financial Expectations for Fiscal 2018**: Symantec has raised its EPS outlook and anticipates continued revenue growth and profitability across both enterprise and consumer segments. The company expects to achieve over 30% enterprise operating margins by the end of 2018.
+- **Strategic Focus Areas**: Continued evolution towards offering integrated platforms, leveraging AI for enhanced cybersecurity, and capitalizing on cloud opportunities.
+    
+#### Key Challenges:
+- **Website Security Solutions Controversy**: Discussions are ongoing with Google and other community members about the proposed changes affecting Symantec’s Certificate Authority business. The outcomes of these discussions are anticipated to influence the company’s operations minimally, as they are already factored into financial projections.
+  
+#### Operational Commitments:
+- **Cost Savings and Efficiencies**: The company reported achievements in cost savings and operational efficiencies faster than initially anticipated, contributing positively to the financial standing entering fiscal 2018.
+
+#### Closing Remarks:
+- **Management Optimism**: The management expressed strong confidence in achieving the outlined financial and operational goals for FY 2018 based on the strategic initiatives and operational improvements implemented.
+
+This summary encapsulates the broad strategic efforts and financial performance detailed during the earnings call, reflecting Symantec's positive trajectory in both enterprise and consumer segments, with a strong emphasis on cloud adaptations and cybersecurity innovations.

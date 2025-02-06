@@ -1,0 +1,43 @@
+**PSEG Earnings Conference Call Report - Q1 2017**  
+**Recommendation: Underweight**
+
+**Financial Summary:**
+
+**1. Earnings Overview:**
+   - Non-GAAP Operating Earnings Q1 2017: $0.92 per share
+   - Non-GAAP Operating Earnings Q1 2016: $0.91 per share
+   - Slight increase in per-share earnings lacks significant growth momentum.
+
+**2. Detailed Business Analysis:**
+   - **PSE&G:**
+     - Reported net income for Q1 2017: $0.59 per share (increase from $0.52 per share in Q1 2016)
+     - Increase attributed to growth in investment in transmission and control of operating expenses.
+     - Energy Strong and Gas System Modernization Programs contributed positively but are highly dependent on regulatory recovery mechanisms.
+
+   - **PSEG Power:**
+     - Non-GAAP Operating Earnings for Q1 2017: $0.30 per share (decline from $0.36 per share in Q1 2016)
+     - Contraction in earnings despite operational cost improvements.
+     - Notable negative impact from the early retirement of Hudson and Mercer coal plants, costing $564 million pre-tax, which will continue affecting the next quarter.
+     - EBITDA also decreased from $409 million in Q1 2016 to $359 million in Q1 2017 signaling pressure in operating profitability.
+
+   - **Enterprise and Other:**
+     - Reported a net loss of $15 million or $0.03 per share, versus a profit of $0.03 per share in Q1 2016.
+     - Loss driven by a pre-tax charge of $55 million related to liquidity issues in NRG REMA.
+     - Stagnation in Non-GAAP operating earnings at $17 million or $0.03 per share quarter-over-quarter.
+
+**3. Capital and Cash Flow Management:**
+   - Q1 2017 ended with solid cash reserves and controlled debt levels but highlighted an upcoming need for careful financial planning to support a $15 billion capital program without equity issuance.
+   - Capital investments by PSE&G projected at $3.4 billion in 2017 predominantly focused on transmission and distribution infrastructure, indicating high capital intensiveness.
+
+**4. Risk Factors:**
+   - Regulatory risks especially relating to return on new and existing energy efficiency programs.
+   - Decreasing energy prices and market volatility could compress margins further in Power segment.
+   - Dependency on weather conditions which adds variability to performance outcomes.
+   - Litigation and regulatory compliance risks particularly surrounding the business operations of PSEG Power and ongoing investigations.
+
+**5. Forward Looking Statements:**
+   - Non-GAAP operating earnings forecast for 2017: $2.80 to $3 per share.
+   - Continued reliance on regulatory mechanisms for revenue stability, particularly evident in Energy Strong and Gas System Modernization initiatives.
+
+**Investment Stance - Underweight:**
+Given the substantial risks from the early retirement of assets requiring significant pre-tax charges, dependence on regulatory outcomes, and moderate quarterly performance with slight increases in earnings, potential investors might consider an underweight position in PSEG. The projected improvements in operational efficiency and capital investments require close monitoring to ensure they translate into sufficient earnings growth. Further, market conditions influencing the power segment, significant capital requirements, and regulatory dependencies suggest caution.

@@ -1,0 +1,5 @@
+Key financial metrics to focus on from the earnings conference call transcripts include:
+- Revenue growth: The company mentioned activity with AWS customers and the purchase of Reserved Instances and prepaid credits for their account driving an increase in deferred revenue balances. This indicates strong growth in their cloud services and Prime member purchases.
+- Operating income by segment: The company highlighted the inclusion of stock-based compensation in their operating income by segment, indicating transparency in their financial reporting.
+- Tax expense and net income: The company mentioned a change in the recognition of excess tax benefits for stock-based compensation, resulting in a decrease in tax expense for the quarter and a corresponding increase to net income and earnings per share. This change may impact the overall profitability of the company.
+- Cash flow measures: The company mentioned a retrospective adjustment to re-classify excess tax benefits from financing activities to operating activities, resulting in an increase in free cash flow measures for prior periods. This indicates a significant impact on the company's cash flow position.

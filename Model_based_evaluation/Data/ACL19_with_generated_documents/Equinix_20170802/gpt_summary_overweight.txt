@@ -1,0 +1,25 @@
+. 
+
+KEY FINANCIAL METRICS:
+
+Revenue: Second quarter revenues surpassed $1 billion for the first time, reaching $1.066 billion, up 11% over the same quarter last year on a normalized and constant currency basis.
+
+Adjusted EBITDA: $509 million for the quarter, up 10% over the same quarter last year on a normalized and constant currency basis.
+
+AFFO: AFFO growth was 17% year-over-year on a normalized and constant currency basis, reflecting strong operating performance.
+
+Interconnection Revenue: Interconnection revenue grew 17% year-over-year on a normalized and constant currency basis, significantly outpacing colocation revenues, indicating a movement towards Interconnection Oriented Architectures and the rapid adoption of hybrid cloud and multi-cloud as the preferred IT deployment model.
+
+Customer Base: The company now services 42% of the Fortune 500 and 30% of the Global 2000, and is expanding traction with these critical lighthouse accounts.
+
+New Market Expansion: The acquisition of Verizon's 29 data centers has fueled expansion in three new cities: Bogotá, Culpeper, and Houston, advancing the company's name recognition, team size, and ability to access existing federal contracts.
+
+Development Activity: Three new IBXs were opened, expanding Equinix's total global footprint to 182 data centers across 44 markets.
+
+Bookings: Bookings grew across various industry verticals, including networks, financial services, content and digital media, cloud and IT services, and enterprise, with significant wins across diverse segments such as telecom operators, financial services firms, content and digital media companies, and enterprise customers.
+
+M&A Strategy: The company's M&A strategy is focused on extending the networking cloud platform, reaching new markets, enhancing interconnections, and deepening and widening the cloud ecosystem.
+
+Future Growth Focus: The company is focused on pressing its advantage, catching the next wave, and scaling the organization to continue capturing the shift to the cloud and accelerating new customer wins. The company's new President of Strategy, Services, and Innovation is leading the strategic business teams driving the company's next phase of growth.
+
+Overall, with strong financial performance, a robust customer base, and an expansion of market reach, Equinix demonstrates a promising outlook, supporting an 'overweight' investment stance.

@@ -1,0 +1,9 @@
+Based on the information provided in the earnings conference call transcript, there are several key financial metrics that indicate an 'underweight' investment stance for Amazon.com. 
+
+Firstly, the company's Q1 2017 results reflect a decrease in tax expense due to the implementation of a new accounting rule relating to stock-based compensation. This accounting change resulted in an increase to net income and earnings per share. While this may initially appear positive, it is important to consider the impact of accounting changes on the company's financial performance and the potential for a one-time boost to net income that may not be sustainable in future quarters.
+
+Additionally, the increase in deferred revenue balances is driven by AWS customer activity, purchases of Reserved Instances, and Prime member purchases. While this demonstrates strong customer engagement and usage of the company's services, it is also important to consider the sustainability of this growth and the potential impact on future cash flows and profitability.
+
+Furthermore, the presence of stock-based compensation expense in the company's operating income by segment indicates a significant impact on the overall profitability of the business. This suggests that the company's operational performance may be influenced by non-operating factors such as stock-based compensation, which could potentially affect the attractiveness of the stock from an investment perspective.
+
+In conclusion, the key financial metrics highlighted in the earnings conference call transcript, including the impact of accounting changes on net income, the growth in deferred revenue balances, and the presence of stock-based compensation expense in operating income, support an 'underweight' investment stance for Amazon.com. These factors should be carefully considered when evaluating the company's financial performance and prospects for future growth and profitability.

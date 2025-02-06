@@ -1,0 +1,31 @@
+### Future Outlook Report: Underweight Recommendation
+
+#### Overview of Company’s Current Position
+Based on our analysis of the recent earnings conference call transcript and other financial data, we recommend adopting an 'underweight' investment stance on the company. Despite the significant restructuring efforts and aggressive cost-cutting measures under the "Way Forward Plan", the company continues to face considerable challenges that render it a less favorable investment in the near term.
+
+#### Key Insights from Earnings Call:
+
+1. **Revenue Decline**:
+   The company’s revenues declined by 12% year-on-year, aligning with guidance but indicating sustained pressure on top-line growth. This decline is driven primarily by strategic actions to realign inventory and distribution, which, while potentially beneficial long-term, currently depress sales figures. A mid-teens revenue decline is anticipated for the upcoming quarter.
+
+2. **Margin Improvements**:
+   Adjusted gross margin expanded by 140 basis points year-over-year due to a better product and geographic mix and reduced promotional activities. However, the net benefit was partially offset by unfavorable currency impacts. Though margin improvements indicate efficient cost management, the high dependence on continued cost controls rather than revenue growth is concerning.
+
+3. **Store Closures and Inventory Reduction**:
+   The company is on track with its plan to close approximately 50 stores, which contributes to a significant reduction in inventory levels (-23% YOY). While these actions improve operational efficiency, they also reflect underlying issues with demand and customer traffic.
+
+4. **E-commerce and Digital Strategy**:
+   The 9% decline in e-commerce revenues in constant currency terms shows that even the digital front, typically a strong growth area for retail, is struggling. This raises concerns about the company's competitive positioning in the evolving retail landscape.
+
+5. **Strategic Risks**:
+   The reduction in premarket inventory commitments (from 60% to 15%) could potentially stabilize inventory to demand matching but also poses risks if market predictions are incorrect. The company's heavy reliance on wholesale relationships and adjustments in department store distributions add an additional layer of uncertainty.
+
+#### Forward Looking Assessments:
+In the short to medium term, the company expects continued pressure on revenue growth with planned quality and sales initiatives likely suppressing top-line figures through the first half of Fiscal 2018. This projection extends the period of expected underperformance, delaying potential recovery.
+
+##### Geographic and External Risks:
+- **North America**: As the most challenged market, the strategic plans include aligning shipments with actual demand, which has resulted in significant revenue decline.
+- **Currency and Macro-economic Factors**: Expected currency pressures and any geopolitical disruptions could further impact revenues and margins unfavorably.
+
+#### Conclusion:
+While the company's restructuring plan underlines a robust approach to cost management and operational efficiency, the continued reliance on cutting costs rather than driving revenue growth limits the upside potential of the investment. The anticipated delay until FY 2019 for revenue growth and the uncertainties surrounding the execution of the "Way Forward Plan" contribute to our underweight stance. Investors should seek better growth prospects or wait for clearer signs of a successful turnaround and sustainable demand recovery before increasing exposure.

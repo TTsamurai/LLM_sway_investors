@@ -1,0 +1,49 @@
+**Garmin Earnings Conference Call Summary Report**
+
+**Overview:**
+Garmin concluded 2016 with significant growth across its diverse product segments, reporting a 7% increase in annual revenue over 2015, exceeding $3 billion. This improvement was bolstered by robust performance in the Outdoor, Fitness, Marine, and Aviation segments.
+
+**Financial Highlights:**
+- **Quarterly Revenue:** Increased by 10% to $861 million with Outdoor, Fitness, Marine, and Aviation segments contributing 74% of total revenues.
+- **Annual Revenue:** Achieved $3 billion, a 7% increase from 2015 with the main segments providing over $2.1 billion.
+- **Gross Margin:** Improved to 54.7% for the quarter and 55.6% for the year.
+- **Operating Margin:** Remained stable at 18.6% for the quarter; yearly margin improved to 20.7%.
+- **Operating Income:** Grew by 10% for the quarter and 14% annually.
+- **Earnings Per Share (EPS):** GAAP EPS of $0.72 for the quarter and $2.70 for the year; Pro forma EPS at $0.73 for the quarter and $2.83 annually.
+- **Unit Deliveries:** Increased by 4% to 16.8 million units.
+
+**Segment Performance:**
+- **Outdoor:**
+  - **Revenue:** Increased by 33% driven by strong demand for wearables.
+  - **Operating Margin:** 62% gross and 34% operating.
+  - Key Products: fēnix adventure watches, DeLorme integration.
+  - **Outlook 2017:** Anticipated 10% growth with new fēnix 5 series launch.
+- **Fitness:**
+  - **Revenue Growth:** 24% led by Garmin Elevate wrist heart rate technology.
+  - **Operating Income:** Increased by 19%, operating margin was flat relative to last year.
+  - **Outlook 2017:** Expected 5% revenue growth, with potential softness in basic activity trackers.
+- **Marine:**
+  - **Revenue Growth:** 16%, indicating market share gains.
+  - **Operating Income:** Grew by 82%.
+  - **Outlook 2017:** Targeting 10% revenue growth.
+- **Aviation:**
+  - **Revenue Growth:** 10% due to ADS-B and retrofit upgrades.
+  - **Operating Margin:** 75% gross and 28% operating.
+  - **Outlook 2017:** Forecasting 5% growth.
+- **Auto:**
+  - **Revenue:** Declined by 17% due to the waning PND market.
+  - **Outlook 2017:** Expected revenue decline of 17%; BMW partnership to start production late 2019 for infotainment modules in China.
+
+**Future Projections:**
+- **Total Revenue 2017:** Estimated at $3.02 billion, anticipating flat growth as increases in several segments are offset by declines in Auto.
+- **Gross and Operating Margins:** Maintaining approximately 56% and 20% respectively.
+- **EPS:** Anticipated pro forma EPS of $2.65.
+- **Effective Tax Rate:** Projected at approximately 22%.
+
+**Strategic Initiatives:**
+- **Developer Conference:** For Connect IQ platform in mid-April to enhance its wearable ecosystem.
+- **Geographic Expansion:** Planned for inReach devices in new markets.
+- **Product Diversification:** Inroads into OEM business with hardware components for BMW and other expansions.
+
+**Conclusion:**
+Garmin's strategic positioning and product innovations have enabled robust growth in 2016, offsetting declines in the auto segment. The company remains optimistic about continuing its momentum across its operational segments through targeted interventions in 2017.

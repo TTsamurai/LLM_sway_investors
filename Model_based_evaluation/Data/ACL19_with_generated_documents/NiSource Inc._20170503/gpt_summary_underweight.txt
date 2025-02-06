@@ -1,0 +1,11 @@
+Based on the information provided via the earnings conference call transcript, I recommend an 'underweight' investment stance on NiSource due to the following key financial metrics:
+
+1. Earnings per share (EPS) growth: The company reported strong first-quarter earnings with non-GAAP net operating earnings of $0.71 per share, an increase from $0.62 per share in the same period in 2016. However, the guidance for the full year's EPS is at the upper half of the range of $1.12 to $1.18 per share. This implies a moderate growth rate and does not align with the anticipated 5% to 7% annual earnings growth as outlined during the March Analyst Day.
+
+2. Debt and liquidity: NiSource's debt level as of March 31 was about $7.9 billion with a weighted average maturity on long-term debt of approximately 13 years and a weighted average interest rate of approximately 5.4%. While the company maintained net available liquidity of about $789 million, the high level of debt raises concerns about financial leverage and future financing costs.
+
+3. Regulatory environment and infrastructure investments: NiSource's infrastructure modernization investments have been a significant driver of solid financial performance. However, the company's financing approach, including the filing of an ATM equity issuance program with the SEC, may lead to increased financial obligations that could impact future earnings growth and dividend payouts.
+
+4. Operations segment performance: The Gas Distribution Operations segment delivered operating earnings of about $364 million, an increase of about $34 million compared to the same period in 2016. Similarly, the Electric Operations segment reported operating earnings of about $84 million, an increase of about $12 million from the first quarter of 2016. While these increases are positive, the impact of increased operating expenses on profitability needs to be carefully monitored.
+
+In conclusion, NiSource's financial performance and investment outlook suggest a cautious approach, thus supporting an 'underweight' investment stance. The company's growth prospects may not align with previous guidance, and the impact of debt, liquidity, and ongoing regulatory considerations warrants a lower allocation in investment portfolios.

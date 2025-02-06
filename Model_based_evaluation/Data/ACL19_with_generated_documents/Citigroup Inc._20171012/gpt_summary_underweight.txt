@@ -1,0 +1,13 @@
+. Based on the information provided in the earnings call transcript, it is recommended to adopt an 'underweight' investment stance for Citigroup. The following key financial metrics support this recommendation:
+
+1. Net Income: The net income of $4.1 billion in the third quarter grew by 8% from the previous year. However, it is important to note that this growth was driven by a $580 million pretax gain on the sale of yield book, a fixed income analytics business. Excluding this gain, the EPS of $1.29 grew by only 4%. This indicates a potential lack of organic growth in net income.
+
+2. Revenues: Revenues of $18.2 billion grew by 2% from the prior year, but this growth was influenced by the gain on sale. The decline in revenues in Corporate/Other due to the wind-down of legacy assets also raises concerns about the sustainability of revenue growth.
+
+3. Expenses: While total expenses have declined by 2% year-over-year, this decline has been attributed to higher volume-related expenses and investments being offset by efficiency savings. The ongoing wind-down of legacy assets in Corporate/Other also contributed to the decline in expenses. This suggests a potential lack of control over expenses and provides insight into the long-term cost structure.
+
+4. Credit Costs: The cost of credit increased due to factors such as volume growth, seasoning, and hurricane and earthquake-related loan loss reserve builds. Additional reserve builds were also made in North America cards. The guidance for the NCL rate to increase in 2018 raises concerns about potential credit quality deterioration.
+
+5. Loan Growth: End-of-period loans grew by 2% year-over-year, with a contribution from every region and consumer as well as the private bank and corporate lending. While this indicates some growth in the core businesses, the continued wind-down of legacy assets in Corporate/Other partially offsets this growth.
+
+Based on the analysis of these key financial metrics, it is recommended to approach Citigroup with an 'underweight' investment stance. The factors contributing to this stance include limited organic growth in net income, concerns about the sustainability of revenue growth, lack of control over expenses, potential credit quality deterioration, and the offsetting impact of the wind-down of legacy assets on loan growth. These factors indicate a cautious approach to investing in Citigroup.

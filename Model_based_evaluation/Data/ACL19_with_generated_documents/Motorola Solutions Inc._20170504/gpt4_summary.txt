@@ -1,0 +1,52 @@
+# Earnings Conference Call Summary Report - Q1 Results
+
+**Overview:**
+
+- **Revenue:** $1.3 billion, an increase of 7% year-over-year. Excluding Airwave, revenue growth was 3%.
+- **GAAP Operating Earnings:** $176 million, up 76% from the previous year.
+- **Non-GAAP Operating Earnings:** $224 million, representing 17.5% of sales, up 360 basis points from last year.
+- **GAAP EPS:** Increased to $0.45 from $0.10 in Q1 2016.
+- **Non-GAAP EPS:** Rose to $0.71 from $0.52, marking a 37% growth year-over-year.
+- **Backlog:** Ending backlog increased by $129 million year-over-year, with product backlog up $285 million; services backlog down $156 million mainly due to a significant reduction in Airwave backlog.
+
+**Segment Details:**
+
+1. **Products:**
+   - **Revenue:** $703 million, a slight increase from last year.
+   - **Operating Income:** $101 million or 14.4% of sales, up 240 basis points, driven by improved gross margin and decreased operating expenses (OpEx).
+   - **Backlog:** Ended the quarter at $1.6 billion, up 22% driven largely by demand in North America.
+
+2. **Services:**
+   - **Revenue:** $578 million, up 18% from the prior year. Excluding Airwave and Managed and Support Services, growth was 8%.
+   - **Operating Income:** $123 million, an increase of $41 million, with margins at 21.3% due to higher sales and gross margin.
+   - **Backlog:** $6.9 billion, down $156 million impacted heavily by Airwave adjustments.
+
+**Financial Metrics and Cash Flow:**
+
+- **Operating Expenses (OpEx):** Total OpEx was $352 million, down $3 million from last year.
+- **Other Expenses:** $59 million, up from $42 million the previous year.
+- **Net Interest Expense:** $51 million, a slight increase from $49 million last year.
+- **Effective Tax Rate:** Maintained at 26%.
+- **Operating Cash Flow:** Improved significantly to $142 million, up $129 million primarily due to higher earnings and a legal settlement.
+- **Free Cash Flow:** $74 million, an increase of $112 million from last year.
+- **Capital Management:** Repurchased $178 million in stock, paid $77 million in dividends, and invested $55 million in acquisitions.
+
+**Outlook:**
+
+- **Q2 Expectations:** Sales expected to rise by 2-3%, with a Non-GAAP EPS forecast between $0.98 to $1.03.
+- **Full-Year 2017:** Anticipated to be at the higher end of the sales growth guidance at around 2%, with a raised Non-GAAP EPS outlook ranging from $5.08 to $5.23.
+
+**Regional Performance:**
+
+- **Americas:** Revenue grew 3%, strong services demand.
+- **EMEA:** Up by 27%, inclusive of $58 million from Airwave. Excluding Airwave, growth was 2%.
+- **Asia Pacific:** Remained flat; strengths noted in Australian public safety solutions.
+
+**Notable Strategic Movements:**
+
+- Acquisition of Kodiak Networks and introduction of WAVE OnCloud, enhancing product offerings.
+- Significant contracts won in Europe and Northern California, and notable expansions in Argentina.
+- Acquisition of Interexport and a major managed services contract with Victoria Police in Australia.
+
+**Conclusion:**
+The company demonstrates robust financial health with growth across major segments and strategic geographical expansions. Notable product launches and acquisitions are geared towards sustaining competitive advantage and long-term growth. The forecast for the remainder of the year remains positive with expected continued growth in sales and profitability.

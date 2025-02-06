@@ -1,0 +1,42 @@
+**Summary Report: Q1 2017 Earnings Conference Call**
+
+**Introduction:**
+The Q1 2017 earnings report presents a mixed scenario with strong overall revenue growth and operational challenges in specific segments. The core metrics of interest include revenue, earnings per share (EPS), Adjusted EBITDA, and capital allocation details.
+
+**Financial Performance Summary:**
+1. **Total Revenue:**
+   - Q1 2017 revenue experienced a commendable increase of 12%, rising to $1.88 billion, surpassing the initial guidance for the quarter.
+
+2. **Core EPS:**
+   - Core EPS saw a modest rise of 2% to $3.91, which was higher than the forecasted values for the period.
+
+3. **Adjusted EBITDA:**
+   - Adjusted EBITDA was flat at $440 million, primarily affected by substantial reserves at Card Services and a decrease in EBITDA at AIR MILES due to a breakage reset.
+
+4. **Capital Allocation:**
+   - The company was proactive in capital management with $415 million spent on share repurchases under a $500 million board authorization, acquiring 1.7 million shares.
+
+**Segment Performance:**
+
+- **Card Services:**
+  - Revenue increased by 22% to slightly over $1 billion, driven by strong gross yields, increasing by 80 basis points.
+  - The segment recorded an adjusted EBITDA growth of 8% to $331 million despite a $72 million allowance for loan losses.
+
+- **AIR MILES:**
+  - Revenue contracted by 6% to $181 million, primarily due to a 4% fall in miles redeemed.
+  - AIR MILES' adjusted EBITDA plunged by 32% to $35 million, influenced by a lower breakage rate and consequently reduced profitability per mile redeemed.
+
+- **Brand Loyalty:**
+  - Both revenue and adjusted EBITDA decreased by 6% and 14% respectively to $152 million and $24 million, largely due to timing and unfavorable forex impacts.
+
+- **Epsilon:**
+  - This segment showed a strong start with a 7% increase in revenue and a 5% rise in adjusted EBITDA.
+  - There was considerable growth in key product areas such as agency, auto, and CRM.
+
+**Strategic Developments and Future Outlook:**
+- The company is committed to revitalizing Epsilon with a focus on growth in revenue and adjusted EBITDA and stabilizing the technology platform.
+- Efforts are ongoing to retool the AIR MILES model to enhance EBITDA margins, particularly in the latter half of 2017.
+- Card Services will likely see moderation in reserve billing as delinquency trends moderate, with improvements anticipated in subsequent quarters.
+
+**Conclusion:**
+The company is navigating a complex market landscape with strategic investments and operational adjustments aimed at maintaining growth and stability. The key areas of focus remain on optimizing operational efficiency, particularly in Epsilon and AIR MILES, and enhancing shareholder value through robust capital allocation strategies. The ongoing adjustments in the Card Services segment also highlight responsiveness to changing credit environments, ensuring sustained growth in core financial metrics.

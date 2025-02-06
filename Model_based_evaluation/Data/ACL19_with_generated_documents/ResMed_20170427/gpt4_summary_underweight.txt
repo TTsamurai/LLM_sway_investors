@@ -1,0 +1,31 @@
+## Earnings Conference Call Summary – Q3 Fiscal Year 2017
+
+### Company Overview
+The reviewed quarter witnessed robust double-digit global revenue growth, driven predominantly by the Software-as-a-Service (SaaS) sector and new mask products. Significant products mentioned include the launch of the ResMed AirMini, the world’s smallest Continuous Positive Airway Pressure (CPAP) device, and ongoing upgrades of the Brightree and AirView software solutions.
+
+### Financial Highlights
+- **Revenue Growth:** Double-digit increase, although specifics are not detailed.
+- **Non-GAAP Net Operating Profit:** Increased by 13% year-over-year.
+- **Diluted EPS:** Posted at $0.71 on a non-GAAP basis.
+- **SaaS Revenue:** Continued significant growth, fueled by products such as Brightree and AirView.
+  
+### Regional Performance
+- **Americas:** Reported strong double-digit revenue growth, with device revenue growth aligning with the market rate and mask and accessories category growing by 8%.
+- **EMEA and APAC:** Both regions saw a strong 12% increase in mask and accessories sales aided by the launch of the N20 and F20 products.
+
+### Innovation and Market Strategy
+- **Innovations:** Introduction of the ResMed AirMini and enhancements in mask technology (N20 and F20 mask products).
+- **Digital Health Revolution:** Continued focus on connected care solutions, cloud-connected devices, and digital health apps improving patient adherence and lowering setup costs.
+
+### Challenges and Concerns
+- **Supply Constraints:** Throughout Q3, the company faced backorders on some SKUs, although it expects to get supply ahead of demand by Q4. These supply issues could pose risks to customer satisfaction and revenue maximization.
+- **Cost Implications:** Ramp-up in manufacturing to meet demand has led to higher costs, including expenses related to air freight to expedite supply.
+
+### Investment Outlook: Underweight
+Given the strong performance indicators like revenue growth and product innovation, one might lean towards a neutral or overweight recommendation. However, considerations leading to an 'underweight' stance include:
+- **Ongoing Supply Chain Issues:** Despite anticipated resolution in Q4, recurrent supply constraints indicate potential vulnerability in operational efficiency and customer service.
+- **Cost Increases Due to Supply Delays:** The need for air freight incurs additional, potentially unsustainable costs that could impact profit margins if prolonged.
+- **Market Competition and Innovations:** The niche for travel CPAP devices, while growing, might face stiff competition as other market players introduce similar innovations.
+
+### Conclusion
+While ResMed demonstrates strong growth and innovative capabilities, existing supply chain challenges and associated costs may affect its market position and financial health in the short term. Investors are recommended to adopt an 'underweight' stance, closely monitoring the resolution of supply issues and their impact on the cost structure before reassessing the investment position.

@@ -1,0 +1,46 @@
+### Summary Report: Earnings Conference Call – NiSource Inc.
+
+#### Date: First Quarter Earnings Call
+
+#### Key Financial Metrics from the Earnings Call:
+
+1. **Non-GAAP Net Operating Earnings:**
+   - Q1 2017: **$231 million** (or $0.71 per share)
+   - Q1 2016: **$198 million** (or $0.62 per share)
+   - Guidance for 2017: **$1.12 to $1.18 per share**, with expectations now adjusted to the upper half of this range.
+
+2. **GAAP Operating Income:**
+   - Q1 2017: **$417 million**
+   - Q1 2016: **$381 million**
+
+3. **Segment-Level Performance:**
+   - **Gas Distribution Operations:**
+     - Q1 2017: **$364 million** (increase of $34 million from Q1 2016)
+     - Net revenue increase driven mainly by new rates and infrastructure replacement program.
+   - **Electric Operations:**
+     - Q1 2017: **$84 million** (increase of $12 million from Q1 2016)
+     - Revenue growth fueled by new rates from base rate case and increased capital expenditure on transmission projects.
+  
+4. **Operating Expenses:**
+   - Increased by approximately **$29 million** in Gas Distribution, primarily due to increased O&M, depreciation expense, and property taxes.
+   - Increased by approximately **$12 million** in Electric Operations, largely due to increased O&M and expenses related to items rolled into base rate.
+
+5. **Debt and Credit Profile:**
+   - Total Debt as of March 31, 2017: **$7.9 billion**
+   - Weighted average maturity of long-term debt: **13 years**
+   - Weighted average interest rate: **5.4%**
+   - Net available liquidity: **$789 million**
+   - Credit Ratings: S&P: **BBB+**, Moody’s: **Baa2**, Fitch: **BBB** (All stable)
+
+6. **Equity Issuance:**
+   - Filed an ATM equity issuance program with the SEC, consistent with previous announcements and strategies aimed at financing infrastructure investments.
+
+7. **Future Outlook:**
+   - Confirmed annual earnings and dividend growth rate of **5% to 7%** through 2020, as discussed during the Investor Day in March.
+   - Transformation program initiated in the last year aims to stabilize O&M expenses post-2017.
+
+8. **Regulatory and Organizational Updates:**
+   - Merger of NiSource Finance with NiSource Inc. planned to simplify the overall legal and operational structure, pending regulatory approval.
+
+#### Conclusion:
+NiSource Inc. demonstrated solid financial performance in Q1 2017 with significant earnings growth and robust operational advancement, particularly in its Gas Distribution and Electric Operations segments. The company remains strategically positioned for sustained growth facilitated by ongoing infrastructure investments and a stable financial policy aimed at optimizing capital structure and liquidity. The planned corporate restructuring and forward-focused financial guidance strongly position NiSource for future operational efficiencies and profitability enhancements.

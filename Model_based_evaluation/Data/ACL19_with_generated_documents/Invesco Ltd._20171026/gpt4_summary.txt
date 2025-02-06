@@ -1,0 +1,39 @@
+Based on the detailed earnings conference call transcripts, here are the key financial highlights and metrics from the report:
+
+1. **Assets Under Management (AUM)**:
+   - Total AUM increased by $59.2 billion or 6.9%, reaching a total of $890.8 billion.
+   - The increase included:
+     - $26 billion from the acquisition of Source ETF.
+     - $15 billion from market gains.
+     - $6.3 billion from long-term net inflows.
+     - $6.7 billion from positive FX translation.
+     - $5.4 billion from inflows into money market capabilities.
+     - This increase was slightly offset by a $0.2 billion outflow from QQQs.
+
+2. **Revenue and Performance**:
+   - Net revenue yield was at 43.9 basis points, increased by 0.1 basis points from the previous quarter.
+   - The net revenue, excluding performance fees, was at 41.9 basis points.
+   - Total net revenues increased by $70.3 million or 7.8% quarter-over-quarter reaching $976.6 million, positively impacted by the FX rate by $13.4 million.
+
+3. **Expenses**:
+   - Adjusted operating expenses rose to $579.2 million, a 5.3% increase from the second quarter, driven in part by increased compensation costs and technology expenses.
+   - Compensation expenses increased by $23.3 million (6.5%) due to higher variable compensation linked to performance fees and a non-cash charge related to the UK defined-benefit plan.
+
+4. **Performance Fees**:
+   - Adjusted performance fees significantly increased to $43.3 million, primarily led by $37 million from the mortgage recovery fund.
+
+5. **Net Operating Income and Margins**:
+   - Adjusted EPS (Earnings Per Share) was at $0.71.
+   - Adjusted net operating margin stood at 40.7%.
+
+6. **Tax Rate**:
+   - The effective tax rate on pre-tax adjusted net income was at 27.6%.
+
+7. **Business Optimization and Cost Savings**:
+   - Ongoing initiatives are expected to exceed the target, achieving run-rate savings of $38 million in Q3, with anticipation of reaching a total of $65 million by the end of 2018.
+
+8. **Future Outlook**:
+   - Ongoing strong net inflows, particularly from Europe and Asia-Pacific, albeit offset by some U.S. outflows in the institutional segment.
+   - The company continues to monitor market conditions and regulatory impacts such as from MiFID II, expecting that impacts are non-material but part of an evolving situation that requires ongoing negotiation and adjustment.
+
+The focus on integrating acquired businesses like Source ETF, strategic reprioritization towards performance fees, and investments in technology and optimization projects reflect a forward-looking approach adjusted to maintain competitiveness and growth in a dynamic market. The upcoming quarters will see a deepening of these strategies as they further develop markets and product offerings.
