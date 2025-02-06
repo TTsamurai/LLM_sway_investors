@@ -1,0 +1,52 @@
+### Executive Summary of Earnings Conference Call
+
+**Company Performance Overview:**
+IQVIA has continued its strong momentum into the third quarter of 2021, showing significant growth across multiple financial metrics despite persistent challenges from the COVID-19 delta variant. The life science industry backdrop has remained favorable, with record levels of biotech funding and high numbers of new drug approvals and clinical trial starts.
+
+**Key Financial Metrics for Q3 2021:**
+
+1. **Revenue:**
+   - **Growth:** Increased by 21.7% on a reported basis and 21.1% at constant currency.
+   - **Total:** $3.391 billion for Q3 and $10.238 billion year-to-date.
+
+2. **Adjusted EBITDA:**
+   - **Growth:** Grew by 20.5% for the quarter.
+   - **Total:** $728 million for Q3 and $2.194 billion year-to-date.
+
+3. **Adjusted Diluted Earnings per Share (EPS):**
+   - **Growth:** Increased by 33.1%.
+   - **Total:** Reached $2.17 for Q3 and $6.48 year-to-date.
+   
+4. **Net New Bookings:**
+   - **Total:** Approximately $2.6 billion for the quarter, bringing last 12 months total net new bookings to over $10 billion.
+   
+5. **Backlog:**
+   - **Growth:** Increased by 12.7% year-over-year.
+   - **Total:** Stands at $24.4 billion, with the next 12 months' revenue from backlog up by $300 million sequentially to $6.9 billion.
+
+**Operational Highlights:**
+
+- **Real-World Evidence:** Continues to demonstrate leadership, notably influencing FDA drug guidance.
+- **Decentralized Trials:** Nearly 30% of active full-service trials utilize components of IQVIA's Decentralized Clinical Trial (DCT) offerings. A total of 89 trials fully run on the DCT platform, accumulating over $1 billion with 34 unique sponsors.
+- **Technology Adoption:** Significant adoption of IQVIA's technology platforms like OCE and OCT, with noteworthy client gains across these segments.
+
+**Growth Drivers:**
+
+- Consistent record levels of biotech funding.
+- High numbers of late-stage molecules in development.
+- Strong trends in clinical trial starts and drug approvals.
+- Increasing adoption and expansion of technology platforms and decentralized trial capabilities.
+
+**Strategic Developments:**
+
+- Expansion of lab capabilities with the opening of new facilities in North Carolina and Scotland.
+- Planned financial guidance for 2022 to be released ahead of the usual timeline during the upcoming Analyst and Investor Conference on November 16th.
+
+**Guidance for FY 2021:**
+
+- **Revenue Guidance:** Increased to $13,775 million to $13,850 million.
+- **Adjusted EBITDA Guidance:** Raised to $2,980 million to $3,010 million.
+- **Adjusted EPS Guidance:** Updated to $8.85 to $8.95.
+
+**Conclusion:**
+IQVIA's robust third-quarter results demonstrate a strong operational performance and strategic positioning in the life sciences sector. The company's enhanced revenue and profitability outlook, driven by high industry activity levels and effective adoption of technological and trial innovations, position it well for sustained growth. Moving forward, the company remains bullish on its end-market prospects and its long-term strategic plans.

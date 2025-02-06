@@ -1,0 +1,54 @@
+**Summary Report: Earnings Conference Call**
+
+**Date of Call:** [Specific date of the call]
+**Corporate Participants:**
+- Jeff Sprecher – Chairman and CEO
+- Warren Gardiner – Chief Financial Officer
+- Ben Jackson – President
+- Lynn Martin – President of Fixed Income and Data Services
+
+**Key Financial Metrics and Highlights:**
+
+1. **Adjusted Earnings Per Share (EPS):**
+   - **Q3 Results:** $1.30, up 34% year-over-year.
+   - **Historical Context:** Best third quarter in company history.
+
+2. **Net Revenues:**
+   - **Q3 Total:** $1.8 billion (record level), 11% increase year-over-year.
+   - **Contribution:** Growth across all business segments.
+
+3. **Transaction and Recurring Revenues:**
+   - **Transaction Revenues:** Grew 13%.
+   - **Recurring Revenues:** Increased 10%, accounting for nearly half of the business.
+
+4. **Operating Expenses and Margins:**
+   - **Q3 Adjusted Operating Expenses:** $755 million; $720 million excluding Bakkt.
+   - **Adjusted Operating Margin:** 60%, an increase of over 100 basis points year-over-year.
+
+5. **Cash Flow and Leverage:**
+   - **Year-to-date Free Cash Flow:** Nearly $2 billion.
+   - **Leverage:** Reduced to under 3.25 times, nearly a year ahead of schedule.
+
+6. **Capital Returns and Investments:**
+   - **Share Repurchases:** Up to $250 million planned for Q4.
+   - **Divestments:** $1.2 billion stake in Coinbase; agreement to sell Euroclear stake for approximately $820 million.
+   - **Future Plans:** To update 2022 capital return plans early next year.
+
+7. **Segment Performance Overview:**
+   - **Exchange Segment:** Q3 net revenues were $959 million, a 16% increase, driven by strong performance in interest rates and energy.
+   - **Fixed Income and Data Services:** Q3 revenues were $477 million, up 6%. Recurring revenue growth also at 6%.
+   - **Mortgage Technology:** Despite industry challenges, Q3 revenues grew by 7% to a record $366 million.
+
+8. **Future Guidance:**
+   - **Q4 Operating Expenses:** Expected to be between $737 million to $747 million.
+   - **Exchange Segment Recurring Revenues:** Expected between $330 million to $335 million.
+   - **Fixed Income and Data Services:** Expected Q4 recurring revenues to improve sequentially to $415 million to $420 million.
+   - **Mortgage Technology:** Q4 recurring revenues expected to grow to $147 million to $152 million, representing approximately 25% year-over-year growth at the midpoint.
+
+**Strategic Overview:**
+- **Long-term Growth:** Supported by secular tailwinds across asset classes.
+- **Investment in Technology and Data:** Central to strategic positioning, with a focus on environmental products, fixed income electronification, and mortgage technology.
+- **Capital Allocation:** Leveraged recent divestments to enhance shareholder value and re-invest in core growth areas.
+
+**Conclusion:**
+The company delivered a robust quarterly performance characterized by double-digit growths in revenues, operating income, and EPS. Strategic investments in technology and new market opportunities have positioned the company favorably for continued growth across diverse economic conditions. The management team remains committed to pursuing operational excellence and strategic expansions to drive shareholder value.

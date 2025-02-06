@@ -1,0 +1,35 @@
+**Recommendation: Underweight**
+
+### Executive Summary
+The recent earnings call for the company provided mixed signals in terms of both performance and projections. Despite the increased demand related COVID-19, there are several underlying factors prompting a cautious view towards the company's stock:
+
+1. **Decline in Adjusted Operating Profit and Earnings Per Share**
+2. **Segment Weaknesses, Particularly in K-C Professional**
+3. **Increased Spending Offsetting Revenue Gains**
+4. **Dependence on COVID-19 Related Demand**
+5. **International Market Volatility and Currency Headwinds**
+
+### Analysis of Financial Health and Future Outlook
+
+**1. Financial Performance Concerns:**
+   - The reported 6% drop in adjusted operating profit and a dip in operating margin by 130 basis points versus the prior year indicate operational difficulties despite revenue gains.
+   - Adjusted earnings per share decreased from $1.84 to $1.72 year-over-year, suggesting profitability challenges.
+
+**2. Business Segment Instability:**
+   - The significant downturn in the K-C Professional segment by 15%, notably from a 35% drop in washroom products, raises concerns about lasting impacts from changing workplace dynamics.
+   - While the Consumer Tissue and Personal Care segments performed well, reliance on just a few performing segments increases risk.
+
+**3. Increased Operational Costs:**
+   - There was notable growth in between-the-line spending by 180 basis points, driven largely by a surge in digital advertising and other non-direct operational expenditure.
+   - Gains from low commodity prices were offset by higher manufacturing costs and adverse effects from foreign exchange rates.
+
+**4. Pandemic-Driven Demand Not Sustainable:**
+   - Demand spikes particularly in Consumer Tissue due to work-from-home trends may not be sustainable post-pandemic.
+   - Any reduction in COVID-19 cases or changes in consumer behavior could impact future sales negatively.
+
+**5. Geopolitical and Economic Exposures:**
+   - The heavy reliance on emerging market growth, especially with the recent acquisition of Softex in Indonesia, pads the potential for variability due to political and economic instability in developing regions.
+
+### Conclusion
+
+Given the substantial risks associated with high operational costs, segment-specific volatility, and inflated pandemic-specific demand, the company's stock poses material risks outweighing potential upsides in the short-to-medium term. Our recommendation is underweight, advising limited exposure until there are clearer signals of stability and long-term profitability beyond the current pandemic-driven market conditions.

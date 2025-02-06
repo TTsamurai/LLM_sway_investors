@@ -1,0 +1,36 @@
+**ONEOK Earnings Conference Call Report: Q1 2021 Summary with Underweight Stance**
+
+**Financial Performance Overview:**
+- **Net Income**: $386 million or $0.86 per share.
+- **Adjusted EBITDA**: Increased to $866 million, up 24% year-over-year, and 17% from Q4 2020.
+- **Distributable Cash Flow**: $660 million, up 27% year-over-year and 28% from Q4 2020.
+- **Dividend**: Maintained at $0.935 per share, annualized at $3.74. 
+- **Debt to EBITDA Ratio**: Improved to 3.98 times from 4.6 times at end of 2020.
+
+**Challenges and Risks:**
+- **Operational Disruptions**: Winter Storm Uri caused significant operational challenges, affecting volumes and increasing electricity costs across all segments.
+- **Volume Variability**: Raw feed throughput in the Rocky Mountain dipped by 11,000 barrels per day due to weather impacts. Mid-Continent and Gulf Coast Permian regions also experienced significant volume reductions.
+- **Ethane Demand Fluctuation**: Reduced demand due to petrochemical facility outages and increased ethane rejection in the Permian Basin.
+
+**Market and Investment Risks:**
+- **Commodity Price Dependency**: Despite a tactical pivot away from dependencies, operational outcomes remain sensitive to natural gas and ethane price fluctuations and commodity market volatilities.
+- **Regulatory Uncertainties**: The potential impact of the Dakota Access Pipeline shutdown continues to loom, creating operational and guidance risks.
+
+**Opportunities and Initiatives:**
+- **Infrastructure Developments**: Growth capital remains targeted with controlled expenses in the Bear Creek plant and the Arbuckle II pipeline.
+- **Sustainability Efforts**: Continued investment in renewable energy solutions and greenhouse gas reduction strategies which align with global shifts toward sustainable energy but come with execution risk.
+- **Increased Demand Post Uri**: Prompt restoration of operations post the storm highlighted the critical nature of ONEOK’s services, potentially increasing customer reliance and long-term contracts.
+
+**Capital Expenditure and Strategic Planning:**
+- **CapEx Guidance**: Remains steady at $525 million to $675 million, significantly reduced from 2020 levels, reflecting focus on disciplined capital management.
+- **Strategic Asset Leverage**: The company benefits from drilled but uncompleted wells and robust natural gas capture which provide a buffer against needed increased rig activity.
+
+**Recommendation: Underweight**
+
+**Rationale**:
+1. **Cyclical Vulnerability**: Significant exposure to weather events and commodity price swings might influence operational stability and profitability.
+2. **Operational Risks**: System disruptions, like those experienced during Winter Storm Uri, underscore the operational risks inherent in the sector.
+3. **Financial Adjustments**: While financial metrics show improvement, much stems from transient market conditions rather than sustainable operational efficiencies.
+4. **Guidance Adjustments**: The raised guidance hinges on continued market recovery post-COVID-19 and stable regulatory environments, which remain uncertain.
+
+While ONEOK demonstrated resilience and strategic response in Q1, the underweight stance reflects concerns over its cyclical exposure, operational risks, and dependency on favorable yet volatile market and environmental conditions. Investors should maintain cautious engagement, keeping close watch on commodity markets, regulatory developments, and operational execution.
